@@ -32,11 +32,32 @@ footer:
 teaser: /assets/images/anycubic-mega-s.jpg
 
 collections:
-  i3_mega:
+  robots:
+    output: true
+    permalink: /:collection/:path/
+  reviews:
     output: true
     permalink: /:collection/:path/
 
 defaults:
+  # _reviews
+  - scope:
+      path: "_reviews"
+      type: reviews
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      read_time: true
+  # _robots
+  - scope:
+      path: "_robots"
+      type: robots
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      read_time: true
   # _pages
   - scope:
       path: "_pages"

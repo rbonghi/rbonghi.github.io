@@ -1,9 +1,13 @@
 ---
 layout: splash
+excerpt: "Robotics and computer vision"
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
   overlay_image: /assets/images/intro.jpg
+  actions:
+  - label: "About me"
+    url: "/about/"
 intro: 
   - excerpt: 'Robotics and computer vision'
 feature_row:
