@@ -89,3 +89,9 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
+
+analytics:
+  provider: "google"
+  google:
+    tracking_id: "UA-92957365-1"
+    anonymize_ip: false # default
