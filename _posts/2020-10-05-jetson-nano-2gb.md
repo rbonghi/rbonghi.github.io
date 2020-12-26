@@ -2,19 +2,25 @@
 title: "NVIDIA Jetson Nano 2Gb"
 excerpt: "The amazing Jetson Nano 2Gb. A new revolution is on the air!"
 header:
-  teaser: /assets/reviews/nano-2gb/Nano2Gb.jpg
+  image: /review/jetson-nano-2gb/Nano2Gb.jpg
+  teaser: /review/jetson-nano-2gb/Nano2Gb.jpg
 author: "Raffaello Bonghi"
+categories:
+  - Review
+tags:
+  - NVIDIA
+  - Jetson
 toc: true
 toc_label: "Table of Contents"
 toc_icon: "cog"
 toc_sticky: true
 gallery:
-  - url: /assets/reviews/nano-2gb/Porg.jpg
-    image_path: /assets/reviews/nano-2gb/Porg.jpg
+  - url: /review/jetson-nano-2gb/Porg.jpg
+    image_path: /review/jetson-nano-2gb/Porg.jpg
     alt: "Porg"
     title: "Porg"
-  - url: /assets/reviews/nano-2gb/Batuu.png
-    image_path: /assets/reviews/nano-2gb/Batuu.png
+  - url: /review/jetson-nano-2gb/Batuu.png
+    image_path: /review/jetson-nano-2gb/Batuu.png
     alt: "Batuu"
     title: "Batuu"
 ---
