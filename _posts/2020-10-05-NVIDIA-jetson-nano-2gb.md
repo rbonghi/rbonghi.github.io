@@ -2,7 +2,7 @@
 title: "NVIDIA Jetson Nano 2Gb"
 excerpt: "The amazing Jetson Nano 2Gb. A new revolution is on the air!"
 header:
-  teaser: /review/jetson-nano-2gb/Nano2Gb.jpg
+  teaser: /review/NVIDIA-jetson-nano-2gb/Nano2Gb.jpg
 categories:
   - Review
 tags:
@@ -13,12 +13,12 @@ toc_label: "Table of Contents"
 toc_icon: "cog"
 toc_sticky: true
 gallery:
-  - url: /review/jetson-nano-2gb/Porg.jpg
-    image_path: /review/jetson-nano-2gb/Porg.jpg
+  - url: /review/NVIDIA-jetson-nano-2gb/Porg.jpg
+    image_path: /review/NVIDIA-jetson-nano-2gb/Porg.jpg
     alt: "Porg"
     title: "Porg"
-  - url: /review/jetson-nano-2gb/Batuu.png
-    image_path: /review/jetson-nano-2gb/Batuu.png
+  - url: /review/NVIDIA-jetson-nano-2gb/Batuu.png
+    image_path: /review/NVIDIA-jetson-nano-2gb/Batuu.png
     alt: "Batuu"
     title: "Batuu"
 ---

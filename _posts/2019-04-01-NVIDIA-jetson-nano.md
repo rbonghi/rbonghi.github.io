@@ -2,7 +2,7 @@
 title: "NVIDIA Jetson Nano"
 excerpt: "In this clip a short introduction about the NVIDIA Jetson Nano and the unboxing of the board. We can see the comparison between the other NVIDIA Jetson board, Raspberry Pi and the BeagleBone Black."
 header:
-  teaser: /review/jetson-nano/jetson-nano.jpg
+  teaser: /review/NVIDIA-jetson-nano/jetson-nano.jpg
   video:
     id: KfOjhXq8Um4
     provider: youtube
