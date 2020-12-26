@@ -2,9 +2,7 @@
 title: "NVIDIA Jetson Nano 2Gb"
 excerpt: "The amazing Jetson Nano 2Gb. A new revolution is on the air!"
 header:
-  image: /review/jetson-nano-2gb/Nano2Gb.jpg
   teaser: /review/jetson-nano-2gb/Nano2Gb.jpg
-author: "Raffaello Bonghi"
 categories:
   - Review
 tags:

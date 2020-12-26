@@ -51,7 +51,7 @@ footer:
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/raffaello86"
 
-teaser: /assets/images/anycubic-mega-s.jpg
+teaser: /assets/images/intro.jpg
 
 collections:
   robots:
