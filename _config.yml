@@ -19,6 +19,9 @@ author:
   bio         : "Passion Robotics. Working in Robotics & AI. Ah Yes, in my spare time I work in robotics. Ph.D. in Robotics and automation engineer"
   avatar      : "/assets/images/raffaello.jpg"
   links:
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin-square"
+      url: "https://www.linkedin.com/in/raffaello-bonghi/"
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:raffaello@rnext.it"
@@ -38,6 +41,9 @@ author:
 # Site Footer
 footer:
   links:
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin-square"
+      url: "https://www.linkedin.com/in/raffaello-bonghi/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/raffaello86"
