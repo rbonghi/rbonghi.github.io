@@ -64,8 +64,7 @@ The Jetson Nano 2Gb carrier is compatible with the NVIDIA Jetson Nano 4Gb carrie
 If you already have an NVIDIA Jetson 4Gb you can change the carrier and use on your Jetson Nano 2Gb.
 **PLEASE NOTE**: you can NOT use the NVIDIA Jetson Xavier NX carrier on your Jetson Nano 2Gb
 
-{% include figure image_path="/assets/reviews/nano-2gb/JetsonNanoCarriers.jpg" alt="NVIDIA Jetson Nano carriers" caption="NVIDIA Jetson Nano carriers" %}
-
+![NVIDIA Jetson Nano carriers](JetsonNanoCarriers.jpg)
 # Architecture and specifications
 
 The NVIDIA Jetson Nano 2Gb use the same architecture of the 4Gb version, the main difference is the Memory size, only 2Gb. The NVIDIA Jetson Nano use a ARM57 CPU with a NVIDIA Maxwell 128core GPU, but below a short list of the main specifications for this developer kit:
@@ -98,7 +97,7 @@ Compared to the NVIDIA Jetson Nano 4Gb with Unity, disable the desktop and work 
 
 The only personal negative point, I did not use before the LXDE desktop and I spent a lot of time finding all simple application to work with it.
 
-{% include figure image_path="/assets/reviews/nano-2gb/LXDE-JetsonNano2Gb.png" alt="NVIDIA Jetson Nano 2Gb – LXDE" caption="NVIDIA Jetson Nano 2Gb – LXDE" %}
+![NVIDIA Jetson Nano 2Gb – LXDE](LXDE-JetsonNano2Gb.png)
 
 Another interesting note is the Code Name evolution, we are following the names of actors or plants in the last Star Wars trilogy. Yes is silly, but NVIDIA engineers for this family of board use characters in Star Wars! 🙂 
 
@@ -113,7 +112,7 @@ The Jetson Nano 4Gb is the Porg were a species of sea-dwelling bird. They were n
 
 The NVIDIA Deep Learning Institute (DLI) is launching the NVIDIA Jetson AI Certification Program, a series of hands-on self-paced educational tutorials, video walkthroughs, and project-based assessments aimed at educators and learners. The Jetson AI Fundamentals course teaches the fundamentals of training/inference workflow, data collection, and real-time computer vision. It covers classification and regression networks, along with object detection and semantic segmentation.
 
-{% include figure image_path="/assets/reviews/nano-2gb/JetsonAiCertification.png" alt="Jetson AI Certification" caption="Jetson AI Certification" %}
+![Jetson AI Certification](JetsonAiCertification.png)
 
 The course also covers building autonomous robots using JetBot and
 implementing road following, collision avoidance, and object following:
@@ -128,12 +127,12 @@ There are currently two certifications included in the program:
 ## Jetson Community Projects
 There are amazing NVIDIA Jetson projects available, yes, sure, I kindly suggest first for all my jetson-stats to read the status of your board, but as well there are other friends that are made really cool projects, below I list some projects that I suggest:
 
-| Project | Author | Image | Description |
-|---------|--------|-------|-------------|
-| jetson-stats | [Raffaello Bonghi](http://rnext.it/) | ![jetson-stats](jtop.gif) | Jetson-stats is a package to monitoring and controls your NVIDIA Jetson [Xavier NX, Nano, AGX Xavier, TX1, TX2] Works with all NVIDIA Jetson ecosystem. When you install jetson-stats are included:<br/>-[jtop](https://pypi.org/project/jetson-stats/#jtop), [jetson_config](https://pypi.org/project/jetson-stats/#jetson_config), [jetson_release](https://pypi.org/project/jetson-stats/#jetson_release), [jetson_swap](https://pypi.org/project/jetson-stats/#jetson_swap), [jetson variables](https://pypi.org/project/jetson-stats/#jetson_variables) |
-| Fever control with Jetson Nano & Lepton3 | [Walter "Myzhar" Lucetti](https://developer.nvidia.com/embedded/community/www.myzhar.com) | | A useful application for the COVID19 era to control the human temperature and issue alarms in case of fever. This year, the year of COVID19, I decided to get that project out of the drawer and to adapt it to Nvidia Jetson Nano to realize an application to control human body temperature and issue alerts in case of fever. |
-| Real-time human pose estimation | | | This project features multi-instance pose estimation accelerated by NVIDIA TensorRT. It is ideal for applications where low latency is necessary. It includes:<br/>– Training scripts to train on any key point task data in MSCOCO format<br/>– A collection of models that may be easily optimized with TensorRT using torch2trt<br/>This project can be used easily for the task of human pose estimation or extended for something new.|
-| Recognizing sign language with Jetson Nano | [Dennis Faucher](https://twitter.com/dennisfaucher) | | The Jetson Nano caches this model into memory and uses its 128 core GPU to recognize live images at up to 60fps. That high fps live recognition is what sets the Nano apart from other IoT devices. I have been hearing recommendations toward “Train in the cloud, deploy at the edge” and this seemed like a good reason to test that concept. Mission accomplished. |
+| Project | Image | Description |
+|---------|-------|-------------|
+| **jetson-stats**<br/>by [Raffaello Bonghi](http://rnext.it/) | ![[jetson-stats]](https://github.com/rbonghi/jetson_stats/wiki/images/jtop.gif) | Jetson-stats is a package to monitoring and controls your NVIDIA Jetson [Xavier NX, Nano, AGX Xavier, TX1, TX2] Works with all NVIDIA Jetson ecosystem. When you install jetson-stats are included:<br/>-[jtop](https://pypi.org/project/jetson-stats/#jtop), [jetson_config](https://pypi.org/project/jetson-stats/#jetson_config), [jetson_release](https://pypi.org/project/jetson-stats/#jetson_release), [jetson_swap](https://pypi.org/project/jetson-stats/#jetson_swap), [jetson variables](https://pypi.org/project/jetson-stats/#jetson_variables) |
+| **Fever control with Jetson Nano & Lepton3**<br/>by [Walter "Myzhar" Lucetti](https://developer.nvidia.com/embedded/community/www.myzhar.com) | ![Jetson Fever control](community-fever_control_lepton3.jpg) | A useful application for the COVID19 era to control the human temperature and issue alarms in case of fever. This year, the year of COVID19, I decided to get that project out of the drawer and to adapt it to Nvidia Jetson Nano to realize an application to control human body temperature and issue alerts in case of fever. |
+| **Real-time human pose estimation** | ![realtime pose estimation](realtime-pose-estimation.png) | This project features multi-instance pose estimation accelerated by NVIDIA TensorRT. It is ideal for applications where low latency is necessary. It includes:<br/>– Training scripts to train on any key point task data in MSCOCO format<br/>– A collection of models that may be easily optimized with TensorRT using torch2trt<br/>This project can be used easily for the task of human pose estimation or extended for something new.|
+| **Recognizing sign language with Jetson Nano**<br/>by [Dennis Faucher](https://twitter.com/dennisfaucher) | ![Sign language](community-sign_language.png) | The Jetson Nano caches this model into memory and uses its 128 core GPU to recognize live images at up to 60fps. That high fps live recognition is what sets the Nano apart from other IoT devices. I have been hearing recommendations toward “Train in the cloud, deploy at the edge” and this seemed like a good reason to test that concept. Mission accomplished. |
 
 # Benchmarks
 Running inference benchmarks is easy with our benchmarking utility hosted at [jetson_benchmarks](https://github.com/NVIDIA-AI-IOT/jetson_benchmarks.git).
@@ -152,7 +151,7 @@ Once the script starts, it will ask for a password two times, first for setting 
 |6 | 36.6 | ResNet50_224x224 |
 |7 | 42.6 | ssd-mobilenet-v1 |
 
-{% include figure image_path="/assets/reviews/nano-2gb/DeepLearningInferencePerformance.png" alt="Deep Learning Inference Performance on NVIDIA Jetson Nano 2Gb" caption="Deep Learning Inference Performance on NVIDIA Jetson Nano 2Gb" %}
+![Deep Learning Inference Performance on NVIDIA Jetson Nano 2Gb](DeepLearningInferencePerformance.png)
 
 Jetson Nano 2GB Developer Kit supports a diverse set of AI models and frameworks and delivers best-in-class performance demanded by AI practitioners and engineers today. Other alternatives in the market like Raspberry Pi-4 or Google Coral just do not have the performance that current AI projects demand. NVIDIA Jetson Nano 2GB Developer Kit offers up to 200X the performance of Raspberry Pi 4 though being in a similar price range.
 
@@ -171,4 +170,4 @@ Below is a table comparing Jetson Nano 2GB Developer Kit features with Raspberry
 
 The below graph shows AI inference performance of Jetson Nano 2GB Developer Kit compared to Raspberry-Pi 4 and Google Coral.
 
-{% include figure image_path="/assets/reviews/nano-2gb/ComparisonJetsonNano2Gb.png" alt="Comparison Jetson Nano 2Gb" caption="Comparison Jetson Nano 2Gb" %}
+![Comparison Jetson Nano 2Gb](ComparisonJetsonNano2Gb.png)
