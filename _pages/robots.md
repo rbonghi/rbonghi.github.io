@@ -2,7 +2,7 @@
 title: Robots
 layout: collection
 permalink: /robot/
-collection: robots
+collection: robot
 entries_layout: grid
 classes: wide
 ---

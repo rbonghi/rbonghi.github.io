@@ -6,6 +6,8 @@ header:
   overlay_filter: "0.5"
   overlay_image: /assets/images/intro.jpg
   actions:
+  - label: "💖 Sponsor"
+    url: "https://github.com/sponsors/rbonghi"
   - label: "About me"
     url: "/about/"
 intro: 
@@ -15,14 +17,14 @@ feature_row:
     alt: "Panther"
     title: "🐆 Panther"
     excerpt: "Panther an autonomous tracked robot"
-    url: "panther"
+    url: "https://rpanther.github.io/"
     btn_label: "Read More"
     btn_class: "btn--primary"
   - image_path: /assets/images/nanosaur.jpg
     alt: "NanoSaur"
     title: "🦕 NanoSaur"
     excerpt: "The smallest Jetson Nano Robot"
-    url: "nanosaur"
+    url: "https://rnanosaur.github.io/"
     btn_label: "Read More"
     btn_class: "btn--primary"
   - image_path: /assets/images/jtop.gif

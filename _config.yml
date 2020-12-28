@@ -60,7 +60,10 @@ footer:
 teaser: /assets/images/intro.jpg
 
 collections:
-  robots:
+  robot:
+    output: true
+    permalink: /:collection/:path/
+  project:
     output: true
     permalink: /:collection/:path/
 
@@ -78,7 +81,16 @@ defaults:
   # _robots
   - scope:
       path: "_robots"
-      type: robots
+      type: robot
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      read_time: true
+  # _projects
+  - scope:
+      path: "_projects"
+      type: project
     values:
       layout: single
       author_profile: true
