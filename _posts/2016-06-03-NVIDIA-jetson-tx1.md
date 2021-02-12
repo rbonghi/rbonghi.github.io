@@ -2,7 +2,7 @@
 title: "NVIDIA Jetson TX1"
 excerpt: "The Jetson TX1 is a new board in NVIDIA embedded board family. This new board has new performance oriented for robotics application, drones, and other. In fact, this board has a compact form factor in only 50mm x 90mm."
 header:
-  teaser: /review/NVIDIA-jetson-tx1/jetsonTX1.jpg
+  teaser: /assets/review/NVIDIA-jetson-tx1/jetsonTX1.jpg
 categories:
   - Review
 tags:
@@ -13,16 +13,16 @@ toc_label: "Table of Contents"
 toc_icon: "cog"
 toc_sticky: true
 gallery:
-  - url: /review/NVIDIA-jetson-tx1/core_and_carrier_tx1.jpg
-    image_path: /review/NVIDIA-jetson-tx1/core_and_carrier_tx1.jpg
+  - url: /assets/review/NVIDIA-jetson-tx1/core_and_carrier_tx1.jpg
+    image_path: /assets/review/NVIDIA-jetson-tx1/core_and_carrier_tx1.jpg
     alt: "Jetson TX1 development board"
     title: "Jetson TX1 development board"
-  - url: /review/NVIDIA-jetson-tx1/TX1_core_front.jpg
-    image_path: /review/NVIDIA-jetson-tx1/TX1_core_front.jpg
+  - url: /assets/review/NVIDIA-jetson-tx1/TX1_core_front.jpg
+    image_path: /assets/review/NVIDIA-jetson-tx1/TX1_core_front.jpg
     alt: "Jetson TX1 core – front"
     title: "Jetson TX1 core – front"
-  - url: /review/NVIDIA-jetson-tx1/TX1_core_back.jpg
-    image_path: /review/NVIDIA-jetson-tx1/TX1_core_back.jpg
+  - url: /assets/review/NVIDIA-jetson-tx1/TX1_core_back.jpg
+    image_path: /assets/review/NVIDIA-jetson-tx1/TX1_core_back.jpg
     alt: "Jetson TX1 core – back"
     title: "Jetson TX1 core – back"
 ---

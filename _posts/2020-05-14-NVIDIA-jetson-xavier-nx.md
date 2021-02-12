@@ -2,7 +2,7 @@
 title: "NVIDIA Jetson Xavier NX"
 excerpt: "NVIDIA Jetson Xavier NX is the newest addition to the Jetson platform, delivering high performance in a very small form factor and power envelope, and it is not a substitution of the previous Jetson Nano in only 80mm x 100mm."
 header:
-  teaser: /review/NVIDIA-jetson-xavier-nx/xavierNX.jpg
+  teaser: /assets/review/NVIDIA-jetson-xavier-nx/xavierNX.jpg
 categories:
   - Review
 tags:
@@ -13,30 +13,30 @@ toc_label: "Table of Contents"
 toc_icon: "cog"
 toc_sticky: true
 gallery:
-  - url: /review/NVIDIA-jetson-xavier-nx/difference_packages.jpg
-    image_path: /review/NVIDIA-jetson-xavier-nx/difference_packages.jpg
+  - url: /assets/review/NVIDIA-jetson-xavier-nx/difference_packages.jpg
+    image_path: /assets/review/NVIDIA-jetson-xavier-nx/difference_packages.jpg
     alt: "Size packages"
     title: "Size packages"
-  - url: /review/NVIDIA-jetson-xavier-nx/difference_packages_2.jpg
-    image_path: /review/NVIDIA-jetson-xavier-nx/difference_packages_2.jpg
+  - url: /assets/review/NVIDIA-jetson-xavier-nx/difference_packages_2.jpg
+    image_path: /assets/review/NVIDIA-jetson-xavier-nx/difference_packages_2.jpg
     alt: "Side packages"
     title: "Side packages"
 board:
-  - url: /review/NVIDIA-jetson-xavier-nx/XavierNX-top.jpg
-    image_path: /review/NVIDIA-jetson-xavier-nx/XavierNX-top.jpg
+  - url: /assets/review/NVIDIA-jetson-xavier-nx/XavierNX-top.jpg
+    image_path: /assets/review/NVIDIA-jetson-xavier-nx/XavierNX-top.jpg
     alt: "NVIDIA Jetson Xavier NX - Top"
     title: "NVIDIA Jetson Xavier NX - Top"
-  - url: /review/NVIDIA-jetson-xavier-nx/XavierNX-botton.jpg
-    image_path: /review/NVIDIA-jetson-xavier-nx/XavierNX-botton.jpg
+  - url: /assets/review/NVIDIA-jetson-xavier-nx/XavierNX-botton.jpg
+    image_path: /assets/review/NVIDIA-jetson-xavier-nx/XavierNX-botton.jpg
     alt: "NVIDIA Jetson Xavier NX - Botton"
     title: "NVIDIA Jetson Xavier NX - Botton"
 code_name:
-  - url: /review/NVIDIA-jetson-xavier-nx/Porg.jpg
-    image_path: /review/NVIDIA-jetson-xavier-nx/Porg.jpg
+  - url: /assets/review/NVIDIA-jetson-xavier-nx/Porg.jpg
+    image_path: /assets/review/NVIDIA-jetson-xavier-nx/Porg.jpg
     alt: "Porg"
     title: "Porg"
-  - url: /review/NVIDIA-jetson-xavier-nx/Jakku.jpg
-    image_path: /review/NVIDIA-jetson-xavier-nx/Jakku.jpg
+  - url: /assets/review/NVIDIA-jetson-xavier-nx/Jakku.jpg
+    image_path: /assets/review/NVIDIA-jetson-xavier-nx/Jakku.jpg
     alt: "Jakku"
     title: "Jakku"
 ---

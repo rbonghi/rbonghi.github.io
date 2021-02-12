@@ -2,7 +2,7 @@
 title: "NVIDIA Jetson TX2"
 excerpt: "A full review of the NVIDIA Jetson TX2. The first feeling with the new embedded board built from NVIDIA, the successor of Jetson TX1."
 header:
-  teaser: /review/NVIDIA-jetson-tx2/jetsonTX2.jpg
+  teaser: /assets/review/NVIDIA-jetson-tx2/jetsonTX2.jpg
 categories:
   - Review
 tags:
@@ -13,19 +13,19 @@ toc_label: "Table of Contents"
 toc_icon: "cog"
 toc_sticky: true
 gallery:
-  - url: /review/NVIDIA-jetson-tx2/GPIOExpansionHeader1.png
-    image_path: /review/NVIDIA-jetson-tx2/GPIOExpansionHeader1.png
+  - url: /assets/review/NVIDIA-jetson-tx2/GPIOExpansionHeader1.png
+    image_path: /assets/review/NVIDIA-jetson-tx2/GPIOExpansionHeader1.png
     alt: "GPIO Expansion Header 1"
     title: "GPIO Expansion Header 1"
-  - url: /review/NVIDIA-jetson-tx2/GPIOExpansionHeader2.png
-    image_path: /review/NVIDIA-jetson-tx2/GPIOExpansionHeader2.png
+  - url: /assets/review/NVIDIA-jetson-tx2/GPIOExpansionHeader2.png
+    image_path: /assets/review/NVIDIA-jetson-tx2/GPIOExpansionHeader2.png
     alt: "GPIO Expansion Header 2"
     title: "GPIO Expansion Header 2"
 ---
 
 The new Jetson TX2 is here! After one year the NVIDIA show a new version of the TX family embedded board.
 
-From the experience with the [NVIDIA Jetson TX1](/review/NVIDIA-jetson-tx1) the [NVIDIA](http://www.nvidia.com/) does not change the form factor and the pinout with the Jetson TX1, but improve the electronic characteristic and the software release, following the evolution of the graphic cards 10xx announced on 6th May and released on 27th May, 2016 use the new Pascal GPU the new Jetson TX2 use the new GPU Pascal.
+From the experience with the [NVIDIA Jetson TX1](/assets/review/NVIDIA-jetson-tx1) the [NVIDIA](http://www.nvidia.com/) does not change the form factor and the pinout with the Jetson TX1, but improve the electronic characteristic and the software release, following the evolution of the graphic cards 10xx announced on 6th May and released on 27th May, 2016 use the new Pascal GPU the new Jetson TX2 use the new GPU Pascal.
 
 With the Jetson TX2 we can start to work with the ubuntu kernel 4.4 and now the CUDA 8.0 has working with the Jetson TX2, and with four CPUs and other two Denver CPUs the new Jetson TX2 can start to improve your experience in robotics and automotive.
 

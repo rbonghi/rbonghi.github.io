@@ -99,9 +99,9 @@ defaults:
       read_time: true
       share: true
       related: true
-  # _robots
+  # _robot
   - scope:
-      path: "_robots"
+      path: ""
       type: robot
     values:
       layout: single
