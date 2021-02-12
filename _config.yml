@@ -3,7 +3,16 @@ minimal_mistakes_skin: "air"
 search: true
 
 title: "rnext"
+subtitle: "robotics and automation"
+name: "Raffaello Bonghi"
+
 repository: "rbonghi/rbonghi.github.io"
+
+twitter_username: raffaello86
+github_username: rbonghi
+
+twitter:
+  username: "raffaello86"
 
 # Build settings
 markdown: kramdown
@@ -14,48 +23,60 @@ paginate: 5 # amount of posts to show
 paginate_path: /page:num/
 # timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
+after_footer_scripts :
+  - /assets/js/cookie-consent.js
+
 author:
   name        : "Raffaello Bonghi"
   bio         : "Passion Robotics. Working in Robotics & AI. Ah Yes, in my spare time I work in robotics. Ph.D. in Robotics and automation engineer"
-  avatar      : "/assets/images/raffaello.jpg"
+  avatar      : "https://rbonghi.github.io/assets/images/raffaello.jpg"
   links:
-    - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin-square"
-      url: "https://www.linkedin.com/in/raffaello-bonghi/"
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:raffaello@rnext.it"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://rnext.it"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/raffaello86"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/raffaello-bonghi/"
     - label: "Github"
       icon: "fab fa-fw fa-github-square"
       url: "https://github.com/rbonghi"
+    - label: "YouTube"
+      icon: "fab fa-fw fa-youtube"
+      url: "https://www.youtube.com/c/RaffaelloBonghi"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/robo.panther"
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:raffaello@rnext.it"
 
 # Site Footer
 footer:
   links:
-    - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin-square"
-      url: "https://www.linkedin.com/in/raffaello-bonghi/"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/raffaello86"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://rnext.it"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/raffaello86"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/raffaello-bonghi/"
+    - label: "Github"
+      icon: "fab fa-fw fa-github-square"
       url: "https://github.com/rbonghi"
+    - label: "YouTube"
+      icon: "fab fa-fw fa-youtube"
+      url: "https://www.youtube.com/c/RaffaelloBonghi"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/raffaello86"
+      url: "https://instagram.com/robo.panther"
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:raffaello@rnext.it"
 
 teaser: /assets/images/intro.jpg
 
