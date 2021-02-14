@@ -1,6 +1,6 @@
 ---
 title: "ROS jetson stats"
-excerpt: "An plugin of ROS web console to interact the robot in an augmented reality environment. With this robot you can draw in real-time a new wall or clean an area with your phone or tablet. This application require another rosnode to fuse the information from the virtual world and real world."
+excerpt: ":turtle: An plugin of ROS web console to interact the robot in an augmented reality environment. With this robot you can draw in real-time a new wall or clean an area with your phone or tablet. This application require another rosnode to fuse the information from the virtual world and real world."
 classes: wide
 number: 2019
 link: https://github.com/rbonghi/ros_jetson_stats
