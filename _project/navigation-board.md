@@ -1,6 +1,6 @@
 ---
 title: "Navigation Board"
-excerpt: "(:it: in Italian) Navigation board"
+excerpt: "(:it: in Italian) With a Microchip dsPIC33 this board can receive different analog values simultaneously. With different filter and other information from the Motion control this board can control the robot with an obstacle avoidance."
 toc: true
 toc_label: "Table of Contents"
 toc_icon: "cog"
