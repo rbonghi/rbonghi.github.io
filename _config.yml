@@ -108,9 +108,9 @@ defaults:
       author_profile: true
       share: true
       read_time: true
-  # _projects
+  # _project
   - scope:
-      path: "_projects"
+      path: ""
       type: project
     values:
       layout: single

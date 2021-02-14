@@ -3,6 +3,8 @@ main:
     url: /about/
   - title: "Robots"
     url: /robot/
+  - title: "Projects"
+    url: /project/
   - title: "Reviews"
     url: /review/
   - title: "Categories"

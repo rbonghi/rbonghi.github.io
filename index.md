@@ -6,7 +6,7 @@ header:
   overlay_filter: "0.5"
   overlay_image: /assets/images/intro.jpg
   actions:
-  - label: "💖 Sponsor"
+  - label: ":sparkling_heart: Sponsor"
     url: "https://github.com/sponsors/rbonghi"
   - label: "About me"
     url: "/about/"
@@ -27,11 +27,11 @@ feature_row:
     url: "https://rpanther.github.io/"
     btn_label: "Read More"
     btn_class: "btn--primary"
-  - image_path: /assets/images/jtop.gif
+  - image_path: /assets/project/jetson-stats/jtop.gif
     alt: "jetson-stats"
     title: "📊 jetson-stats"
     excerpt: "Simple package to monitoring and control your NVIDIA Jetson [Xavier NX, Nano, AGX Xavier, TX1, TX2]"
-    url: "jetson-stats"
+    url: "/project/jetson-stats"
     btn_label: "Read More"
     btn_class: "btn--primary"
 ---
