@@ -5,6 +5,8 @@ classes: wide
 number: 2020
 link: https://nanosaur.ai/
 header:
+  overlay_color: "#000"
+  overlay_filter: "0.5"
   overlay_image: /assets/robot/nanosaur/nanosaur_header.jpg
   teaser: /assets/robot/nanosaur/nanosaur.jpg
   actions:

@@ -7,6 +7,8 @@ toc_icon: "cog"
 toc_sticky: true
 number: 2011
 header:
+  overlay_color: "#000"
+  overlay_filter: "0.5"
   teaser: /assets/robot/explorer/explorer.jpg
   overlay_image: /assets/robot/explorer/explorer_header.jpg
 explorer:

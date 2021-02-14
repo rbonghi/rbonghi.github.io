@@ -5,6 +5,8 @@ link: https://rpanther.github.io/
 classes: wide
 number: 2015
 header:
+  overlay_color: "#000"
+  overlay_filter: "0.5"
   teaser: /assets/robot/panther/panther.jpg
   overlay_image: /assets/robot/panther/panther_header.jpg
   actions:
