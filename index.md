@@ -17,7 +17,7 @@ feature_row:
     alt: "NanoSaur"
     title: "🦕 NanoSaur"
     excerpt: "The smallest Jetson Nano Robot"
-    url: "https://rnanosaur.ai/"
+    url: "https://nanosaur.ai/"
     btn_label: "Read More"
     btn_class: "btn--primary"
   - image_path: /assets/images/panther.jpg

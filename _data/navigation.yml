@@ -1,6 +1,6 @@
 main:
   - title: "About me"
-    url: /about/
+    url: /raffaello-bonghi/
   - title: "Robots"
     url: /robot/
   - title: "Projects"

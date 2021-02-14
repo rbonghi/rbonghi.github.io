@@ -1,6 +1,7 @@
 ---
-title: About
-permalink: /about/
+title: Raffaello Bonghi
+excerpt: "Ph.D. in Automation Engineering"
+permalink: /raffaello-bonghi/
 classes: wide
 ---
  was born in 1986 in Rome, Italy and I’m a Ph.D. in System Engineer. I’ve long experience in robotics, both for academic carrier and hobby, let I’ve gained a significant skill in this field from my experiences in different kind of robotics.
