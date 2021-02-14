@@ -2,7 +2,7 @@
 title: "jetson-easy"
 excerpt: ":nut_and_bolt: Automatically script to setup and configure your NVIDIA Jetson [Nano, Xavier, TX2i, TX2, TX1, TK1] . This script run different modules to update, fix and patch the kernel, install ROS and other..."
 classes: wide
-number: 2016
+number: 2017
 link: https://github.com/rbonghi/jetson_easy
 header:
   overlay_color: "#000"
