@@ -82,7 +82,6 @@ Con questa nuova configurazione l'altezza complessiva dei sensori infrarossi è 
 
 Il design del nuovo telaio in PVC espanso e Poliver, costituito da elementi dodecagonali per quanto riguarda i piani, e i pannelli laterali, entrambi senza angoli smussati (in figura i vari pannelli) assicurano il basso costo nella produzione del telaio con macchine CNC dando, allo stesso tempo, grande solidità alla struttura.
 
-
 Sul secondo piano anch'esso PVC espanso tagliato in forma dodecagonale, sono state montate tutte le varie schede di controllo del robot, "Motion Control", "Navigation board" e la scheda di comunicazione. I vari piani sono fissati mediante un sistema di viti filettate e colonne in carbonio, tale sistema assicura maggiore resistenza agli urti involontari del robot, garantendo un peso minore rispetto a sistemi costituiti da colonne in ottone o acciaio.
 
 Una volta assemblato, il nuovo telaio della piattaforma mobile (in figura) grazie al sistema di pannelli, fa si che i sensori sono disposti con maggiore solidità e sono collocati con maggiore simmetria all'interno della struttura. La scelta di rimuovere i sensori di contatto frontali ha permesso di ridurre il peso del robot complessivamente di 500g e con il sistema di colonne per il montaggio dei vari livelli si è assicurata la possibilità di aggiungere facilmente nuovi piani alla piattaforma mobile per l'aggiunta di nuova componentistica: i sensori ultrasonici, telecamere ed altro (una seconda figura frontale del robot).
