@@ -2,9 +2,10 @@
 title: "NanoSaur"
 excerpt: "The smallest NVIDIA Jetson dinosaur robot"
 classes: wide
+number: 2020
 link: https://nanosaur.ai/
 header:
-  overlay_image: /assets/robot/nanosaur/nanosaur.jpg
+  overlay_image: /assets/robot/nanosaur/nanosaur_header.jpg
   teaser: /assets/robot/nanosaur/nanosaur.jpg
   actions:
     - label: "More Info"

@@ -13,18 +13,18 @@ header:
 intro: 
   - excerpt: 'Robotics and computer vision'
 feature_row:
-  - image_path: /assets/images/panther.jpg
-    alt: "Panther"
-    title: "🐆 Panther"
-    excerpt: "Panther an autonomous tracked robot"
-    url: "https://rpanther.github.io/"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
   - image_path: /assets/images/nanosaur.jpg
     alt: "NanoSaur"
     title: "🦕 NanoSaur"
     excerpt: "The smallest Jetson Nano Robot"
     url: "https://rnanosaur.ai/"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
+  - image_path: /assets/images/panther.jpg
+    alt: "Panther"
+    title: "🐆 Panther"
+    excerpt: "Panther an autonomous tracked robot"
+    url: "https://rpanther.github.io/"
     btn_label: "Read More"
     btn_class: "btn--primary"
   - image_path: /assets/images/jtop.gif
