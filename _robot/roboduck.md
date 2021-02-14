@@ -1,6 +1,7 @@
 ---
 title: "Roboduck"
 excerpt: "(:it: in Italian) After my first year in engineering university in 2007, I was very weary. During the holidays I designed a little robot with two paws controlled by two servos. This robot controlled by a 18F4500 microchip could be obstacle avoidance little obstacle and walk autonomously."
+classes: wide
 number: 2006
 header:
   overlay_color: "#000"
