@@ -1,6 +1,6 @@
 ---
 title: "NanoSaur"
-excerpt: "The smallest NVIDIA Jetson dinosaur robot"
+excerpt: "🦕 The smallest NVIDIA Jetson dinosaur robot"
 classes: wide
 number: 2020
 link: https://nanosaur.ai/
