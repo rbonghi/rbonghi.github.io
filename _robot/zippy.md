@@ -2,7 +2,7 @@
 title: "Zippy"
 excerpt: "My first homemade robot (2003)"
 classes: wide
-number: 2003
+number: 2002
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
