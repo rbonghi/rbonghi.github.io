@@ -9,7 +9,7 @@ header:
   - label: ":sparkling_heart: Sponsor"
     url: "https://github.com/sponsors/rbonghi"
   - label: "About me"
-    url: "/about/"
+    url: "/raffaello-bonghi/"
 intro: 
   - excerpt: 'Robotics and computer vision'
 feature_row:
