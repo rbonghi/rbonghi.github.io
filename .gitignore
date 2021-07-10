@@ -6,3 +6,5 @@ _site/
 .jekyll-metadata
 # config
 Gemfile.lock
+# VScode
+.vscode/

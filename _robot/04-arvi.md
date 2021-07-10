@@ -123,25 +123,25 @@ arvi-actuation2:
     title: "ARVI mini maestro"
 ---
 
-ARVI is composed by three movable elements, two tracks fixed to the robot base by hinges and a system of springs to assure dumping and reduce vibrations during the displacements in the machine. The rover is equipped with a motorized camera, also remotely driven, for visual inspection and to provide a visual feedback signal for autonomous navigation.
+ARVI is composed of three movable elements and two tracks fixed to the robot base by hinges and a system of springs to assure dumping and reduce vibrations during the displacements in the machine. In addition, the rover is equipped with a motorized camera, remotely driven, for visual inspection and to provide a visual feedback signal for autonomous navigation.
 
-The platform has been also equipped with a recovery system for tile found inside the room, such system is particularly complex because of its small size, it was necessary for the prototype use a 3D printer to realize the recovery of the crank mechanism. The latter is also provided with a camera and motors to be automated and therefore allow a recovery in the autonomy of the tile. The dimensions are: 28 cm width, 26cm depth and 7cm height.
+The platform has also been equipped with a recovery system for tile found inside the room; such a system is particularly complex because of its small size; the prototype needed to use a 3D printer to realize the recovery of the crank mechanism. The latter provided with camera and motors to be automated and allow recovery in the autonomy of the tile. The dimensions are 28 cm width, 26cm depth, and 7cm height.
 
 # Robot conception
 
-The measures of the FTU section and profile have been the base for the design a mechanical frame and type of “wheel” to sliding in the toroidal pipe.
+The FTU section and profile measures have been the base for the design of a mechanical frame and type of “wheel” to sliding in the toroidal pipe.
 
-The section compare to other Tokamak machines in FTU have a circular shape, with this configuration it is choice a tracked configuration. Inside the vacuum vessel a track can sliding over all holes and if a technicians required a particular inspection to see an hole when ARVI climbing the vacuum vessel. Compare with a wheeled mobile platform a tracked platform does not slide in a pipe and is more stable when cross an hole, but the length of track must have a dimension major than the maximum height inside the chamber.
+The section compares to other Tokamak machines in FTU have a circular shape; with this configuration, it is choice a tracked design. Inside the vacuum vessel, a track can slide over all holes, and if a technician required a separate inspection to see a spot when ARVI is climbing the vacuum vessel. Compare with a wheeled mobile platform, a tracked platform does not slide in a pipe and is more stable when crossing a hole, but the length of the track must have a dimension major than the maximum height inside the chamber.
 
-The tracks in the mobile robot are connected to the base frame with one or more hinges. This new degree of freedom put the track surface completely in contact with circular section in the vacuum vessel. This tricky option reduce the power consumption for tracks motor and keep more stable the mobile platform when the robot sliding.
+The tracks in the mobile robot are connected to the base frame with one or more hinges. This new degree of freedom put the track surface entirely in contact with a circular section in the vacuum vessel. This tricky option reduces the power consumption for the tracks motor and keeps more stable the mobile platform when the robot is sliding.
 
 {% include gallery id="FTU" caption="FTU tokamak" %}
 
-In ARVI was choose to power supply with an external cable. Without batteries and power regulators the robot is lightweight and do not have mechanical complication, only to select a point in chassis where put the power plug. In addiction with the power supply cable is added other two cables. The first one for the communication with the internal electronics components, the mini PC and the motor control board and the last cable to sustain the mechanical frame when the robot is moved inside from the gate. This cable is in nautical steel and have another functionality when the robot is in fault and the technician retrieve the robot inside the chamber.
+In ARVI, was chosen to the power supply with an external cable. Without batteries and power regulators, the robot is lightweight and does not have a mechanical complication, only to select a point in the chassis were put the power plug. In addition with the power supply cable is added other two lines. The thread contains a wire communication with the internal electronic components, the mini PC and the motor control board, and the last cable to sustain the mechanical frame when the robot is moved inside from the gate. This cable is in marine steel and has another functionality when the robot is at fault, and the technician retrieves the robot inside the chamber.
 
-ARVI does not enter autonomously inside the chamber, because the gate have a short width, in table below are collected the gate’s size in the FTU, in figure above. This issue has been solved by insertion with the manipulator FARM with a specific end-effector that contain inside the robot ARVI. When the robot sliding in the chamber unroll all cables inside the end-effector.
+ARVI does not enter autonomously inside the chamber because the gate has a short width. In the table below are collected the gate’s size in the FTU, in the figure above. This issue has been solved by insertion with the manipulator FARM with a specific end-effector inside the robot ARVI. When the robot sliding in the chamber, unroll all cables inside the end-effector.
 
-Usually the FTU vacuum vessel is fully dark and it is required to see in the camera with one or more lights, this issue is solved with one or more high luminance LEDs. A LED have a low power consumption but it have high performance.
+Usually, the FTU vacuum vessel is fully dark, and it is required to see in the camera with one or more lights. This issue is solved with one or more high luminance LEDs. A LED has a low power consumption, but it has high performance.
 
 | FTU tokamak parameters | value | dim. |
 |------------------------|-------|------|
@@ -154,11 +154,11 @@ Usually the FTU vacuum vessel is fully dark and it is required to see in the cam
 
 ## Limiter tiles
 
-In the vacuum vessel the FTU use a block of tiles to confine plasma during reaction. A Block with 30 tiles arranged with 5 x 6 with weight of 18Kg. Usually are removed and substitute with IVROS robot, but this robot must remove only in block.
+In the vacuum vessel, the FTU uses a block of tiles to confine plasma during a reaction. A Block with 30 tiles arranged with 5 x 6 with a weight of 18Kg. Usually are removed and substitute with an IVROS robot, but this robot must remove only in the block.
 
 {% include gallery id="FTU-tiles" caption="FTU tiles" %}
 
-A limiter tile is a parallelepiped block in tungsten where it is placed in center of large size another block with an hole thread with size of $d = 4mm$, in figure above. All tiles are mounted in a particular frame and all are fixed in a support on first wall in vacuum vessel.
+A limiter tile is a parallelepiped block in tungsten where it is placed in the center of large size another block with a hole thread with a length of $d = 4mm$, in the figure above. All tiles are mounted in a particular frame and are fixed in support on the first wall in the vacuum vessel.
 In table 5.2 are collected all information about tile size and position of box and hole thread.
 
 | FTU Limiter tile | value | dim. |
