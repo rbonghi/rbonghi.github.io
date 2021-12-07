@@ -1,6 +1,7 @@
 ---
 title: "Magazines"
 excerpt: "I made severals robot during my childhood, some of these was from magazines. My first one was 'Panettone' a robot with a look like a blue cake."
+permalink: /robot/magazines
 classes: wide
 number: 2001
 header:

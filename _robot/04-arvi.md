@@ -1,6 +1,7 @@
 ---
 title: "ARVI"
 excerpt: "Autonomous Rover for Video Inspection and service. Robot designed and made on my PhD thesis"
+permalink: /robot/arvi
 toc: true
 toc_label: "Table of Contents"
 toc_icon: "cog"

@@ -1,6 +1,7 @@
 ---
 title: "Pulibot"
 excerpt: "(:it: in Italian) A cleaning robot with a swiffer and a Parallax board. (2004)"
+permalink: /robot/pulibot
 classes: wide
 number: 2002
 header:

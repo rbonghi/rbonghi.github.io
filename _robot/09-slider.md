@@ -1,6 +1,7 @@
 ---
 title: "Slider"
 excerpt: "(:it: in Italian) Slider was my last experiment about minisumo robot. This robot built with an old version of Dark Blade board, have a long blade and with two servo can run inside the ring. The robot use a lithium battery and two infrared sensor to recognize the robot. "
+permalink: /robot/slider
 classes: wide
 number: 2003
 header:

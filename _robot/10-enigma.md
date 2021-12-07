@@ -1,6 +1,7 @@
 ---
 title: "Enigma"
 excerpt: "(:it: in Italian) Enigma was my first minisumo project for didactics. The core of this robot was two different controller. The first one with BEAM technology (only two transistor control the robot movement inside the ring and find the enemy. The last one with an little micro 16F628A for expriment in Basic and C."
+permalink: /robot/enigma
 classes: wide
 number: 2003
 header:

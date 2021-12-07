@@ -1,6 +1,7 @@
 ---
 title: "Zippy"
 excerpt: "My first homemade robot (2003)"
+permalink: /robot/zippy
 classes: wide
 number: 2002
 header:

@@ -13,9 +13,9 @@ header:
 intro: 
   - excerpt: 'Robotics and computer vision'
 feature_row:
-  - image_path: /assets/images/nanosaur.jpg
-    alt: "NanoSaur"
-    title: "🦕 NanoSaur"
+  - image_path: https://nanosaur.ai/assets/images/intro.jpg
+    alt: "nanosaur"
+    title: "🦕 nanosaur"
     excerpt: "The smallest Jetson Nano Robot"
     url: "https://nanosaur.ai/"
     btn_label: "Read More"
@@ -34,10 +34,12 @@ feature_row:
     url: "/project/jetson-stats"
     btn_label: "Read More"
     btn_class: "btn--primary"
+footer: 
+  - excerpt: 'I am proudly part of :pizza: [pizzarobotics](https://pizzarobotics.org) community'
 ---
 
 {% include feature_row id="intro" type="center" %}
 
 {% include feature_row %}
 
-{% include feature_row id="feature_row2" type="left" %}
+{% include feature_row id="footer" type="center" %}

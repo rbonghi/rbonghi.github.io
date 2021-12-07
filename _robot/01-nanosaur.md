@@ -1,22 +1,23 @@
 ---
-title: "NanoSaur"
+title: "nanosaur"
 excerpt: "🦕 The smallest NVIDIA Jetson dinosaur robot"
+permalink: /robot/nanosaur
 classes: wide
 number: 2020
 link: https://nanosaur.ai/
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: /assets/robot/nanosaur/nanosaur_header.jpg
-  teaser: /assets/robot/nanosaur/nanosaur.jpg
+  overlay_image: https://nanosaur.ai/assets/images/intro.jpg
+  teaser: https://nanosaur.ai/assets/images/intro.jpg
   actions:
     - label: "More Info"
       url: "https://nanosaur.ai/"
 ---
 
-🦕 NanoSaur is a fully 3D printable robot, made to work on your desk, use a simple camera and use 2 OLED like eyes.
-The size is only 10x12x6cm in only 500g and with a simple power-bank can wandering your desktop autonomously.
+🦕 nanosaur is an 🇮🇹 italian open-source project designed and made by [Raffaello Bonghi](https://rnext.it).
+{: .text-center}
 
-It's little robot for :robot: robotics & :brain: AI education.
+nanosaur is a simple open-source robot based on [NVIDIA Jetson](https://developer.nvidia.com/buy-jetson). The robot is fully 3D printable, able to wander on your desk autonomously and uses a simple camera and two OLEDs — these act as a pair of eyes. It measures a compact 10x12x6cm and it weighs only 500g.
 
 Follow the **direct link** to know more about Nanosaur

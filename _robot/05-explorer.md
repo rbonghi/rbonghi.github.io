@@ -1,6 +1,7 @@
 ---
 title: "Explorer"
 excerpt: "(:it: in Italian) A simple exploration robot"
+permalink: /robot/explorer
 toc: true
 toc_label: "Tavola dei contenuti"
 toc_icon: "cog"

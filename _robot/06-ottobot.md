@@ -1,6 +1,7 @@
 ---
 title: "Ottobot"
 excerpt: "(:it: in Italian) Exploration robot, base with Microchip dsPIC"
+permalink: /robot/ottobot
 toc: true
 toc_label: "Tavola dei contenuti"
 toc_icon: "cog"
