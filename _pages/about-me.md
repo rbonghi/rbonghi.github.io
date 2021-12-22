@@ -23,16 +23,18 @@ I got a Ph.D. in control theory and industrial automation, with a deep focus on 
 # Experience
 
 ## 2021-NOW - NVIDIA  - Developer Relations Manager - AI & Robotics
+**Website:** [NVIDIA](https://www.nvidia.com/)<br/>
 **Location:** Remote
 
 ## 2019-2021 - ARM - AI Technology Engineer
+**Website:** [ARM](https://www.arm.com/)<br/>
 **Location:** Manchester, UK
 
 * Use and make new models for Monocular Depth Estimation (MDE)
 * 3D localization using different technologies (Active and Passive Stereocameras, cams, lidars)
 
 ## 2017-2019 - NTT Data Italia
-
+**Website:** [NTT Data Italia](https://it.nttdata.com/)
 ### Oct 2018 - Sep 2019 - AI Engineer
 **Location:** Milan, Italy
 
