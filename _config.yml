@@ -29,11 +29,8 @@ after_footer_scripts :
 author:
   name        : "Raffaello Bonghi"
   bio         : "Passion Robotics. Working in Robotics & AI. Ah Yes, in my spare time I work in robotics. Ph.D. in Robotics and automation engineer"
-  avatar      : "https://rbonghi.github.io/assets/images/raffaello.jpg"
+  avatar      : "/assets/images/raffaello.jpg"
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://rnext.it"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/raffaello86"
@@ -46,7 +43,10 @@ author:
     - label: "YouTube"
       icon: "fab fa-fw fa-youtube"
       url: "https://www.youtube.com/c/RaffaelloBonghi"
-    - label: "Instagram"
+    - label: "IG Personal"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://instagram.com/raffaello86"
+    - label: "IG Tech"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/robo.panther"
     - label: "Email"
@@ -56,9 +56,6 @@ author:
 # Site Footer
 footer:
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://rnext.it"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/raffaello86"
@@ -73,7 +70,7 @@ footer:
       url: "https://www.youtube.com/c/RaffaelloBonghi"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/robo.panther"
+      url: "https://instagram.com/raffaello86"
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:raffaello@rnext.it"
