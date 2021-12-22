@@ -11,4 +11,4 @@ sort_order: reverse
 
 Robotics is a part of my life!
 
-I built during my childhood until university. Absolutely important for me, the first robot called Zippy my first Minisumo robot called NX-01, and others and others...
+I designed robots from my childhood until university. My first robot was called Zippy, and step by step, I designed mini-sumo robots, rovers, and many others. Watch my list below.
