@@ -1,6 +1,6 @@
 ---
 title: "Explorer"
-excerpt: "(:it: in Italian) A simple exploration robot"
+excerpt: "(:it: in Italian) A simple exploration robot, evolution from Ottobot"
 permalink: /robot/explorer
 toc: true
 toc_label: "Tavola dei contenuti"
