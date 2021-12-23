@@ -13,7 +13,8 @@ header:
       url: "https://www.linkedin.com/in/raffaello-bonghi/"
     - label: "Publications"
       url: "categories/#publications"
-
+    - label: "Events"
+      url: "categories/#events"
 ---
 
 I am the developer relations manager for AI & Robotics at NVIDIA. Since 2015, I have been an NVIDIA Jetson Champ designing multiple ROS/ROS-based robots for outdoor navigation and educational applications. Additionally, I have been involved in developing AI solutions for numerous international clients in the retail and robotics space.
@@ -51,7 +52,7 @@ Highlights:
 * ROS integration and application with Autoware
 * Develop robotic services in automotive environments
 
-### Mar 2017 - Sep 2018 - IoT and Robotics Engineer
+### Mar 2017 - Sep 2017 - IoT and Robotics Engineer
 **Location:** Rome, Italy *for* DICT laboratory for ENEL SpA
 * IoT research and scouting products in domestic and industrial environments
 * IoT analysis and design for new products
