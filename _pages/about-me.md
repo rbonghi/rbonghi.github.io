@@ -12,9 +12,9 @@ header:
     - label: "LinkedIn"
       url: "https://www.linkedin.com/in/raffaello-bonghi/"
     - label: "Publications"
-      url: "categories/#publications"
+      url: "publications"
     - label: "Events"
-      url: "categories/#events"
+      url: "events"
 ---
 
 I am the developer relations manager for AI & Robotics at NVIDIA. Since 2015, I have been an NVIDIA Jetson Champ designing multiple ROS/ROS-based robots for outdoor navigation and educational applications. Additionally, I have been involved in developing AI solutions for numerous international clients in the retail and robotics space.
