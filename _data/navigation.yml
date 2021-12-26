@@ -9,3 +9,13 @@ main:
     url: /review/
   - title: "All posts"
     url: /categories/
+
+about:
+  - title: About
+    children:
+      - title: "- Pubblications"
+        url: publications
+      - title: "- Interviews"
+        url: interview
+      - title: "- Events"
+        url: events

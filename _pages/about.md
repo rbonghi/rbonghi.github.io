@@ -3,6 +3,8 @@ title: Raffaello Bonghi
 excerpt: "Ph.D. in Automation Engineering"
 permalink: /raffaello-bonghi/
 classes: wide
+sidebar:
+  - nav: "about"
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
@@ -13,10 +15,10 @@ header:
       url: "https://www.linkedin.com/in/raffaello-bonghi/"
     - label: "Publications"
       url: "publications"
-    - label: "Events"
-      url: "events"
     - label: "Interviews"
       url: "interview"
+    - label: "Events"
+      url: "events"
 ---
 
 I am the developer relations manager for AI & Robotics at NVIDIA. Since 2015, I have been an NVIDIA Jetson Champ designing multiple ROS/ROS-based robots for outdoor navigation and educational applications. Additionally, I have been involved in developing AI solutions for numerous international clients in the retail and robotics space.
