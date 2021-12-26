@@ -1,7 +1,7 @@
 ---
 title: "Panther"
 excerpt: "🐆 Powerful Autonomous eNTity High-End Robot"
-permalink: /robot/panther
+permalink: /panther
 link: https://rpanther.github.io/
 classes: wide
 number: 2015

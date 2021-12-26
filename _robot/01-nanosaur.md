@@ -1,7 +1,7 @@
 ---
 title: "nanosaur"
 excerpt: "🦕 The smallest NVIDIA Jetson dinosaur robot"
-permalink: /robot/nanosaur
+permalink: /nanosaur
 classes: wide
 number: 2020
 link: https://nanosaur.ai/
