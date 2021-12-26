@@ -15,6 +15,8 @@ header:
       url: "publications"
     - label: "Events"
       url: "events"
+    - label: "Interviews"
+      url: "interview"
 ---
 
 I am the developer relations manager for AI & Robotics at NVIDIA. Since 2015, I have been an NVIDIA Jetson Champ designing multiple ROS/ROS-based robots for outdoor navigation and educational applications. Additionally, I have been involved in developing AI solutions for numerous international clients in the retail and robotics space.

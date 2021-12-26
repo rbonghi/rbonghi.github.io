@@ -1,6 +1,6 @@
 ---
 layout: splash
-excerpt: "Robotics and computer vision"
+excerpt: "Robotics & Automation"
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
@@ -11,7 +11,7 @@ header:
   - label: "About me"
     url: "/raffaello-bonghi/"
 intro: 
-  - excerpt: 'Robotics and computer vision'
+  - excerpt: 'Robotics & Automation'
 feature_row:
   - image_path: https://nanosaur.ai/assets/images/intro.jpg
     alt: "nanosaur"
