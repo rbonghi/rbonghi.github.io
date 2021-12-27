@@ -7,7 +7,7 @@ header:
     - label: "Talk"
       url: "https://www.eventbrite.it/e/registrazione-bang-2021-digital-automation-work-in-progress-184331549627"
 categories:
-  - Interview
+  - Events
 tags:
   - IIBA
 ---
