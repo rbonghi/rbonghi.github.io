@@ -8,7 +8,7 @@ sidebar:
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: /assets/images/Colosseum-panorama.jpg
+  overlay_image: /assets/posts/MFR/2018/02-MFR2018.jpg
   teaser: /assets/images/raffaello.jpg
   actions:
     - label: "LinkedIn"

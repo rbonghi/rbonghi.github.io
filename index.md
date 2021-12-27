@@ -4,7 +4,7 @@ excerpt: "Robotics & Automation"
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: /assets/images/intro.jpg
+  overlay_image: /assets/posts/MFR/2018/01-MFR2018.jpg
   actions:
   - label: ":sparkling_heart: Sponsor"
     url: "https://github.com/sponsors/rbonghi"

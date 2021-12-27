@@ -19,6 +19,66 @@ slam:
     image_path: /assets/robot/dude/SLAM-2.jpg
     alt: "Flap and power bank holder slicer support type tree"
     title: "Flap and power bank holder slicer support type tree"
+omniwheel:
+  - url: /assets/robot/dude/omniwheel_support.jpg
+    image_path: /assets/robot/dude/omniwheel_support.jpg
+    alt: "Omniwheel parts"
+    title: "Omniwheel parts"
+  - url: /assets/robot/dude/omniwheel_support_assembled.jpg
+    image_path: /assets/robot/dude/omniwheel_support_assembled.jpg
+    alt: "Omniwheel support assembled"
+    title: "Omniwheel support assembled"
+chassis-parts:
+  - url: /assets/robot/dude/layers_components.jpg
+    image_path: /assets/robot/dude/layers_components.jpg
+    alt: "Dude chassis parts"
+    title: "Dude chassis parts"
+  - url: /assets/robot/dude/Assembly_parts.jpg
+    image_path: /assets/robot/dude/Assembly_parts.jpg
+    alt: "Dude chassis parts - assembled"
+    title: "Dude chassis parts - assembled"
+chassis-assembly:
+  - url: /assets/robot/dude/motor_support_omniwheel.jpg
+    image_path: /assets/robot/dude/motor_support_omniwheel.jpg
+    alt: "Dude assembly step"
+    title: "Dude assembly step"
+  - url: /assets/robot/dude/motors_omniwheel.jpg
+    image_path: /assets/robot/dude/motors_omniwheel.jpg
+    alt: "Dude assembly step - wheels and motors"
+    title: "Dude assembly step - wheels and motors"
+second-frame:
+  - url: /assets/robot/dude/dude-assembly-second_frame_upper.jpg
+    image_path: /assets/robot/dude/dude-assembly-second_frame_upper.jpg
+    alt: "Dude assembly second frame"
+    title: "Dude assembly second frame"
+  - url: /assets/robot/dude/dude-assembly-second_frame.jpg
+    image_path: /assets/robot/dude/dude-assembly-second_frame.jpg
+    alt: "Dude assembly - prospective"
+    title: "Dude assembly - prospective"
+camera-cover:
+  - url: /assets/robot/dude/dude-xtion.jpg
+    image_path: /assets/robot/dude/dude-xtion.jpg
+    alt: "Dude assembly - camera"
+    title: "Dude assembly - camera"
+  - url: /assets/robot/dude/dude-cover.jpg
+    image_path: /assets/robot/dude/dude-cover.jpg
+    alt: "Dude assembly - cover"
+    title: "Dude assembly - cover"
+imu:
+  - url: /assets/robot/dude/dude-imu.jpg
+    image_path: /assets/robot/dude/dude-imu.jpg
+    alt: "Dude IMU - Extra part"
+    title: "Dude IMU - Extra part"
+  - url: /assets/robot/dude/dude-imu-serial.jpg
+    image_path: /assets/robot/dude/dude-imu-serial.jpg
+    alt: "Dude IMU - Extra part"
+    title: "Dude IMU - Extra part"
+old-pictures:
+  - image_path: "/assets/robot/dude/dude_base_0.png"
+  - image_path: "/assets/robot/dude/dude_base_1.png"
+  - image_path: "/assets/robot/dude/dude_base_2.png"
+  - image_path: "/assets/robot/dude/dude_base_3.png"
+  - image_path: "/assets/robot/dude/dude_base_4.png"
 ---
 
 Dude is a little robot for with two wheels (diameter 7cm and 14cm of wheelbase) and weight about 2 kg. It is equipped by a RGBD sensor, a NVIDIA Jetson TK1 board and the unav motor control board. This robot interact and perceives of obstacles around it. it can send real time all pictures from the environment that surrounds it. The applications for "Dude" are wandering and interaction with humans in unknown environments, you study of intelligent control techniques for human-computer interaction, the children's entertainment, etc etc.
@@ -127,9 +187,13 @@ After cut a **carbon fiber pipe** with internal hole of 4mm and external of 6mm:
 
 With a 3D printer, you print the passive omniwheel support.
 
+{% include gallery id="omniwheel" caption="Dude omniwheel" %}
+
 After the 3D printer finish you should use a spacer to align the omniwheel and with two screws fix the spacer between the hole inside the support.
 
 When is done to cut all parts, you can start to assembly all part to complete the frame of dude robot. I suggest to check all parts and prepare the table to start to build the robot.
+
+{% include gallery id="chassis-parts" caption="Dude Chassis parts" %}
 
 ### Electrical connections
 
@@ -140,6 +204,8 @@ When is done to cut all parts, you can start to assembly all part to complete th
 
 Follow the electrical connection on the picture and build all electrical connection.
 
+{% include figure image_path="/assets/robot/dude/electrical_parts.jpg" alt="Dude electrical schematic" caption="Dude electrical schematic" %}
+
 ## Assembly
 
 Bring all 12 threaded rod 6.5mm of length and assembly long of all holes in the border of the base frame;
@@ -148,12 +214,17 @@ Assembly and block with screws and bolts the two aluminium motor shaft;
 Assembly the passive wheel support on the back of the frame;
 Mount the two motors with two wheels in the shaft.
 
+{% include gallery id="chassis-assembly" caption="Dude Chassis assembly" %}
 
 Use the DC/DC converter and fix with 4 screws near the passive wheel. Inside the two little PVC walls you can try to positioning the lithium battery and check the correct dimension of the first robot plane.
+
+{% include figure image_path="/assets/robot/dude/chassis-battery.jpg" alt="Dude DC/DC and battery" caption="Dude DC/DC and battery" %}
 
 ### Second frame
 
 **Upper** the frame:
+
+{% include figure image_path="/assets/robot/dude/nvidia-tk1-frame.jpg" alt="NVIDIA Jetson TK1 and motor control" caption="NVIDIA Jetson TK1 and motor control" %}
 
 Take your NVIDIA Jetson TK1 and set over the four spacers;
 Same work for the unav. This board must mount in front of the plane;
@@ -162,6 +233,8 @@ Upper the unav mount the ubridge;
 **NOT IN PICTURE** Near the unav mount an DC/DC regulator.
 
 **Below** the frame:
+
+{% include figure image_path="/assets/robot/dude/dude_second_frame.jpg" alt="Dude HUB usb" caption="Dude HUB usb" %}
 
 Below the frame, bring your USB hub and fix with a double-sided adhesive tape;
 Near the usb hub fix an USB serial converter for the unav;
@@ -177,6 +250,8 @@ When all parts fit. Use your 12 bolts to fix the second plane.
 
 Plug last 4mm and 5mm carbon fiber pipes in all rods.
 
+{% include gallery id="second-frame" caption="Dude second frame assembly" %}
+
 ### Camera and cover
 
 Assembly the cover and check if all walls cover enter easily inside the slots in the upper frame;
@@ -185,10 +260,23 @@ Mount over the yellow upper frame the RGBD sensor and put inside the big hole in
 Connect the USB cable on the hub usb inside the robot;
 Block the upper frame with the 4 blue bolts. 
 
+{% include gallery id="camera-cover" caption="Dude camera and cover" %}
+
 ### IMU plane
 
 With the same work to cut the frame of dude, cut the additional 
 
+{% include gallery id="imu" caption="Dude imu" %}
+
+Final result
+
+{% include figure image_path="/assets/robot/dude/dude-imu-assembled.jpg" alt="Dude with IMU assembled" caption="Dude with IMU assembled" %}
+
+### Extension board
+
+From my friend Mauro Soligo (katodo store) I tested the Expansion board for the NVIDIA Jetson TK1
+
+{% include figure image_path="/assets/robot/dude/dude-extension-board.jpg" alt="Dude extension board" caption="Dude extension board" %}
 
 ## Install
 
@@ -303,4 +391,6 @@ source ~/.bashrc
 # Old pictures
 
 Below a short gallery with all pictures
+
+{% include gallery id="old-pictures" caption="Dude old design pictures" %}
 
