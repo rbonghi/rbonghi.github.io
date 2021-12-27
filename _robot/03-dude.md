@@ -19,6 +19,36 @@ slam:
     image_path: /assets/robot/dude/SLAM-2.jpg
     alt: "Flap and power bank holder slicer support type tree"
     title: "Flap and power bank holder slicer support type tree"
+mapping:
+  - url: /assets/robot/dude/dude-mapping.jpg
+    image_path: /assets/robot/dude/dude-mapping.jpg
+    alt: "Dude building a map"
+    title: "Dude building a map"
+  - url: /assets/robot/dude/dude-real-map.png
+    image_path: /assets/robot/dude/dude-real-map.png
+    alt: "Dude mapping with gmapping"
+    title: "Dude mapping with gmapping"
+  - url: /assets/robot/dude/dude-real-map-second.png
+    image_path: /assets/robot/dude/dude-real-map-second.png
+    alt: "Dude mapping with gmapping"
+    title: "Dude mapping with gmapping"
+simulation:
+  - url: /assets/robot/dude/rviz/dude-rviz.png
+    image_path: /assets/robot/dude/rviz/dude-rviz.png
+    alt: "Dude on RVIZ"
+    title: "Dude on RVIZ"
+  - url: /assets/robot/dude/rviz/dude-gazebo.jpg
+    image_path: /assets/robot/dude/rviz/dude-gazebo.jpg
+    alt: "Dude on Gazebo"
+    title: "Dude on Gazebo"
+  - url: /assets/robot/dude/rviz/dude-gazebo-navigation.png
+    image_path: /assets/robot/dude/rviz/dude-gazebo-navigation.png
+    alt: "Dude mapping in simulation"
+    title: "Dude mapping in simulation"
+  - url: /assets/robot/dude/rviz/dude-mapping.png
+    image_path: /assets/robot/dude/rviz/dude-mapping.png
+    alt: "Dude test mapping on gazebo"
+    title: "Dude test mapping on gazebo"
 omniwheel:
   - url: /assets/robot/dude/omniwheel_support.jpg
     image_path: /assets/robot/dude/omniwheel_support.jpg
@@ -97,11 +127,21 @@ Simultaneous Localization And Mapping (SLAM) is used for dude robot to localize 
 
 {% include gallery id="slam" caption="Dude SLAM" %}
 
+and an example of map building
+
+{% include gallery id="mapping" caption="Dude mapping" %}
+
 # Interaction
 
 {% include video id="A2wEXfcD7Sg" provider="youtube" %}
 
 With the SLAM and an high level control dude can interact with the environment. A graphic interface for PC or an web remote control  system. You can set a goal inside a map, built in real time, and you can see the robot build a path and following it.
+
+# Simulation
+
+Dude is on Gazebo as well. In this picture some screenshots in simulation
+
+{% include gallery id="simulation" caption="Dude in simulation" %}
 
 # Open source & open hardware
 
