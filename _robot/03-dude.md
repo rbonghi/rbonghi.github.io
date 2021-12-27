@@ -105,7 +105,7 @@ imu:
     title: "Dude IMU - Extra part"
 old-pictures:
   - image_path: "/assets/robot/dude/dude_base_0.png"
-  - image_path: "/assets/robot/dude/dude_base_1.png"
+  - image_path: "/assets/robot/dude/dude_base_1.jpg"
   - image_path: "/assets/robot/dude/dude_base_2.png"
   - image_path: "/assets/robot/dude/dude_base_3.png"
   - image_path: "/assets/robot/dude/dude_base_4.png"
