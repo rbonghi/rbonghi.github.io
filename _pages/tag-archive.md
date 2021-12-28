@@ -14,4 +14,6 @@ header:
       url: "/categories"
     - label: "📜 by Year"
       url: "/posts"
+sidebar:
+  - nav: "about"
 ---

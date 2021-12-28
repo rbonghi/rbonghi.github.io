@@ -7,15 +7,17 @@ main:
     url: /project/
   - title: "Reviews"
     url: /review/
-  - title: "All posts"
+  - title: "Posts"
     url: /posts/
 
 about:
   - title: About
     children:
+      - title: "- Contact"
+        url: /contact
       - title: "- Publications"
-        url: publications
+        url: /publications
       - title: "- Interviews"
-        url: interview
+        url: /interview
       - title: "- Events"
-        url: events
+        url: /events

@@ -9,7 +9,9 @@ header:
   - label: ":sparkling_heart: Sponsor"
     url: "https://github.com/sponsors/rbonghi"
   - label: "About me"
-    url: "/raffaello-bonghi/"
+    url: "/raffaello-bonghi"
+  - label: "Contact"
+    url: "/contact"
 intro: 
   - excerpt: 'Robotics & Automation'
 feature_row:
