@@ -1,30 +1,34 @@
+# minimal mistakes Jekyll reference
+# https://github.com/mmistakes/minimal-mistakes/blob/master/docs/_config.yml
+
+remote_theme: mmistakes/minimal-mistakes
 
 minimal_mistakes_skin: "air"
-search: true
 
 title: "rnext"
 subtitle: "Robotics & Automation"
-name: "Raffaello Bonghi"
-
+name: &name "Raffaello Bonghi"
+description: &description "Raffaello Bonghi personal website"
+url: https://rbonghi.github.io
 repository: "rbonghi/rbonghi.github.io"
+teaser: /assets/images/intro.jpg
 
-twitter_username: raffaello86
-github_username: rbonghi
+search: true
+search_full_content: true
 
 twitter:
-  username: "raffaello86"
+  username: &twitter "raffaello86"
 
-# Build settings
-markdown: kramdown
-remote_theme: mmistakes/minimal-mistakes
-# Outputting
-permalink: /:categories/:title/
-paginate: 5 # amount of posts to show
-paginate_path: /page:num/
-# timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+social:
+  links: # An array of links to social media profiles
+    - "https://twitter.com/raffaello86"
+    - "https://instagram.com/robo.panther"
 
-after_footer_scripts :
-  - /assets/js/cookie-consent.js
+analytics:
+  provider: "google"
+  google:
+    tracking_id: "UA-92957365-1"
+    anonymize_ip: false # default
 
 author:
   name        : "Raffaello Bonghi"
@@ -74,8 +78,25 @@ footer:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:raffaello@rnext.it"
+    - label: "Terms"
+      icon: "fas fa-fw fa-link"
+      url: "/terms"
 
-teaser: /assets/images/intro.jpg
+# Reading Files
+include:
+  - .htaccess
+  - _pages
+exclude:
+  - README.md
+  - LICENSE
+  - Gemfile
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+lsi: false
+excerpt_separator: "\n\n"
+incremental: false
 
 collections:
   robot:
@@ -123,16 +144,23 @@ defaults:
       layout: single
       author_profile: true
 
-# Reading Files
-include:
-  - .htaccess
-  - _pages
-exclude:
-  - README.md
-  - LICENSE
+# Outputting
+permalink: /:categories/:title/
+paginate: 5 # amount of posts to show
+paginate_path: /page:num/
+# timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 # Plugins (previously gems:)
 plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jemoji
+  - jekyll-include-cache
+
+# mimic GitHub Pages with --safe
+whitelist:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
@@ -147,8 +175,5 @@ tag_archive:
   type: liquid
   path: /tags/
 
-analytics:
-  provider: "google"
-  google:
-    tracking_id: "UA-92957365-1"
-    anonymize_ip: false # default
+after_footer_scripts :
+  - /assets/js/cookie-consent.js

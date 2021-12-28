@@ -2,6 +2,7 @@
 title: "Terms and Privacy Policy"
 permalink: /terms/
 classes: wide
+layout: single
 ---
 
 # Privacy Policy
