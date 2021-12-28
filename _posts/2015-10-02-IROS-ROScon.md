@@ -1,6 +1,7 @@
 ---
 title: "IROS & ROScon 2015"
 excerpt: "International Conference IROS and ROScon 2015"
+classes: wide
 header:
   teaser: /assets/posts/ROSCon2015/02-ROScon2015.jpg
 categories:
@@ -13,6 +14,9 @@ roscon:
   - image_path: "/assets/posts/ROSCon2015/02-ROScon2015-nvidia.jpg"
   - image_path: "/assets/posts/ROSCon2015/02-ROScon2015.jpg"
   - image_path: "/assets/posts/ROSCon2015/ROScon2015.jpg"
+location:
+  latitude: 53.5631705
+  longitude: 9.9754858
 ---
 
 September 20th - October 2nd, 2015
@@ -22,3 +26,5 @@ International Conference on Intelligent Robots and Systems - Exhibition robot Du
 {% include gallery id="roscon" caption="ROScon 2015" %}
 
 Hamburg, Germany. CCH - Congress Center Hamburg, Am Dammtor / Marseiller Straße, 20355
+
+{% google_map zoom="10" %}

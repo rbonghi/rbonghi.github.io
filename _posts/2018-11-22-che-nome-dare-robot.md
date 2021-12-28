@@ -1,6 +1,7 @@
 ---
 title: "Che nome dare al robot"
 excerpt: "La migliore scelta per trovare il nome al tuo robot"
+classes: wide
 permalink: /2008/11/che-nome-da-dare-al-robot/
 categories:
   - Other

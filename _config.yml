@@ -30,6 +30,10 @@ analytics:
     tracking_id: "UA-92957365-1"
     anonymize_ip: false # default
 
+maps:
+  google:
+    api_key: AIzaSyDoyC-cqye7jnmLaKjWzc2txBVzL0wU-7A
+
 author:
   name        : "Raffaello Bonghi"
   bio         : "Passion Robotics. Working in Robotics & AI. Ah Yes, in my spare time I work in robotics. Ph.D. in Robotics and automation engineer"
@@ -158,6 +162,7 @@ plugins:
   - jekyll-feed
   - jemoji
   - jekyll-include-cache
+  - jekyll-maps
 
 # mimic GitHub Pages with --safe
 whitelist:
@@ -167,6 +172,7 @@ whitelist:
   - jekyll-feed
   - jemoji
   - jekyll-include-cache
+  - jekyll-maps
 
 category_archive:
   type: liquid

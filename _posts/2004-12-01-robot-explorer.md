@@ -1,6 +1,7 @@
 ---
 title: "Explorer: I robot esploratori"
 excerpt: "The Explorer robot competition."
+classes: wide
 categories:
   - Publications
 tags:

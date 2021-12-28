@@ -1,6 +1,7 @@
 ---
 title: "IIBA - Digital Automation - Work in progress"
 excerpt: "L’IIBA Italy Chapter, l'associazione leader in Italia per la diffusione della Business Analysis"
+classes: wide
 header:
   teaser: /assets/posts/IIBA2021/IIBA-digital-automation.jpeg
   actions:

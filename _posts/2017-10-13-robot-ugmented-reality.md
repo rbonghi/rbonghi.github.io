@@ -1,6 +1,7 @@
 ---
 title: "Robot augmented reality"
 excerpt: "Poster at NVIDIA GTC Europe 2017 on Robot augmented reality"
+classes: wide
 header:
   teaser: /assets/posts/GTCEU2017/augmented-reality.jpg
 categories:

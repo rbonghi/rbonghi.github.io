@@ -1,6 +1,7 @@
 ---
 title: "A novel approach for Aerial Manipulation"
 excerpt: "We explore the idea of using a fully actuated design for an unmanned aerial vehicle developed for aerial manipulation."
+classes: wide
 categories:
   - Publications
 tags:

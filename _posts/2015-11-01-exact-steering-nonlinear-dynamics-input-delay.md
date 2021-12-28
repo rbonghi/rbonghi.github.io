@@ -1,6 +1,7 @@
 ---
 title: "On the Exact Steering of Finite Sampled Nonlinear Dynamics with Input Delays"
 excerpt: "The paper deals with exact steering predictor-based multirate control of nonlinear dynamics with a non-zero drift term and delayed inputs which admit under feedback a finite-order sampled-data equivalent model."
+classes: wide
 categories:
   - Publications
 tags:

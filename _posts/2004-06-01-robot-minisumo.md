@@ -1,6 +1,7 @@
 ---
 title: "Il sumo robotico"
 excerpt: "The most popular competition in high school"
+classes: wide
 categories:
   - Publications
 tags:

@@ -1,6 +1,7 @@
 ---
 title: "Sampled-Data Stabilization Around the L2 Translunar Libration Point"
 excerpt: "The paper recalls the achievement of quasi-halo orbit following around the L2 translunar libration point via continuous-time nonlinear regulation and presents the corresponding sampled-data design by emulation."
+classes: wide
 categories:
   - Publications
 tags:
