@@ -24,6 +24,8 @@ bundle
 
 ### Theme reference
 
+Allowed plugins https://pages.github.com/versions/
+
 * https://mmistakes.github.io/minimal-mistakes/
 * https://github.com/mmistakes/mm-github-pages-starter
 * https://ptc-it.de/enabling-cookie-consent-with-jekyll-minimal-mistakes/

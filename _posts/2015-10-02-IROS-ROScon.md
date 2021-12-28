@@ -27,4 +27,6 @@ International Conference on Intelligent Robots and Systems - Exhibition robot Du
 
 Hamburg, Germany. CCH - Congress Center Hamburg, Am Dammtor / Marseiller Straße, 20355
 
+<!--
 {% google_map width="100%" zoom="10" %}
+-->

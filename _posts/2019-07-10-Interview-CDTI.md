@@ -22,4 +22,6 @@ location:
 
 Parco dei Principi Grand Hotel & SPA - Via Gerolamo Frescobaldi, 5, 00198 Roma RM
 
+<!--
 {% google_map width="100%" zoom="10" %}
+-->

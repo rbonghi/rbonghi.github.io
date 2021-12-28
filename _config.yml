@@ -30,9 +30,9 @@ analytics:
     tracking_id: "UA-92957365-1"
     anonymize_ip: false # default
 
-maps:
-  google:
-    api_key: AIzaSyDoyC-cqye7jnmLaKjWzc2txBVzL0wU-7A
+#maps:
+#  google:
+#    api_key: AIzaSyDoyC-cqye7jnmLaKjWzc2txBVzL0wU-7A
 
 author:
   name        : "Raffaello Bonghi"
@@ -162,7 +162,7 @@ plugins:
   - jekyll-feed
   - jemoji
   - jekyll-include-cache
-  - jekyll-maps
+#  - jekyll-maps
 
 # mimic GitHub Pages with --safe
 whitelist:
@@ -172,7 +172,7 @@ whitelist:
   - jekyll-feed
   - jemoji
   - jekyll-include-cache
-  - jekyll-maps
+#  - jekyll-maps
 
 category_archive:
   type: liquid
