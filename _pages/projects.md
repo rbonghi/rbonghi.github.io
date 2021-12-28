@@ -7,5 +7,7 @@ entries_layout: grid
 classes: wide
 sort_by: number
 sort_order: reverse
+sidebar:
+  - nav: "about"
 ---
 
