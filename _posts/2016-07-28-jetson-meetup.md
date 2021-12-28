@@ -26,6 +26,3 @@ A talk about Robot Operative System (ROS) and the Jetson TK1 and Jetson TX1 inte
 
 Tokyo, Japan. NVIDIA - ATT New Tower, 13th Floor, 2-11-7 Akasaka, Minato-ku, Tokyo 107-0052 
 
-<!--
-{% google_map width="100%" zoom="10" %}
--->
