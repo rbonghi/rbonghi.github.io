@@ -1,6 +1,6 @@
 ---
 title: "NVIDIA Jetson Nano"
-excerpt: "In this clip a short introduction about the NVIDIA Jetson Nano and the unboxing of the board. We can see the comparison between the other NVIDIA Jetson board, Raspberry Pi and the BeagleBone Black."
+excerpt: "In this video an introduction and NVIDIA Jetson Nano unboxing. Comparison between the other NVIDIA Jetson board, Raspberry Pi and the BeagleBone Black."
 header:
   teaser: /assets/review/NVIDIA-jetson-nano/jetson-nano.jpg
   video:
@@ -13,9 +13,9 @@ tags:
   - Jetson
 ---
 
-In this clip a short introduction about the NVIDIA Jetson Nano and the unboxing of the board. We can see the comparison between the other NVIDIA Jetson board, Raspberry Pi and the BeagleBone Black.
+In this video an introduction and NVIDIA Jetson Nano unboxing. Comparison between the other NVIDIA Jetson board, Raspberry Pi and the BeagleBone Black.
 
-BOM:
+Bill of Materials (BOM):
 * Jetson Nano - https://developer.nvidia.com/buy-jetson
 * ZED Stereocamera - https://www.stereolabs.com/zed/
 * Manga screen2 - https://www.thing-printer.com/product/manga-screen/

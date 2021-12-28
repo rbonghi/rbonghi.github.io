@@ -1,6 +1,6 @@
 ---
 title: "NVIDIA Jetson AGX Xavier"
-excerpt: "In this clip a short introduction about the NVIDIA Jetson Nano and the unboxing of the board. We can see the comparison between the other NVIDIA Jetson board, Raspberry Pi and the BeagleBone Black."
+excerpt: "Jetson AGX Xavier specifications and comparison with other boards"
 classes: wide
 header:
   teaser: /assets/review/NVIDIA-jetson-AGX-xavier/xavier-structure.png
