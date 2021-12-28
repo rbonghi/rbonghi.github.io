@@ -8,12 +8,12 @@ main:
   - title: "Reviews"
     url: /review/
   - title: "All posts"
-    url: /categories/
+    url: /posts/
 
 about:
   - title: About
     children:
-      - title: "- Pubblications"
+      - title: "- Publications"
         url: publications
       - title: "- Interviews"
         url: interview
