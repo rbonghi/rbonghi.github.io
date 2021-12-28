@@ -1,6 +1,6 @@
 ---
 layout: splash
-excerpt: "Robotics & Automation"
+excerpt: "Raffaello Bonghi"
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
