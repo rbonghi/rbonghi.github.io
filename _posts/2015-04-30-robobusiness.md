@@ -28,4 +28,4 @@ Talk: Smart robotics - Easy way to build a new robot for all kind of application
 
 Milan, Italy. Atahotel Expo Fiera - Via Giovanni Keplero, 12, 20016 Pero MI, Italy
 
-{% google_map zoom="10" %}
+{% google_map width="100%" zoom="10" %}
