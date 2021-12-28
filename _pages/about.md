@@ -99,7 +99,9 @@ Offers inventive solutions to engineering problems, guidance on tricky mechanica
 * **Date**: Jun 2013
 * **Honor issuer**: Université Franco Italienne (UFI)
 
-Contribution of mobility on joint program between the university of Rome "La Sapienza" and The Université Paris Sud (Paris XI) for the Thesis on: [FRA] "Applications de l'automatique non linéaire échantillonnée à la robotique mobile" - [ENG] "Non linear sampled-data control for mobile robotics"
+Contribution of mobility on joint program between the university of Rome "La Sapienza" and The Université Paris Sud (Paris XI) for the Thesis on:
+* [FRA] "Applications de l'automatique non linéaire échantillonnée à la robotique mobile"
+* [ENG] "Non linear sampled-data control for mobile robotics"
 
 ### Excellent graduated "Sapienza" - 2011/2012
 * **Date**: Oct 2012
