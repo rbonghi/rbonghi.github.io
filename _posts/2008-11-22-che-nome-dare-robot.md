@@ -1,6 +1,6 @@
 ---
-title: "Che nome dare al robot"
-excerpt: "La migliore scelta per trovare il nome al tuo robot"
+title: "Che nome dare al robot?"
+excerpt: "Un nome per il tuo Aspirapolvere, per il tuo robot da competizione che sia maschile, femminile o goliardico."
 classes: wide
 permalink: /2008/11/che-nome-da-dare-al-robot/
 categories:
