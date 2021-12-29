@@ -29,6 +29,8 @@ analytics:
   google:
     tracking_id: "UA-92957365-1"
     anonymize_ip: false # default
+  google-tag:
+    tracking_id: "GTM-NQ934NG"
 
 #maps:
 #  google:
