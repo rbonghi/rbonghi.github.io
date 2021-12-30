@@ -43,9 +43,11 @@ Stai configurando il tuo robot aspirapolvere e dall'app ti viene richiesto che n
 
 # Introduzione
 
-Come faccio? Solitamente prendo come base di riferimento i [**robot dei film**](#nomi-di-robot-nei-films) che mi hanno più colpito o i [**nomi di robot realmente esistenti**](#nomi-di-robot-reali) ed infine [**costruisco un acronimo**](#come-costruire-un-acronimo) che possa ricordarmi delle caratteristiche per cui l'ho costruito.
+Come faccio? Solitamente prendo come base di riferimento i [**robot dei film**](#nomi-di-robot-nei-films) che mi hanno più colpito o i [**nomi di robot realmente esistenti**](#nomi-di-robot-reali) ed infine [**costruisco un acronimo**](#costruire-un-acronimo-o-un-nome-di-robot) che possa ricordarmi delle caratteristiche per cui l'ho costruito.
 
-Puoi trovare un esempio dei robot che ho realizzato direttmente saltando nel capitolo [**I miei robots**](#i-miei-robots).
+Sicuramente il più grande aiuto viene dalla **fantasia** e magari anche qualche chiacchierata con amici che mi possono dare ulteriori spunti per trovare il nome ideale.
+
+Puoi trovare un esempio dei robot che ho realizzato direttamente saltando nel capitolo [**I miei robots**](#i-miei-robots).
 
 Facciamo un rapido riassunto dei robot di film e reali che mi hanno appossionato e che ho in riferimento quando realizzo o scelgo un nome per i miei robot.
 
@@ -93,7 +95,7 @@ Base perfetta per un nome di robot che non ne vuole sentire di funzionare o che 
 
 Nato dalla fusione di JARVIS ed Ultron e da una gemma dell'infinito. Supereroe buono e compagno di Wanda. Ha una grande saggezza, agilità e potenza.
 
-Stai costruendo un robot umanoide, o un robot di interazione, questo nome è perfetto per te o per costruirci un [acromino](#come-costruire-un-acronimo).
+Stai costruendo un robot umanoide, o un robot di interazione, questo nome è perfetto per te o per costruirci un [acronimo](#costruire-un-acronimo-o-un-nome-di-robot).
 
 ### [Star Wars](https://en.wikipedia.org/wiki/Star_Wars) (Guerre Stellari)
 
@@ -290,7 +292,7 @@ Divenuto popolare in Giappone come primo assistente all'ingresso dei negozi è f
 
 Pepper è un ottima nome se stai facendo un robottino od un braccio robotico che esegue movimenti alla presenza di persone.
 
-# Come costruire un acronimo
+# Costruire un acronimo o un nome per robot
 
 Se i nomi che abbiamo letto in [robot nei films](#nomi-di-robot-nei-films) e [robot reali](#nomi-di-robot-reali) non è sufficiente, possiamo sfruttare la nostra fantasia e costruire un acronimo che meglio risalta le caratteristiche del nostro robot.
 
@@ -300,16 +302,52 @@ A questo punto possiamo usare varie strategie per inventare un nome accattivante
 2. Acronimo che ricorda una peculiarità del robot
 3. Acronimo che combina caratteristiche e/o momenti durante la realizzazione
 
+Se ti serve una mano per generare acronimi, ecco qui di seguito qualche sito:
+* [acronym generator](https://acronym-generator.com/)
+* [acronymify](https://acronymify.com/)
+* [acronymgenerator](https://www.acronymgenerator.net/)
+* [Generatore di acronimi](https://anytexteditor.com/it/acronym-generator)
 
+## Esempio
+
+Facciamo un esempio, abbiamo un robot ottagonale, tipo questo in figura:
+
+{% include figure image_path="/assets/robot/ottobot/ottobot-firstChassis.jpg" alt="Robot misterioso" caption="Robot misterioso" %}
+
+Partiamo da qualche caratteristica che potrebbe tornare utile per costruire l'acronimo:
+* Rosso
+* Ottagonale
+* Sembra un insetto
+* Sembra un [Viking di StarCraft II](https://starcraft.fandom.com/wiki/Viking)
+* Fa esplorazione
+
+Ecco qui di seguito una lista di nomi usciti fuori mescolando caratteristiche e peculiarità del robot o nomi del tutto di fantasia!
+
+* Guglielmino
+* Voyager
+* Viking
+* Phoenix
+* CISTONFILI
+* PEPPILAMMUNI
+* Otto
+* Ottobot
+* ScaraBot
+* Ottoz
+
+Indovinate che nome ho scelto?
+
+[Clicca qui, per scoprirlo!](/robot/ottobot){: .btn .btn--success .btn--x-large}
+
+Altro esempio di robot nato da un acronimo? Il mio robot [Panther](https://rpanther.github.io/)!
 
 # I miei robots
-
-Questi sono i miei ultimi robots che ho progettato e costruito, le pagine sono in inglese, ma ricche di contenuti.
-
-{% include feature_row %}
 
 Per saperne di più dei robot che ho costruito visita la mia lista di robots che ho costruito:
 
 [I miei robots](/robot){: .btn .btn--info .btn--large}
+
+Questi invece, sono i miei ultimi robots che ho progettato e costruito (le pagine sono in inglese).
+
+{% include feature_row %}
 
 Ti è piaciuto questo articolo? condividilo con i tuoi amici!
