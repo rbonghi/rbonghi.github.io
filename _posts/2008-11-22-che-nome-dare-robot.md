@@ -1,6 +1,6 @@
 ---
 title: "Che nome dare al robot?"
-excerpt: ":robot: Un nome per il tuo Aspirapolvere, per il tuo robot da competizione che sia maschile, femminile o goliardico."
+excerpt: "🤖 Un nome per il tuo Aspirapolvere, per il tuo robot da competizione che sia maschile, femminile o goliardico."
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
@@ -40,11 +40,45 @@ L'universo Marvel è una fonte infinita di nomi di robots
 
 {% include figure image_path="/assets/posts/nome-robot/jarvis.jpg" alt="Jarvis" caption="Jarvis nella tuta di IronMan" %}
 
-Jarvis o meglio **J.A.R.V.I.S.** acronimo di Just A Rather Very Intelligent System. Appare già in "Iron Man" nella tuta di Tony Stark ed è l'assistente di Ir
+Jarvis o meglio **J.A.R.V.I.S.** acronimo di Just A Rather Very Intelligent System. Appare già in "Iron Man" nella tuta di Tony Stark ed è l'assistente di Iron man
+
+#### Vision (o Visione)
+
+{% include figure image_path="/assets/posts/nome-robot/Marvel_Vision.jpg" alt="Vision" caption="Vision" %}
+
+#### Ultron
+
+{% include figure image_path="/assets/posts/nome-robot/Marvel_Ultron.jpg" alt="Ultron" caption="Ultron" %}
+
+### Star Wars (Guerre Stellari)
+
+{% include figure image_path="/assets/posts/nome-robot/Star_Wars_Logo.png" alt="Star Wars" caption="Star Wars" %}
+
+{% include figure image_path="/assets/posts/nome-robot/r2d2-and-c3po-star-wars.jpg" alt="C3PO e R2D2" caption="C3PO e R2D2" %}
+
+#### R2-D2 (C1-P8 nome italiano)
+
+#### C-3PO (D-3BO nome italiano)
+
+### Star Trek
+
+{% include figure image_path="/assets/posts/nome-robot/Star-Trek-Logo.png" alt="Star Trek" caption="Star Trek" %}
+
+#### Data
+
+{% include figure image_path="/assets/posts/nome-robot/star-trek-picard-data-brent-spiner.jpg" alt="Data" caption="Data" %}
 
 ### [Io Robots](https://it.wikipedia.org/wiki/Io,_robot_(film))
 
+{% include figure image_path="/assets/posts/nome-robot/Io_Robot.png" alt="NS-5" caption="NS-5" %}
+
 Sonny (NS-5)
+
+### [Short Circuit - Corto circuito](https://it.wikipedia.org/wiki/Corto_circuito_(film))
+
+{% include figure image_path="/assets/posts/nome-robot/Johnny_5.jpg" alt="Johnny 5" caption="Johnny 5" %}
+
+**Johnny 5** nome italiano "Numero 5" 
 
 ## Nomi nei film di animazione
 
@@ -60,12 +94,6 @@ Sonny (NS-5)
 {% include figure image_path="/assets/posts/nome-robot/bymax.jpg" alt="Bymax" caption="Bymax" %}
 
 * Bymax
-
-### [Short Circuit - Corto circuito](https://it.wikipedia.org/wiki/Corto_circuito_(film))
-
-{% include figure image_path="/assets/posts/nome-robot/Johnny_5.jpg" alt="Johnny 5" caption="Johnny 5" %}
-
-* Johnny 5 nome italiano "Numero 5" 
 
 # Nomi di robot reali
 
