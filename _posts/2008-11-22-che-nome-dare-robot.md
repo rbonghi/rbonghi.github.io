@@ -29,6 +29,8 @@ La prima grande fonte di ispirazione sono i film e dal primo film in assoluto [M
 
 Prima di proseguire divido per robot che appaiono nei [film di azione](#nomi-nei-film-dazione) e robot che appaiono nei [film di animazione](#nomi-nei-film-di-animazione), dato che la lista è lunga scorri anche il menu a tendina per cercare il robot che ti interessa di più.
 
+**☠️ Attenzione** In questa sezione possono esserci spoiler a molti film. Proseguire con cautela o salta direttamente a [nomi di robot realmente esistenti](#nomi-di-robot-reali)
+{: .notice--danger}
 ## Nomi nei film d'azione
 
 Si inizia e non si trova mai una fine ai film d'azione con robots! 
@@ -53,13 +55,23 @@ Jarvis o meglio **J.A.R.V.I.S.** acronimo di Just A Rather Very Intelligent Syst
 ### Star Wars (Guerre Stellari)
 
 {% include figure image_path="/assets/posts/nome-robot/Star_Wars_Logo.png" alt="Star Wars" caption="Star Wars" %}
+#### R2-D2 e C-3PO (C1-P8 nome italiano)
 
 {% include figure image_path="/assets/posts/nome-robot/r2d2-and-c3po-star-wars.jpg" alt="C3PO e R2D2" caption="C3PO e R2D2" %}
 
-#### R2-D2 (C1-P8 nome italiano)
+R2-D2 e C-3PO o anche chiamati in italiano C1-P8 e D-3BO
 
-#### C-3PO (D-3BO nome italiano)
+#### K-2SO
 
+{% include figure image_path="/assets/posts/nome-robot/star-wars-droid.jpg" alt="K-2SO" caption="K-2SO" %}
+
+K-2SO appare in [Rougue one](https://it.wikipedia.org/wiki/Rogue_One:_A_Star_Wars_Story)
+
+#### IG-11
+
+{% include figure image_path="/assets/posts/nome-robot/IG-11.jpg" alt="IG-11" caption="IG-11" %}
+
+IG-11 appare in [The Mandalorian](https://it.wikipedia.org/wiki/The_Mandalorian)
 ### Star Trek
 
 {% include figure image_path="/assets/posts/nome-robot/Star-Trek-Logo.png" alt="Star Trek" caption="Star Trek" %}
