@@ -1,8 +1,8 @@
-# rbonghi.github.io - [![CC BY-NC-SA 4.0][cc-by-nc-sa-image]][cc-by-nc-sa]
+# rnext.it - [![CC BY-NC-SA 4.0][cc-by-nc-sa-image]][cc-by-nc-sa]
 
 My personal website
 
-To open the website go to [https://rbonghi.github.io/](https://rbonghi.github.io/)
+To open the website go to [https://rnext.it/](https://rnext.it/)
 
 ## Run locally
 
