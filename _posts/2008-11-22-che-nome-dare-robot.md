@@ -189,25 +189,53 @@ Big Dog è un robot molto rumoroso come avrai sentito nel video, con quel fastid
 
 {% include video id="tF4DML7FIWk" provider="youtube" %}
 
+Atlas è un robot umanoide capace di saltare, fare parkour e giravolte tutto in completa autonomia! Sembra fantascienza, invece è realtà.
+Prodigio dell'ingegneria, con i suoi motori pneumatici ed un sistema di sensori e telecamere il robot riesce a capire autonomamente dove posare il piede o come compiere camminate o balli. Il robot non è in vendita, ed è usato solo per scopi di ricerca,
 
+Il tuo robot è un robot fantascientifico, roba da far invidiare la tua classe o da fare scena quando lo porti ad un evento come il Maker Faire. Il nome Atlas fa per te!
 
-## Asimo - Honda
+## [Asimo](https://asimo.honda.com/) - Honda
 
 {% include video id="QdQL11uWWcI" provider="youtube" %}
 
-## Aibo - Sony
+Quante volte avrò visto i video di Asimo! Non ne ho idea! Robot affascinante e per gli anni della sua realizzazione ancora più fantascientifico di Atlas. Parliamo degli anni pioneristici della robotica umanoide. Siamo negli anni 2000 e [Asimo](https://asimo.honda.com/) fa scena dopo quasi venti anni di sviluppo in Honda. Se te lo stai domandando, Asimo è un progetto abbandonato ed il robot si trova nel museo di **Miraikan** a Tokyo in Giappone.
+
+Questo nome in onore ad [Isaac Asimov](https://en.wikipedia.org/wiki/Isaac_Asimov) che scrisse tantissimi libri di fantascienza tra cui anche Io Robot (che non è il film Io Robot).
+
+Il nome Asimo lo usai più che per un robot, per un server su cui facevo esperimenti di robotica, ma può essere un ottimo riferimento per un robot dai grandi potenziali.
+
+## [AIBO](https://aibo.sony.jp/) - Sony
 
 {% include video id="5ifwGc-0mAY" provider="youtube" %}
 
+I robot della [Boston Dynamics](#boston-dynamics) ancora non esistevano. Ed AIBO fu la prima piattaforma per i robot della [RoboCup](https://www.robocup.org/), un piccolo cagnolino robotico sviluppato nel 1999. Il video precedente mostra la nuova versione del robot dopo tanti e tanti anni di stop.
+Ebbi la fortuna durante i primissimi anni di università (2006) di poterne vedere ancora qualuno in azione ed i movimenti erano poco fluidi rispetto ai robot che vediamo ai nostri giorni, ma con una capacità di funzionamento che era comunque invidiabile per le gare di robotica.
+
+Stai facendo un robot cagnolino o il tuo robot aspirapolvere ti ricorda tanto un cagnolino che gira per casa. AIBO è il match perfetto!
+
 ## Softbank robotics - Aldebaran
+
+Aldebaran compagnia Francese poi acquisita dalla Softbank (Giapponese) è stata tra le prime compagnie capostipite dei primi robot umanoidi commerciali a prezzi "ragionevoli". Divenuta popolare con **NAO** qui di seguito ed in asia a venduto milioni di robot **Pepper**. Se fate un giro in Giappone ne troverete tantissimi nei negozi.
+
+Ma vediamo questi robot in dettaglio.
+
+Ah per ricerca hanno sviluppato anche il robot [**ROMEO**](https://www.youtube.com/watch?v=9SpekYGi-9w)!
 
 **NAO**
 
 {% include video id="2STTNYNF4lk" provider="youtube" %}
 
+Nato come primo robot umanoide da poter avere in casa (prezzi non proprio alla portata di mano) è divenuto popolare come robot ufficiale nella [RoboCup](https://www.robocup.org/) in sostituzione di [AIBO](#aibo---sony) ed ancora odiernamente utilizzato per questo tipo di gare. Se non sei mai andato alla Maker Faire Rome, ti consiglio di farci un salto e vedere questi robot in azione.
+
 **Pepper**
 
 {% include video id="oDeQCIkrLvc" provider="youtube" %}
+
+Robot dalle dimensioni nettamente maggiori di **NAO** dalle sembianze umanoide, ma non bipede. Dotato di due braccia non capaci di sollevare carichi, ma di compiere piccoli gesti, una telecamera, un lidar alla base ed un sensore RGBD per riconoscere gli ostacoli o interegaire con le persone. Peculiarità principale un piccolo monitor touch perfetto per mostrare ai propri clienti prodotti o suggerimenti su come muoversi in un edificio.
+
+Divenuto popolare in Giappone come primo assistente all'ingresso dei negozi è facile ancora adesso trovarlo anche in Italia (ad esempio in aeroporti) come prima accoglienza. (solitamente non lo vedrai mai muoversi autonomamente, ma è più una presenza statica).
+
+Pepper è un ottima nome se stai facendo un robottino od un braccio robotico che esegue movimenti alla presenza di persone.
 
 # Come costruire un acronimo
 
