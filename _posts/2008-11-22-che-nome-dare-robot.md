@@ -56,7 +56,7 @@ Facciamo un rapido riassunto dei robot di film e reali che mi hanno appossionato
 
 La prima grande fonte di ispirazione sono i film e dal primo film in assoluto [Metropolis](https://it.wikipedia.org/wiki/Metropolis_(film_1927)) del 1927 ad oggi ne sono usciti tantissimi e fare una lista completa sarebbe impossibile! :smile: Qui di seguito metterò quelli che mi hanno dato più ispirazione nei nomi dei miei robot o che possono ispirarti nella scelta del tuo nome.
 
-**☠️ ATTENZIONE** In questa sezione possono esserci **SPOILER** di molti films. Proseguire con cautela o salta direttamente a [nomi di robot realmente esistenti](#nomi-di-robot-reali)
+**☠️ ATTENZIONE** In questa sezione possono esserci **SPOILER** di molti films. *Proseguire con cautela* o salta direttamente a [nomi di robot realmente esistenti](#nomi-di-robot-reali)
 {: .notice--danger}
 
 Prima di proseguire ho diviso i robot che appaiono nei [film di azione](#robot-nei-film-dazione) e che appaiono nei [film di animazione](#robot-nei-film-di-animazione). La lista è lunga scorri anche il menu a tendina per cercare il robot che ti interessa di più.
@@ -95,34 +95,57 @@ Nato dalla fusione di JARVIS ed Ultron e da una gemma dell'infinito. Supereroe b
 
 Stai costruendo un robot umanoide, o un robot di interazione, questo nome è perfetto per te o per costruirci un [acromino](#come-costruire-un-acronimo).
 
-### Star Wars (Guerre Stellari)
+### [Star Wars](https://en.wikipedia.org/wiki/Star_Wars) (Guerre Stellari)
 
 {% include figure image_path="/assets/posts/nome-robot/Star_Wars_Logo.png" alt="Star Wars" caption="Star Wars" %}
 
-**R2-D2 e C-3PO (C1-P8 nome italiano)**
+Star Wars, un universo letteralmente senza fine con nomi di robot per tutti i generi e forme. I nomi dei personaggi o di camminatori (I mitici AT-AT) Sono tutti riferimenti perfetti per costruire il nome del tuo robot, che sia un robot aspirapolvere, o un robot dalle sembianze femminili o che più possa essomigliare alle caratteristiche del robot.
 
-{% include figure image_path="/assets/posts/nome-robot/r2d2-and-c3po-star-wars.jpg" alt="C3PO e R2D2" caption="C3PO e R2D2" %}
+Vi consiglio qualche link per trovare tanti altri nomi:
+* [20 star wars droids](https://www.starwars.com/news/20-star-wars-droids)
+* [Droid](https://starwars.fandom.com/wiki/Droid)
+* [Star Wars droids, ranked by usefulness](https://mashable.com/article/star-wars-droids-ranked)
 
-R2-D2 e C-3PO o anche chiamati in italiano C1-P8 e D-3BO
+Qui di seguito partiamo dai nomi più blasonati o più popolari degli ultimi tempi, se manca qualche androide o robot che reputi fondamentale in questa lista scrivimi!
+
+**C-3PO e R2-D2**
+
+{% include figure image_path="/assets/posts/nome-robot/r2d2-and-c3po-star-wars.jpg" alt="C-3PO e R2-D2" caption="C-3PO e R2-D2" %}
+
+C-3PO e R2-D2 o anche chiamati in italiano D-3BO e C1-P8 sono i robot con cui la saga di Start Wars apre nel 1977 e sono ancora oggi un cult per tutte le generazioni. Per chi non li conoscesse, R2-D2 è il piccolo robottino bianco e blu e C-3P0 è l'androide color oro affianco ad esso.
+
+Senza perdere tempo sulle generalità e su cosa fanno nella storia sono i due riferimenti principe per robot di utilità come Robot aspirapolvere, con panni o di servizio per la casa (R2-D2) e robot di servizio o ChatBot quali hanno peculirità simili a C-3PO.
 
 **K-2SO**
 
 {% include figure image_path="/assets/posts/nome-robot/star-wars-droid.jpg" alt="K-2SO" caption="K-2SO" %}
 
-K-2SO appare in [Rougue one](https://it.wikipedia.org/wiki/Rogue_One:_A_Star_Wars_Story)
+K-2SO appare in [Rougue one](https://it.wikipedia.org/wiki/Rogue_One:_A_Star_Wars_Story) ed è un droide imperiale riprogrammato dalla ribellione. Compagno di squadra dell'ufficiale ribelle Cassian Andor aiuterà Jyn Erso a trovare i piani della Morte Nera.
+
+K-2SO è un robot che non è protocollare come C-3PO e non si riserva di dire le cose schiettamente di fronte a persone, è un fedele avversario fino alla fine e capace di difendere fino all'ultimo i propri compagni.
+
+Se il tuo robot non ne sentiva di funzionare, ma dopo tante fatiche ha iniziato eseguire gli ordini ed essere un fedele comagno di squadra un nome come questo potrebbe fare al caso tuo.
 
 **IG-11**
 
 {% include figure image_path="/assets/posts/nome-robot/IG-11.jpg" alt="IG-11" caption="IG-11" %}
 
-IG-11 appare in [The Mandalorian](https://it.wikipedia.org/wiki/The_Mandalorian)
-### Star Trek
+IG-11 appare in [The Mandalorian](https://it.wikipedia.org/wiki/The_Mandalorian), ma un occhio attento lo avrà già visto in [Star Wars Episodio 5 - L'impero colpisce ancora](https://it.wikipedia.org/wiki/L%27Impero_colpisce_ancora) ed è un terribile cacciatore che come Bobba Fett cerca di catturare Han Solo.
+
+In [The Mandalorian](https://it.wikipedia.org/wiki/The_Mandalorian) IG-11 sin dal primo episiodio cerca di catturare la "facile" preda di Baby Yoda o Grogru, ma fa una brutta fine e viene riaddrestrato, diventerà un compagno di squadra assieme a Mando (che ha sempre odiato i Droidi).
+### [Star Trek](https://it.wikipedia.org/wiki/Star_Trek)
 
 {% include figure image_path="/assets/posts/nome-robot/Star-Trek-Logo.png" alt="Star Trek" caption="Star Trek" %}
+
+Star Trek è un'altra popolare serie fantascietifica televisiva con le avventure di James T-Kirk, poi di Jean-Luc Picard e così via tanti altri capitani della famosa astronave spaziale Enterprise.
+
+Come con Star Wars, dilungarsi in questa serie potrebbe non avere veramente una fine e qui mi voglio dedicare a nomi di robot e robot presenti nella saga. Ovviamente il primo della lista è Data!
 
 **Data**
 
 {% include figure image_path="/assets/posts/nome-robot/star-trek-picard-data-brent-spiner.jpg" alt="Data" caption="Data" %}
+
+
 
 ### [Io Robots](https://it.wikipedia.org/wiki/Io,_robot_(film))
 
