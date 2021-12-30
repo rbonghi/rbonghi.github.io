@@ -145,36 +145,66 @@ Come con Star Wars, dilungarsi in questa serie potrebbe non avere veramente una 
 
 {% include figure image_path="/assets/posts/nome-robot/star-trek-picard-data-brent-spiner.jpg" alt="Data" caption="Data" %}
 
+Data, progettato per sembrare umano è un androide che svolge le funzioni di secondo ufficiale, capo operazioni e ufficiale scientifico sull'astronave Enterprise D di Jean-Luc Picard. È dotato di un'avanzata forma di intelligenza artificiale e di un cervello positronico tanto da spingerlo al desiderio di umanità, ed unito alla sua innocenza nel formulare affermazioni che a seconda del contesto possono risultare ingenue, profonde, comiche o offensive per la loro eccessiva sincerità, costituisce il fascino di questa figura.
 
+Come tutti i droidi e robot protocollari, il nome **Data** si presta perfettamente per robot di interazione o robot didattici.
 
-### [Io Robots](https://it.wikipedia.org/wiki/Io,_robot_(film))
+### [Io Robot](https://it.wikipedia.org/wiki/Io,_robot_(film))
 
 {% include figure image_path="/assets/posts/nome-robot/Io_Robot.png" alt="NS-5" caption="NS-5" %}
 
-**Sonny (NS-5)**
+**Sonny (NS-5)** è il robot che fa da parte principale nella storia di questo film, che ricordo non ha nulla (o meglio, pochissimo) a che fare con il libro di [Isaac Asimov](https://en.wikipedia.org/wiki/Isaac_Asimov) **Io Robot**.
+
+Se non avete letto **Io robot** vi consiglio di leggerlo, troverete tantissimi spunti per dare un nome al vostro robot.
+{: .notice}
+
+I robot positronici ormai sono diventati un articolo domestico come un altro, alla portata di tutti e in tutte le case, e il mondo aspetta l'arrivo sul mercato dei nuovissimi **NS-5**, generazione prodotta dalla **U.S. Robots**, azienda leader nella robotica, ma questi robots nel corso della storia impazziscono, tranne uno!
+
+Senza dilungarci nella storia, questo "uno" è proprio **Sonny** un robot del tutto simila agli altri **NS-5**, ma con caratteristiche meccaniche e di Intelligenza Artificiale del tutto più potenti rispetto agli altri, capace di pensare "quasi" come un vero essere umano.
+
+**Sonny** è un nome perfetto per un robot che a furia di tanti e tanti test e perfezionamenti è divenuto il perfetto compagno di casa o di gara.
 
 ### [Short Circuit - Corto circuito](https://it.wikipedia.org/wiki/Corto_circuito_(film))
 
 {% include figure image_path="/assets/posts/nome-robot/Johnny_5.jpg" alt="Johnny 5" caption="Johnny 5" %}
 
-**Johnny 5** nome italiano "Numero 5" 
+L'intramontabile **Johnny 5** (nome italiano "Numero 5")!
+
+Quante volte avrò guardato questo film da bambino, un robot che per un corto circuito diventa inteligente e capace di aiutare i proprio amici. Dotato di due cingoli a forma trapezoidale ed una testa dotata di due telecamere è un fedele amico dalle sembianze quasi umane.
+
+**Johnny 5** è un facile riferimento se il tuo robot è cingolato e magari dotato anche di una stereocamera.
 
 ## Robot nei film di animazione
 
+Come per i film d'azione, la letteratura in film di animazione dedicati ai robot è eterna e raccoglierne i riferimenti principali o più popolari è veramente difficile.
+
+Mi sono soffermato nei film più famosi e che reputo interessanti per i nomi da usare o prendere spunto per i propri robot, se ci fosse un film di animazione che è fondamentale avere in questa lista, non esitare a scrivermi!
+
 ### [Wall-E](https://it.wikipedia.org/wiki/WALL%E2%80%A2E)
 
-{% include figure image_path="/assets/posts/nome-robot/wall-e-eve.jpg" alt="Wall-E ed Eve" caption="Wall-E ed Eve" %}
+{% include figure image_path="/assets/posts/nome-robot/wall-e-eve.jpg" alt="Wall-E ed EVE" caption="Wall-E ed EVE" %}
+
+Film della serie di animazione Pixar in co-produzione con Disney esce nei cinema nel 2008 e diventa un successo!
 
 **Wall-E**
 
+Wall-E il piccolo robottino giallo cingolato che pulisce il pianeta terra dalla sporcizia del genere umano. Qualcosa mi fa pensare che questo nome sia perfetto per un robot aspirapolvere!
 
-**Eve**
+**EVE**
+
+EVE ("Extraterrestrial Vegetation Evaluator", "Esaminatore di vegetazione extraterrestre") è un robot femminile di cui Wall-E se ne innamora perdutamente. Dotato di una Intelligenza Artificiale (AI) molto più performante di Wall-E riconosce la presenza di una piantina nel pianeta terra e porterà nuovamente gli essere umani a vivere sul pianeta.
+
+Se stai costruendo un robot agricolo o un robot che lavora con piante, questo acronimo è una base di partenza ideale.
 
 ### [Big Hero 6](https://it.wikipedia.org/wiki/Big_Hero_6_(film))
 
-{% include figure image_path="/assets/posts/nome-robot/bymax.jpg" alt="Bymax" caption="Bymax" %}
+{% include figure image_path="/assets/posts/nome-robot/bymax.jpg" alt="Baymax" caption="Baymax" %}
 
-**Bymax**
+**Baymax** è il robot di assistenza sanitaria realizzato da Tadashi fratello di Hiro (protagonista della storia) in una futuristica e strana San Francisco che nella storia è San Fransokyo (un incrocio tra San Francisco e Tokyo).
+
+Appare come un rassicurante uomo-palla ed è spesso ritenuto simile a un enorme marshmallow. Viene successivamente modificato da Hiro per combattere il crimine e diventa il suo migliore amico, entrando a far parte dei Big Hero 6. Si attiva al sentire un suono di dolore e si disattiva con la frase "Sono soddisfatto del trattamento".
+
+Se stai costruendo un robot infermiere o di soccorso perché non partire da **Baymax** ?
 
 # Nomi di robot reali
 
