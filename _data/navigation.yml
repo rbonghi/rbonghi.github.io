@@ -11,7 +11,8 @@ main:
     url: /posts/
 
 about:
-  - title: About
+  - title: About me
+    url: /raffaello-bonghi/
     children:
       - title: "- Contact"
         url: /contact

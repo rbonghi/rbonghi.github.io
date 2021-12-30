@@ -23,13 +23,16 @@ Come faccio? Solitamente prendo come base di riferimento i [robot dei film](#nom
 
 Facciamo un rapido riassunto dei robot di film e reali che mi hanno appossionato e che ho in riferimento quando realizzo o scelgo un nome per i miei robot.
 
+**ℹ️ INFO** Articolo sempre in aggiornamento. Se manca qualche informazione o è incompleta non esitare a scrivermi, trovi i miei riferimenti in [contatti](/contact).
+{: .notice--primary}
+
 # Nomi di robot nei films
 
 La prima grande fonte di ispirazione sono i film e dal primo film in assoluto [Metropolis](https://it.wikipedia.org/wiki/Metropolis_(film_1927)) del 1927 ad oggi ne sono usciti tantissimi e fare una lista completa sarebbe impossibile! :smile: Qui di seguito metterò quelli che mi hanno dato più ispirazione nei nomi dei miei robot o che possono ispirarti nella scelta del tuo nome.
 
-Prima di proseguire divido per robot che appaiono nei [film di azione](#nomi-nei-film-dazione) e robot che appaiono nei [film di animazione](#nomi-nei-film-di-animazione), dato che la lista è lunga scorri anche il menu a tendina per cercare il robot che ti interessa di più.
+Prima di proseguire ho diviso i robot che appaiono nei [film di azione](#nomi-nei-film-dazione) e che appaiono nei [film di animazione](#nomi-nei-film-di-animazione). La lista è lunga scorri anche il menu a tendina per cercare il robot che ti interessa di più.
 
-**☠️ Attenzione** In questa sezione possono esserci spoiler a molti film. Proseguire con cautela o salta direttamente a [nomi di robot realmente esistenti](#nomi-di-robot-reali)
+**☠️ ATTENZIONE** In questa sezione possono esserci **SPOILER** a molti film. Proseguire con cautela o salta direttamente a [nomi di robot realmente esistenti](#nomi-di-robot-reali)
 {: .notice--danger}
 ## Nomi nei film d'azione
 

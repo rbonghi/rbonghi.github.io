@@ -3,6 +3,8 @@ title: Contact
 excerpt: "Contact details"
 permalink: /contact/
 classes: wide
+sidebar:
+  - nav: "about"
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
@@ -15,9 +17,9 @@ header:
       url: "/raffaello-bonghi"
 ---
 
-# Collaborations
+# Personal collaborations
 
-For collaborations, my email is:
+For personal collaborations, my email is:
 
 📧 [**raffaello@rnext.it**](mailto:raffaello@rnext.it)
 {: .text-center}
