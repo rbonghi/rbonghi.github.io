@@ -124,6 +124,8 @@ defaults:
       share: true
       related: true
       show_date: true
+      sidebar:
+        nav: "about"
   # _robot
   - scope:
       path: ""

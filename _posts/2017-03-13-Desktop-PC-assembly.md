@@ -8,7 +8,7 @@ header:
     id: z_0DZAqE0Kk
     provider: youtube
 categories:
-  - Other
+  - Tech
 tags:
   - Cooler Master
 case:
