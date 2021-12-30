@@ -9,7 +9,7 @@ title: "rnext"
 subtitle: "Robotics & Automation"
 name: &name "Raffaello Bonghi"
 description: &description "Raffaello Bonghi personal website"
-url: https://rbonghi.github.io
+url: https://rnext.it
 repository: "rbonghi/rbonghi.github.io"
 teaser: /assets/images/intro.jpg
 
