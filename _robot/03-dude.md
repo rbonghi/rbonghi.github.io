@@ -204,6 +204,8 @@ In this guide you can build your personal DUDE robot following the steps in this
 | Cutter  | ![cutter](/assets/robot/dude/cutter.jpg) |
 | Wrenches  | ![Wrenches](/assets/robot/dude/Wrenches.jpg) |
 
+{% include download.html name="dude-frame-parts.pdf" url="https://drive.google.com/file/d/13IcnH2zREmQnL_mBui5WgUlxma-XPCbR/view?usp=sharing" %}
+
 ### Preparation
 
 With the cutter, cut all frame. Usually I cut with a scissor the border of the parts and with a glue I paste on the PVC. I use this reference to cut all parts, but if you have a laser cutter machine It's  more easy.

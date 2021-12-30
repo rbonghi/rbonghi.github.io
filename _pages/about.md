@@ -73,6 +73,8 @@ University of Rome "La Sapienza" - Italy **&** L2S, Supélec, Université Pari
 **Italian tutor:** Prof. Salvatore Monaco, DIAG, Sapienza <br/>
 **French tutor:** Prof. Dorothee Normand-Cyrot L2S, Supélec
 
+{% include download.html name="RaffaelloBonghi-PhDThesis.pdf" url="https://drive.google.com/file/d/1TNp8s2uOxqsOj7bFWZpiokMjhZxKKTDL/view?usp=sharing" %}
+
 ## 2009-2012 - MSc in System and Control Engineering
 University of Rome "La Sapienza"
 
@@ -80,12 +82,16 @@ University of Rome "La Sapienza"
 **Tutor:** Prof. Salvatore Monaco, DIAG, La Sapienza <br/>
 **Score:** 110 cum laude/110
 
+{% include download.html name="RaffaelloBonghi-MasterThesis.pdf" url="https://drive.google.com/file/d/1H0ccsGpOpcry1UA5jGtlmFmLlzJjmiXd/view?usp=sharing" %}
+
 ## 2006-2009 - BSc in Automation and System Engineering
 University of Rome, "La Sapienza"
 
 **Thesis:** Design and Realization of an autonomous mobile platform <br/>
 **Tutor:** Prof. Salvatore Monaco, DIAG, La Sapienza <br/>
 **Score:** 107/110
+
+{% include download.html name="RaffaelloBonghi-BachelorThesis.pdf" url="https://drive.google.com/file/d/1QgnzAhhU5dSZTWwJZ41hChs65VMQpl_j/view?usp=sharing" %}
 
 # Awards
 

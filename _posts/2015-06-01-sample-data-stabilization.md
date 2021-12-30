@@ -20,3 +20,4 @@ The paper recalls the achievement of quasi-halo orbit following around the L2 tr
 
 Simulation results concerning two such sampled-data control strategies show that the latter sensibly improves the tracking performances compared to the former.
 
+{% include download.html name="IAA_RBMN_R4.pdf" url="https://drive.google.com/file/d/1CK4x6jNc9tBcczR132abBVT43sshgYSD/view?usp=sharing" %}

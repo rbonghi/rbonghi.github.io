@@ -22,6 +22,8 @@ A talk about Robot Operative System (ROS) and the Jetson TK1 and Jetson TX1 inte
 
 {% include gallery id="meetup" caption="NVIDIA GTC 2016" %}
 
+{% include download.html name="nvidia-jetson-meetup-ros-raffaello-bonghi.pdf" url="https://drive.google.com/file/d/15EGgUCxPb4i3if3q_URE4b3r3FC4XllX/view?usp=sharing" %}
+
 {% include figure image_path="/assets/posts/2016-japan-meetup/raffaello-comic.jpg" alt="Raffaello Comic" caption="Raffaello Comic" %}
 
 Tokyo, Japan. NVIDIA - ATT New Tower, 13th Floor, 2-11-7 Akasaka, Minato-ku, Tokyo 107-0052 
