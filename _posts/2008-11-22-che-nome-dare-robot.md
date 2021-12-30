@@ -56,7 +56,7 @@ Facciamo un rapido riassunto dei robot di film e reali che mi hanno appossionato
 
 La prima grande fonte di ispirazione sono i film e dal primo film in assoluto [Metropolis](https://it.wikipedia.org/wiki/Metropolis_(film_1927)) del 1927 ad oggi ne sono usciti tantissimi e fare una lista completa sarebbe impossibile! :smile: Qui di seguito metterò quelli che mi hanno dato più ispirazione nei nomi dei miei robot o che possono ispirarti nella scelta del tuo nome.
 
-**☠️ ATTENZIONE** In questa sezione possono esserci **SPOILER** a molti film. Proseguire con cautela o salta direttamente a [nomi di robot realmente esistenti](#nomi-di-robot-reali)
+**☠️ ATTENZIONE** In questa sezione possono esserci **SPOILER** di molti films. Proseguire con cautela o salta direttamente a [nomi di robot realmente esistenti](#nomi-di-robot-reali)
 {: .notice--danger}
 
 Prima di proseguire ho diviso i robot che appaiono nei [film di azione](#robot-nei-film-dazione) e che appaiono nei [film di animazione](#robot-nei-film-di-animazione). La lista è lunga scorri anche il menu a tendina per cercare il robot che ti interessa di più.
@@ -83,11 +83,17 @@ Questo nome è un buon punto di partenza se stai costruendo un **ChatBot** o un 
 
 {% include figure image_path="/assets/posts/nome-robot/Marvel_Ultron.jpg" alt="Ultron" caption="Ultron" %}
 
+L'androide potente e cattivo in The Avenger. Costruito da Henry Pym (Golia) basandosi sulla tecnologia di Dragon Man crea una nuova Intelligenza Artificiale dedica a salvare il mondo, ma evolvendosi nel tempo sviluppa un odio verso il creatore e poi verso tutti gli esseri umani.
+
+Base perfetta per un nome di robot che non ne vuole sentire di funzionare o che fatto tutto ciò che non vuole il suo creatore.
+
 **Vision (o Visione)**
 
 {% include figure image_path="/assets/posts/nome-robot/Marvel_Vision.jpg" alt="Vision" caption="Vision" %}
 
-Nato dalla fusione di JARVIS ed 
+Nato dalla fusione di JARVIS ed Ultron e da una gemma dell'infinito. Supereroe buono e compagno di Wanda. Ha una grande saggezza, agilità e potenza.
+
+Stai costruendo un robot umanoide, o un robot di interazione, questo nome è perfetto per te o per costruirci un [acromino](#come-costruire-un-acronimo).
 
 ### Star Wars (Guerre Stellari)
 
@@ -149,11 +155,17 @@ IG-11 appare in [The Mandalorian](https://it.wikipedia.org/wiki/The_Mandalorian)
 
 # Nomi di robot reali
 
-Partiamo dalle compagnie di robotica piu' famose
+Partiamo dalle compagnie di robotica piu' famose che sono un ottimo spunto per trovare un nome al tuo robot. Se non li conosci questa lista fa per te!
 
-## Boston Dynamics
+Ci sono anche tanti video se non li hai mai visti e per trovare delle caratteristiche che più assomigliano al tuo robot.
 
-Boston Dynamics adesso parte di [Honda](#honda)
+## [Boston Dynamics](https://www.bostondynamics.com/)
+
+Boston Dynamics (adesso parte di **Hyundai Motor Group**) è la compagnia che produce robots più famosa del mondo.
+
+Ogni anno rilascia video dei propri robots che sembrano uscire da film di fantascienza più che robot reali. Il video qui di seguito è un esempio perfetto di quello che dico :smile:.
+
+Qui di seguito i nomi più famosi, ma basta cercare su internet per scoprire tanti altri robot (realizzati per ricerca) da loro.
 
 {% include video id="fn3KWM1kuAw" provider="youtube" %}
 
@@ -161,9 +173,23 @@ Boston Dynamics adesso parte di [Honda](#honda)
 
 {% include video id="XnZH4izf_rI" provider="youtube" %}
 
+Il primo robot commerciale di [Boston Dynamics](https://www.bostondynamics.com/) e quadrupede più popolare di questo decennio. Con un sistema di sensori e telecamere è capace di muoversi autonomamente e compiere operazioni complesse su qualsiasi terreno.
+
+Un ottimo nome di partenza per un robottino quadrupede o per un robot da esterno.
+
+**Big dog**
+
+{% include video id="cNZPRsrwumQ" provider="youtube" %}
+
+Capostipite della famiglia, realizzato da prima del 2010, partendo da un robot di grandi dimensioni, nel corso degli anni e della ricerca del team è arrivato a diventare quello che oggi è **spot**.
+
+Big Dog è un robot molto rumoroso come avrai sentito nel video, con quel fastidiosissimo ronzio. Potrebbe essere perfetto come nome se hai un robot aspirapolvere rumoroso o dei motori con PWM che non c'è modo di silenziare :smile:.
+
 **Atlas**
 
 {% include video id="tF4DML7FIWk" provider="youtube" %}
+
+
 
 ## Asimo - Honda
 
