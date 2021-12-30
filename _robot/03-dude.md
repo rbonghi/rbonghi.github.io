@@ -1,7 +1,9 @@
 ---
 title: "Dude"
 excerpt: "For Unmanned Discovering of Enviroments"
-permalink: /dude
+permalink: /robot/dude
+redirect_from:
+  - /dude
 toc: true
 toc_label: "Table of Contents"
 toc_icon: "cog"

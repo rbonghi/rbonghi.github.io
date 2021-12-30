@@ -164,6 +164,7 @@ plugins:
   - jekyll-feed
   - jemoji
   - jekyll-include-cache
+  - jekyll-redirect-from
 #  - jekyll-maps
 
 # mimic GitHub Pages with --safe
@@ -174,6 +175,7 @@ whitelist:
   - jekyll-feed
   - jemoji
   - jekyll-include-cache
+  - jekyll-redirect-from
 #  - jekyll-maps
 
 category_archive:
