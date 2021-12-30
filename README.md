@@ -32,6 +32,7 @@ Allowed plugins https://pages.github.com/versions/
 * https://ptc-it.de/add-favicon-to-mm-jekyll-site/
 * https://www.aleksandrhovhannisyan.com/blog/how-to-add-a-copy-to-clipboard-button-to-your-jekyll-blog/
 * Make a table from csv file https://jekyllrb.com/tutorials/csv-to-table/
+* https://github.com/jekyll/jekyll-redirect-from
 * https://github.com/ayastreb/jekyll-maps
   * https://www.maps.ie/coordinates.html
   * https://www.barattalo.it/convert-address-lat-long
