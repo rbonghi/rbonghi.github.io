@@ -43,7 +43,7 @@ Stai configurando il tuo robot aspirapolvere e dall'app ti viene richiesto che n
 
 # Introduzione
 
-Come faccio? Solitamente prendo come base di riferimento i [**robot dei film**](#nomi-di-robot-nei-films) che mi hanno più colpito o i [**nomi di robot realmente esistenti**](#nomi-di-robot-reali) ed infine [**costruisco un acronimo**](#costruire-un-acronimo-o-un-nome-di-robot) che possa ricordarmi delle caratteristiche per cui l'ho costruito.
+Come faccio? Solitamente prendo come base di riferimento i [**robot dei film**](#nomi-di-robot-nei-films) che mi hanno più colpito o i [**nomi di robot realmente esistenti**](#nomi-di-robot-reali) ed infine [**costruisco un acronimo**](#costruire-un-acronimo-o-un-nome-per-robot) che possa ricordarmi delle caratteristiche per cui l'ho costruito.
 
 Sicuramente il più grande aiuto viene dalla **fantasia** e magari anche qualche chiacchierata con amici che mi possono dare ulteriori spunti per trovare il nome ideale.
 
@@ -95,7 +95,7 @@ Base perfetta per un nome di robot che non ne vuole sentire di funzionare o che 
 
 Nato dalla fusione di JARVIS ed Ultron e da una gemma dell'infinito. Supereroe buono e compagno di Wanda. Ha una grande saggezza, agilità e potenza.
 
-Stai costruendo un robot umanoide, o un robot di interazione, questo nome è perfetto per te o per costruirci un [acronimo](#costruire-un-acronimo-o-un-nome-di-robot).
+Stai costruendo un robot umanoide, o un robot di interazione, questo nome è perfetto per te o per costruirci un [acronimo](#costruire-un-acronimo-o-un-nome-per-robot).
 
 ### [Star Wars](https://en.wikipedia.org/wiki/Star_Wars) (Guerre Stellari)
 
