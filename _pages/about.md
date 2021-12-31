@@ -21,13 +21,31 @@ header:
       url: "/events"
 ---
 
-I am the developer relations manager for AI & Robotics at NVIDIA. Since 2015, I have been an NVIDIA Jetson Champ designing multiple ROS/ROS-based robots for outdoor navigation and educational applications. Additionally, I have been involved in developing AI solutions for numerous international clients in the retail and robotics space.
+Hello! Are you browsing here?
 
-I got a Ph.D. in control theory and industrial automation, with a deep focus on robotics.
+**Let me present!**
+:robot: I'm [Raffaello Bonghi](https://rnext.it/raffaello-bonghi/) an enthusiastic **robotics** engineer.
 
-For my full resume watch my profile on [LinkedIn](https://www.linkedin.com/in/raffaello-bonghi/){: .btn .btn--info .btn--large}
+I studied systems automation and design and mobile platform implementation at the Sapienza University of Rome and Universite Paris-Sud. But my passion for robots stems from my teens. I'd take apart everything, including the family TV, to see how things worked. Studying Greek and Latin by day (In Italy you can choose "Classic" studies) and electronics at night soon I built robots and entered competitions.
+
+For a youth robotics club, I created a [minisumo robot](https://rnext.it/robot/dark-blade) with wheels to do battle in contests, similar to sumo wrestling events. Robots spot their enemy and fight, and his minisumo won.
+
+As my robot-building skills developed and my university studies were enhancement me, I sought out to share all my knowledge online, making new [**robots**](https://rnext.it/robot/) such as:
+
+ * 🦕 [nanosaur](https://nanosaur.ai/)
+ * 🐆 [Panther](https://rpanther.github.io/)
+
+During my last years I made [**open-source projects**](https://rnext.it/project/), below the most popular:
+
+ * [jetson-stats](https://github.com/rbonghi/jetson_stats)
+ * [ros-jetson-stats](https://github.com/rbonghi/ros_jetson_stats)
+ * [jetson-easy](https://github.com/rbonghi/jetson_easy)
+
+Below my professional [Experience](#experience), [Education](#education) and my [Awards](#awards).
 
 # Experience
+
+For my full resume watch my profile on [LinkedIn](https://www.linkedin.com/in/raffaello-bonghi/){: .btn .btn--info .btn--large}
 
 ## 2021-NOW - NVIDIA  - Developer Relations Manager - AI & Robotics
 **Website:** [NVIDIA](https://www.nvidia.com/)<br/>
