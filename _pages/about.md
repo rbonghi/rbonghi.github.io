@@ -24,24 +24,25 @@ header:
 Hello! Are you browsing here?
 
 **Let me present!**
-:robot: I'm [Raffaello Bonghi](https://rnext.it/raffaello-bonghi/) an enthusiastic **robotics** engineer.
 
-I studied systems automation and design and mobile platform implementation at the Sapienza University of Rome and Universite Paris-Sud. But my passion for robots stems from my teens. I'd take apart everything, including the family TV, to see how things worked. Studying Greek and Latin by day (In Italy you can choose "Classic" studies) and electronics at night soon I built robots and entered competitions.
+I'm **Raffaello Bonghi** an 🇮🇹 **Italian** enthusiastic 🤖 **robotics** engineer, born in the eternal city of 🛵 **Rome** and now I'm living in 🇬🇧 England.
 
-For a youth robotics club, I created a [minisumo robot](https://rnext.it/robot/dark-blade) with wheels to do battle in contests, similar to sumo wrestling events. Robots spot their enemy and fight, and his minisumo won.
+I studied systems automation and design and mobile platform implementation at the Sapienza University of Rome and Universite Paris-Sud (where I made my [**PhD**](#2012-2016---phd-in-automation)). But my passion for robots stems from my teens. I'd take apart everything, including the family TV, to see how things worked. Studying Greek and Latin by day (In Italy you can choose "Classic" studies) and electronics at night soon I built robots and entered competitions.
 
-As my robot-building skills developed and my university studies were enhancement me, I sought out to share all my knowledge online, making new [**robots**](https://rnext.it/robot/) such as:
+For a youth robotics club, I created a [minisumo](/publications/robot-minisumo/) robot ([Dark-Blade](/robot/dark-blade) was my last one) with wheels to do battle in contests, similar to sumo wrestling events. Robots spot their enemy and fight, and his minisumo won.
+
+As my robot-building skills developed and my university studies were enhancement me, I sought out to share all my knowledge online, making new [**robots**](/robot/) such as:
 
  * 🦕 [nanosaur](https://nanosaur.ai/)
  * 🐆 [Panther](https://rpanther.github.io/)
 
-During my last years I made [**open-source projects**](https://rnext.it/project/), below the most popular:
+During my last years I made [**open-source projects**](/project/), below the most popular:
 
  * [jetson-stats](https://github.com/rbonghi/jetson_stats)
  * [ros-jetson-stats](https://github.com/rbonghi/ros_jetson_stats)
  * [jetson-easy](https://github.com/rbonghi/jetson_easy)
 
-Below my professional [Experience](#experience), [Education](#education) and my [Awards](#awards).
+Below my professional 💼 [Experience](#experience), 👨‍🎓 [Education](#education) and my 🏆 [Awards](#awards).
 
 # Experience
 
