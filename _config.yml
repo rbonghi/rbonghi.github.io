@@ -99,6 +99,7 @@ exclude:
   - README.md
   - LICENSE
   - Gemfile
+  - vendor
 
 # Build settings
 markdown: kramdown
