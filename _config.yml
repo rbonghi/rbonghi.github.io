@@ -19,6 +19,9 @@ search_full_content: true
 twitter:
   username: &twitter "raffaello86"
 
+facebook:
+  username: &facebook "raffaello.bonghi"
+
 social:
   links: # An array of links to social media profiles
     - "https://twitter.com/raffaello86"
