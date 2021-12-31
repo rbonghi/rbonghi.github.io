@@ -5,9 +5,8 @@ classes: wide
 link: https://spectrum.ieee.org/how-roboticists-and-robots-have-been-working-from-home
 header:
   teaser: /assets/posts/IEEE/raffaello-bonghi-s-robot.webp
-
 categories:
-  - Publications
+  - Interview
 tags:
   - Erico Guizzo
   - IEEE
