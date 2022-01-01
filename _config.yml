@@ -16,6 +16,8 @@ teaser: /assets/images/intro.jpg
 search: true
 search_full_content: true
 
+github: [metadata]
+
 twitter:
   username: &twitter "raffaello86"
 
