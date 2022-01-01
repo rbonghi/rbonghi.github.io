@@ -8,7 +8,7 @@ minimal_mistakes_skin: "air"
 title: "rnext"
 subtitle: "Raffaello Bonghi"
 name: &name "Raffaello Bonghi"
-description: &description "Robotics, automation, and technology project. Welcom to rnext, Raffaello Bonghi personal website!"
+description: &description "Robotics, automation, and technology project. Welcome to rnext, Raffaello Bonghi personal website!"
 url: https://rnext.it
 repository: "rbonghi/rbonghi.github.io"
 teaser: /assets/images/intro.jpg
