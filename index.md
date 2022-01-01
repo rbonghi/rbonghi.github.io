@@ -1,6 +1,6 @@
 ---
 layout: splash
-excerpt: "Raffaello Bonghi"
+excerpt: "Robotics & Automation, welcome in my personal website!"
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"

@@ -33,3 +33,6 @@ Follow my channels:
 * YouTube: [RaffaelloBonghi](https://www.youtube.com/RaffaelloBonghi)
 * Instagram technology:[robo.panther](https://instagram.com/robo.panther)
 * Instagram personal: [raffaello86](https://instagram.com/raffaello86)
+
+# Send me Gadgets!
+{: .text-center}
