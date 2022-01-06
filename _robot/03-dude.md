@@ -3,6 +3,7 @@ title: "Dude"
 excerpt: "For Unmanned Discovering of Enviroments"
 permalink: /robot/dude
 redirect_from:
+  - /dude/
   - /dude
 toc: true
 toc_label: "Table of Contents"
