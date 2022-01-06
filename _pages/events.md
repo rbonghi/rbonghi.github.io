@@ -2,6 +2,8 @@
 title: Events
 layout: category
 permalink: /events/
+redirect_from:
+  - /raffaello-bonghi/presentations/
 entries_layout: grid
 classes: wide
 sidebar:

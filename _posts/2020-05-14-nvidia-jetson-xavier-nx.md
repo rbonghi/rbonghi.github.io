@@ -4,6 +4,7 @@ excerpt: "NVIDIA Jetson Xavier NX is the newest addition to the Jetson platform,
 redirect_from:
   - /review/jetson-xavier-nx/
   - /review/jetson-xavier-nx
+  - /2020/05/jetson-xavier-nx-developer-kit/
 header:
   teaser: /assets/review/NVIDIA-jetson-xavier-nx/xavierNX.jpg
 categories:
