@@ -1,6 +1,9 @@
 ---
 title: "NVIDIA Jetson Nano 2Gb"
 excerpt: "The amazing Jetson Nano 2Gb. A new revolution is on the air!"
+redirect_from:
+  - /jetson-nano-2gb/
+  - /jetson-nano-2gb
 header:
   teaser: /assets/review/NVIDIA-jetson-nano-2gb/Nano2Gb.jpg
 categories:

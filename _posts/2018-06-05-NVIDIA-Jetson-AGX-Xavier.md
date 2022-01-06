@@ -2,6 +2,8 @@
 title: "NVIDIA Jetson AGX Xavier"
 excerpt: "Jetson AGX Xavier specifications and comparison with other boards"
 classes: wide
+redirect_from:
+  - /2018/06/new-nvidia-jetson-xavier/
 header:
   teaser: /assets/review/NVIDIA-jetson-AGX-xavier/xavier-structure.png
 categories:
