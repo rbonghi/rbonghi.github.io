@@ -1,6 +1,6 @@
 ---
 layout: splash
-excerpt: "Robotics & Automation, welcome in my personal website!"
+excerpt: "Robotics & Automation.<br/> <small>Welcome to <b>Raffaello Bonghi</b> website!</small>"
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
@@ -40,7 +40,7 @@ footer:
   - excerpt: 'I am proudly part of :pizza: [pizzarobotics](https://pizzarobotics.org) community'
 ---
 
-{% include feature_row id="intro" type="center" %}
+<!-- {% include feature_row id="intro" type="center" %} -->
 
 {% include feature_row %}
 
