@@ -1,6 +1,10 @@
 ---
 title: "NVIDIA Jetson Xavier NX"
 excerpt: "NVIDIA Jetson Xavier NX is the newest addition to the Jetson platform, delivering high performance in a very small form factor and power envelope, and it is not a substitution of the previous Jetson Nano in only 80mm x 100mm."
+redirect_from:
+  - /review/jetson-xavier-nx/
+  - /review/jetson-xavier-nx
+  - /2020/05/jetson-xavier-nx-developer-kit/
 header:
   teaser: /assets/review/NVIDIA-jetson-xavier-nx/xavierNX.jpg
 categories:

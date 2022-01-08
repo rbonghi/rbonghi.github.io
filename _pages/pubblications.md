@@ -2,6 +2,8 @@
 title: Publications
 layout: category
 permalink: /publications/
+redirect_from:
+  - /raffaello-bonghi/publications/
 classes: wide
 sidebar:
   - nav: "about"

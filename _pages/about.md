@@ -2,6 +2,8 @@
 title: Raffaello Bonghi, PhD
 excerpt: "_**[NVIDIA  - Developer Relations Manager - AI & Robotics](#experience)**_<br/>_**[Ph.D. in Automation Engineering](#education)**_"
 permalink: /raffaello-bonghi/
+redirect_from:
+  - /raffaello-bonghi/experience/
 classes: wide
 sidebar:
   - nav: "about"

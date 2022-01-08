@@ -3,7 +3,11 @@ title: "Panther"
 excerpt: "🐆 Powerful Autonomous eNTity High-End Robot"
 permalink: /robot/panther
 redirect_from:
+  - /panther/
   - /panther
+  - /panther/track/
+  - /panther/design/
+  - /panther/installation-panther/
 link: https://rpanther.github.io/
 classes: wide
 number: 2015

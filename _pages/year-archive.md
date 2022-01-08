@@ -1,6 +1,8 @@
 ---
 title: "Posts by Year"
 permalink: /posts/
+redirect_from:
+  - /blog/
 layout: posts
 author_profile: true
 classes: wide
