@@ -1,6 +1,7 @@
 ---
 title: "nanosaur - Deep dive"
 excerpt: "In this youtube live we will investigate how to use nanosaur and hack to add more performance to your robot."
+classes: wide
 header:
   teaser: /assets/posts/nanosaur-deep-dive.png
   video:

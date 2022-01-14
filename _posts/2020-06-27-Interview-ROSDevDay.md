@@ -3,7 +3,7 @@ title: "Choosing a ROS-enabled Embedded Board"
 excerpt: "ROS Developer Day 2020 (By Raffaello Bonghi, Robotics, computer vision scientist | Father of Panther)"
 classes: wide
 categories:
-  - Publications
+  - Events
 tags:
   - The Construct
   - Ricardo Tellez
