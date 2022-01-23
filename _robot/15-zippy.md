@@ -27,6 +27,19 @@ zippy-school:
     image_path: /assets/robot/zippy/ZippyN.jpg
     alt: "Zippy school"
     title: "Zippy school"
+zippy-match:
+  - url: /assets/robot/zippy/Raffaello-Zippy-2003.jpg
+    image_path: /assets/robot/zippy/Raffaello-Zippy-2003.jpg
+    alt: "Me and zippy at Pacinotti"
+    title: "Me and zippy at Pacinotti"
+  - url: /assets/robot/zippy/Raffaello-Zippy-2003-2.jpg
+    image_path: /assets/robot/zippy/Raffaello-Zippy-2003-2.jpg
+    alt: "Me and zippy at Pacinotti"
+    title: "Me and zippy at Pacinotti"
+  - url: /assets/robot/zippy/zippy-explorer.jpg
+    image_path: /assets/robot/zippy/zippy-explorer.jpg
+    alt: "Zippy school"
+    title: "Zippy school"
 ---
 
 **MY FIRST HOME MADE ROBOT!**
@@ -39,4 +52,6 @@ Yes, I've studied in my high school greek and latin! This robot have two wheel a
 
 {% include gallery id="zippy-school" caption="zippy school" %}
 
-{% include figure image_path="/assets/robot/zippy/zippy-explorer.jpg" alt="Zippy explorer" caption="Zippy explorer" %}
+# Match
+
+{% include gallery id="zippy-match" caption="zippy school" layout="half" %}
