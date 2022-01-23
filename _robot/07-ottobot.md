@@ -81,6 +81,8 @@ Il peso complessivo del robot era dovuto, in gran parte alle batterie al litio p
 
 Questa prima versione non aveva sensori che permettessero di individuare ostacoli presenti nell’ambiente; è stato quindi necessario progettare una nuova versione utilizzando la medesima struttura, aggiungendo sensori di navigazione.
 
+{% include video id="8aKRTKCEIE4" provider="youtube" %}
+
 # Versione dotata di sensori
 
 La nuova versione della piattaforma mobile è stata realizzata nel 2009 con la progettazione della scheda per l’acquisizione dei segnali provenienti dai sensori ambientali. Tale scheda era basata anch’essa su un microcontrollore che poteva processare i segnali, generare strategie di controllo avanzate, inviare i dati telemetrici e comandare la scheda “Motion Control”. Con questa nuova piattaforma il robot poteva navigare in ambienti strutturati.
@@ -159,6 +161,8 @@ La struttura del pacchetto è definita nel modo seguente:
 * N. CeckSum di chiusura
 
 Una volta verificata la corretta ricezione del pacchetto per mezzo del checksum posto alla fine del pacchetto, il messaggio decodificato viene inviato ad un interprete che esegue l’ordine ricevuto.
+
+{% include video id="fqLXAgC_AmU" provider="youtube" %}
 
 # I livelli
 

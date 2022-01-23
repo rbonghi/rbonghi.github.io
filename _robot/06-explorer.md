@@ -177,6 +177,10 @@ Una volta ultimata la “costruzione” del progetto, questo viene automaticamen
 
 É sempre possibile aggiornare il progetto del robot in ogni suo momento e configurare con facilità i vari parametri del robot, come è possibile vedere nella schermata successiva relativa ai vari parametri di gestione.
 
+{% include video id="QZhHGNSBXbM" provider="youtube" %}
+
+{% include video id="ngGehaS9QzM" provider="youtube" %}
+
 ## Simulatore
 
 La IDE ha al suo interno un sistema di simulazione che garantisce una simulazione dei vari componenti presenti e simula il comportamento dei sensori in presenza di ostacoli, una libreria di gestione di poligoni restituisce il valore generato dai sensori virtuali ed invia il valore letto al robot relativo, quale che sia virtuale o reale.
