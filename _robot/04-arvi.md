@@ -128,6 +128,10 @@ ARVI is composed of three movable elements and two tracks fixed to the robot bas
 
 The platform has also been equipped with a recovery system for tile found inside the room; such a system is particularly complex because of its small size; the prototype needed to use a 3D printer to realize the recovery of the crank mechanism. The latter provided with camera and motors to be automated and allow recovery in the autonomy of the tile. The dimensions are 28 cm width, 26cm depth, and 7cm height.
 
+{% include video id="ckT_A0P7Has" provider="youtube" %}
+
+{% include video id="ByZtmYYAUH0" provider="youtube" %}
+
 # Robot conception
 
 The FTU section and profile measures have been the base for the design of a mechanical frame and type of “wheel” to sliding in the toroidal pipe.
@@ -152,6 +156,8 @@ Usually, the FTU vacuum vessel is fully dark, and it is required to see in the c
 | Gate height | 416 | mm |
 | Hole width | 30 - 70 | mm |
 | Hole max height | 390 | mm |
+
+{% include video id="A0O4ZbM9adM" provider="youtube" %}
 
 ## Limiter tiles
 
@@ -262,6 +268,10 @@ The piston move up and down with a four white brackets. This system with a cam m
 
 {% include figure image_path="/assets/robot/ARVI/piston.JPG" alt="Piston and brackets" caption="Piston and brackets" %}
 
+{% include video id="rD5os7dgvEY" provider="youtube" %}
+
+{% include video id="EqSFoqaRO4Q" provider="youtube" %}
+
 # Sensors
 
 It was chosen a high definition camera USB, it is produced by Logitech HD camera marketed by Microsoft LifeCam the 3000HD. To reduce the space on the platform is
@@ -308,3 +318,7 @@ The integrated control of velocity and acceleration of each channel makes it sim
 
 The mobile platform ARVI implements various software running directly on-board computer and an application interface of the drive commands from keyboard and joystick is finally been also developed a version for the help with the tablet.
 The program present on the robot redirects commands from the external PC and sends commands respectively to the motion control as regards the handling of tracks or to the Mini Maestro as regards commands to be sent to servo controls. Inside each is implemented feedback control that ensures the achievement of the desired locations or speeds.
+
+{% include video id="EfAro2yvXhg" provider="youtube" %}
+
+{% include video id="PjE492VqR_Q" provider="youtube" %}
