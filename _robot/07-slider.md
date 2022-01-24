@@ -8,6 +8,9 @@ header:
   overlay_filter: "0.5"
   teaser: /assets/robot/slider/slider.jpg
   overlay_image: /assets/robot/slider/slider-sensori.jpg
+  actions:
+    - label: "🌐 minisumo.net"
+      url: "https://minisumo.net/"
 ---
 
 Slider fu un esperimento di minisumo che iniziò nel 2007, l'idea era di costruire un robot che una volta scaduti i 5 secondi, potesse abbattersi e diventare più grande dei 10x10cm di dimensioni massime per i minisumo. Il robot costituito da una lunga benna, più grande dei 10cm e con due servocomandi che attuavano le due ruote del robot (nella figura successiva).

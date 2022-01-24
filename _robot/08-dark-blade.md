@@ -8,6 +8,9 @@ header:
   overlay_filter: "0.5"
   teaser: /assets/robot/dark-blade/Robofesta-002.jpg
   overlay_image: /assets/robot/dark-blade/Robofesta-027.jpg
+  actions:
+    - label: "🌐 minisumo.net"
+      url: "https://minisumo.net/"
 dark-blade:
   - url: /assets/robot/dark-blade/elettronica.jpg
     image_path: /assets/robot/dark-blade/elettronica.jpg

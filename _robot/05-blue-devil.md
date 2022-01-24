@@ -8,6 +8,9 @@ header:
   overlay_filter: "0.5"
   teaser: /assets/robot/blue-devil/BlueDevil.jpg
   overlay_image: /assets/robot/blue-devil/bluedevil-robofesta.jpg
+  actions:
+    - label: "🌐 minisumo.net"
+      url: "https://minisumo.net/"
 premi:
   - url: /assets/robot/blue-devil/premi/2005Cardano2.jpg
     image_path: /assets/robot/blue-devil/premi/2005Cardano2.jpg

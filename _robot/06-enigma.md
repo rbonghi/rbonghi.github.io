@@ -8,6 +8,9 @@ header:
   overlay_filter: "0.5"
   teaser: /assets/robot/enigma/Enigma2.jpg
   overlay_image: /assets/robot/enigma/enigma-robofesta2.jpg
+  actions:
+    - label: "🌐 minisumo.net"
+      url: "https://minisumo.net/"
 premi:
   - url: /assets/robot/enigma/premi/2006Neumann2.jpg
     image_path: /assets/robot/enigma/premi/2006Neumann2.jpg
