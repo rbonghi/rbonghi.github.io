@@ -1,6 +1,7 @@
 ---
 layout: splash
-excerpt: "Robotics & Automation.<br/> <small>Welcome to <b>Raffaello Bonghi</b> website!</small>"
+excerpt: "I'm Raffaello Bonghi an Italian enthusiastic robotics engineer, born in the eternal city of 🛵 Rome."
+tagline: "Robotics & Automation.<br/> <small>Welcome to <b>Raffaello Bonghi</b> website!</small>"
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
@@ -13,7 +14,7 @@ header:
   - label: "Contact"
     url: "/contact"
 intro: 
-  - excerpt: 'Robotics & Automation'
+  - excerpt: "<big>Hello! Welcome here!</big><br/> I'm **Raffaello Bonghi** an 🇮🇹 **Italian** enthusiastic 🤖 **robotics** engineer, born in the eternal city of 🛵 **Rome** and now I'm living in 🇬🇧 England.<br/><br/> I [studied](/raffaello-bonghi) systems automation and robotics at  👨‍🎓  **University of Rome La Sapienza** and 👨‍🎓  **Universite Paris-Sud**, but I always made [**robots**](/robot/) and open-source [**projects**](/project/)!"
 feature_row:
   - image_path: https://nanosaur.ai/assets/images/intro.jpg
     alt: "nanosaur"
@@ -40,7 +41,7 @@ footer:
   - excerpt: 'I am proudly part of :pizza: [pizzarobotics](https://pizzarobotics.org) community'
 ---
 
-<!-- {% include feature_row id="intro" type="center" %} -->
+{% include feature_row id="intro" type="center" %}
 
 {% include feature_row %}
 
