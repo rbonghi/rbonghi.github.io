@@ -4,8 +4,7 @@ services:
   site:
     image: jekyll/jekyll:3.8
     command: rake serve
-    ports:
-      - 4000:4000
+    network_mode: host
     volumes:
       - .:/srv/jekyll
       - ./vendor/bundle:/usr/local/bundle

@@ -3,7 +3,6 @@ title: "Pulibot"
 excerpt: "(:it: in Italian) A cleaning robot with a swiffer and a Parallax board. (2004)"
 permalink: /robot/pulibot
 classes: wide
-number: 2002
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"

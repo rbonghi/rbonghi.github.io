@@ -3,7 +3,6 @@ title: "Blue Devil"
 excerpt: "(:it: in Italian) This robot was bought to test my other minisumo robots and to improve the tactics and velocity to recognize the enemy. Blue Devil is a Sumovore robot sell from Solar robotitcs, the core inside is BEAM and with a different layer the player can change in microcontroller version."
 permalink: /robot/blue-devil
 classes: wide
-number: 2003
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"

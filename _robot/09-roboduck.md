@@ -3,7 +3,6 @@ title: "Roboduck"
 excerpt: "(:it: in Italian) This robot controlled by a 18F4500 microchip could be obstacle avoidance little obstacle and walk autonomously."
 permalink: /robot/roboduck
 classes: wide
-number: 2006
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"

@@ -9,7 +9,6 @@ toc: true
 toc_label: "Table of Contents"
 toc_icon: "cog"
 toc_sticky: true
-number: 2014
 header:
   teaser: /assets/robot/dude/dude.jpg
   overlay_image: /assets/robot/dude/dude_header.jpg

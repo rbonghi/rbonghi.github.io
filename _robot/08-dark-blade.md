@@ -3,7 +3,6 @@ title: "Dark Blade"
 excerpt: "(:it: in Italian) It was my first robot wit the highter ratio win. Eight champions in high schools and one first place in the national minisumo competition during the RomeCup 2007. Darkblade is a thin robot high only 3cm, with a long blade. This robot before the match could change the tattics in attack or defence."
 permalink: /robot/dark-blade
 classes: wide
-number: 2005
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"

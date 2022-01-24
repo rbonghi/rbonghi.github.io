@@ -6,7 +6,6 @@ toc: true
 toc_label: "Table of Contents"
 toc_icon: "cog"
 toc_sticky: true
-number: 2013
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"

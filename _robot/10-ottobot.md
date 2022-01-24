@@ -6,7 +6,6 @@ toc: true
 toc_label: "Tavola dei contenuti"
 toc_icon: "cog"
 toc_sticky: true
-number: 2007
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"

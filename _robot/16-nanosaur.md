@@ -5,7 +5,6 @@ permalink: /robot/nanosaur
 redirect_from:
   - /nanosaur
 classes: wide
-number: 2020
 link: https://nanosaur.ai/
 header:
   overlay_color: "#000"
