@@ -192,6 +192,3 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
-
-after_footer_scripts :
-  - /assets/js/cookie-consent.js
