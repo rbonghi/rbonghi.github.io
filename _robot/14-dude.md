@@ -12,6 +12,9 @@ toc_sticky: true
 header:
   teaser: /assets/robot/dude/dude.jpg
   overlay_image: /assets/robot/dude/dude_header.jpg
+  actions:
+    - label: "Hackster.io"
+      url: "https://www.hackster.io/raffaellob86/d-u-d-e-d20021"
 slam:
   - url: /assets/robot/dude/SLAM-1.jpg
     image_path: /assets/robot/dude/SLAM-1.jpg

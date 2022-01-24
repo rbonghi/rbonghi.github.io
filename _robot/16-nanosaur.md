@@ -12,13 +12,18 @@ header:
   overlay_image: https://nanosaur.ai/assets/images/intro.jpg
   teaser: https://nanosaur.ai/assets/images/intro.jpg
   actions:
-    - label: "More Info"
+    - label: "🌐 Website"
       url: "https://nanosaur.ai/"
+    - label: "🐢 ROS robots"
+      url: "https://robots.ros.org/nanosaur/"
+    - label: "Hackster.io"
+      url: "https://www.hackster.io/raffaellob86/nanosaur-302b63"
 ---
 
-🦕 nanosaur is an 🇮🇹 italian open-source project designed and made by [Raffaello Bonghi](https://rnext.it).
-{: .text-center}
+nanosaur is the smallest <b>NVIDIA Jetson</b> dinosaur robot, fully 3D printable, open-source, [ROS2](https://www.ros.org/) & [Isaac ROS](https://developer.nvidia.com/isaac-ros-gems) based.
 
-nanosaur is a simple open-source robot based on [NVIDIA Jetson](https://developer.nvidia.com/buy-jetson). The robot is fully 3D printable, able to wander on your desk autonomously and uses a simple camera and two OLEDs — these act as a pair of eyes. It measures a compact 10x12x6cm and it weighs only 500g.
+Made in 🇮🇹 Italy.
+
+It is an open-source and 3D printable platform, designed to wander on your desk. With this platform, you learn the fundamentals of [ROS2](https://www.ros.org/) and NVIDIA [Isaac ROS](https://developer.nvidia.com/isaac-ros-gems) GEMs. Learning how to use AI applied in robotics.
 
 Follow the **direct link** to know more about Nanosaur

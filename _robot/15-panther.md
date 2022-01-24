@@ -16,8 +16,12 @@ header:
   teaser: /assets/robot/panther/panther.jpg
   overlay_image: /assets/robot/panther/panther_header.jpg
   actions:
-    - label: "More Info"
+    - label: "🌐 Website"
       url: "https://rpanther.github.io/"
+    - label: "🐢 ROS robots"
+      url: "https://robots.ros.org/panther/"
+    - label: "Hackster.io"
+      url: "https://www.hackster.io/raffaellob86/panther-b3a84e"
 ---
 
 **Panther** is an outdoor tracked robot, with a [ZED2](https://www.stereolabs.com/zed-2/) stereocamera and an NVIDIA Jetson [AGX Xavier](https://developer.nvidia.com/embedded/jetson-agx-xavier-developer-kit), this robot can interact with all objects around it.
