@@ -97,6 +97,7 @@ footer:
 include:
   - .htaccess
   - _pages
+  - ads.txt
 exclude:
   - README.md
   - LICENSE
