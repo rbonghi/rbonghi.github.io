@@ -2,8 +2,6 @@
 title: "Explorer"
 excerpt: "(:it: in Italian) A simple exploration robot, evolution from Ottobot"
 permalink: /robot/explorer
-redirect_from:
-  - /robot/explorer/
 toc: true
 toc_label: "Tavola dei contenuti"
 toc_icon: "cog"
@@ -64,6 +62,8 @@ box:
     alt: "Robot e scatola"
     title: "Robot e scatola"
 ---
+
+{% include download.html name="RaffaelloBonghi-MasterThesis.pdf" url="https://drive.google.com/file/d/1H0ccsGpOpcry1UA5jGtlmFmLlzJjmiXd/view?usp=sharing" %}
 
 Sulla base delle esperienze del robot [Ottobot](/robot/ottobot) e tenendo conto delle imperfezioni delle precedenti versioni del telaio è stato sviluppato uno nuovo telaio che potesse risolvere tutti
 quei difetti che erano man mano apparsi, come il peso complessivo del robot e il difficile serraggio delle viti dei sensori infrarossi. Si iniziò quindi la progettazione del nuovo telaio usando un programma CAD di disegno meccanico (Solidworks) con i risultati visibili nelle figure successive.

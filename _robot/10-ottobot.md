@@ -62,6 +62,8 @@ telemetry:
     title: "Ottobot telemetria con sensori"
 ---
 
+{% include download.html name="RaffaelloBonghi-BachelorThesis.pdf" url="https://drive.google.com/file/d/1QgnzAhhU5dSZTWwJZ41hChs65VMQpl_j/view?usp=sharing" %}
+
 Per il meccanismo di locomozione si sono, a suo tempo, scelte due ruote azionate da motori e un ruotino tale da permettere la stabilità sul piano. Tale sistema di locomozione, denominato “differential drive”, permette al robot di potersi muovere sul piano e di poter ruotare con facilità su se stesso, dando alla piattaforma mobilità nell’evitare ostacoli senza bisogno di manovre complesse (in figura la prima versione).
 
 La scelta del tipo di ruote e la loro configurazione in un robot mobile vincola la navigazione dello stesso a uno specifico ambiente. Ad esempio il concorso DARPA dove le piattaforme mobili, automobili automatizzate, devono attraversare un deserto, la scelta di una configurazione “car-like” implicava dei movimenti per evitare ostacoli più complessi rispetto quelli che possono essere affrontati con una configurazione “unicycle-like”.

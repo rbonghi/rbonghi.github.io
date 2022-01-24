@@ -123,6 +123,8 @@ arvi-actuation2:
     title: "ARVI mini maestro"
 ---
 
+{% include download.html name="RaffaelloBonghi-PhDThesis.pdf" url="https://drive.google.com/file/d/1TNp8s2uOxqsOj7bFWZpiokMjhZxKKTDL/view?usp=sharing" %}
+
 ARVI is composed of three movable elements and two tracks fixed to the robot base by hinges and a system of springs to assure dumping and reduce vibrations during the displacements in the machine. In addition, the rover is equipped with a motorized camera, remotely driven, for visual inspection and to provide a visual feedback signal for autonomous navigation.
 
 The platform has also been equipped with a recovery system for tile found inside the room; such a system is particularly complex because of its small size; the prototype needed to use a 3D printer to realize the recovery of the crank mechanism. The latter provided with camera and motors to be automated and allow recovery in the autonomy of the tile. The dimensions are 28 cm width, 26cm depth, and 7cm height.
