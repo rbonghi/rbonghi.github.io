@@ -1,6 +1,7 @@
 ---
 title: "ROS Orchestrator"
 excerpt: ":notes: Orchestrator manager to launch scripts via service"
+permalink: /project/ros_orchestrator/
 classes: wide
 number: 2020
 link: https://github.com/rbonghi/ros_orchestrator

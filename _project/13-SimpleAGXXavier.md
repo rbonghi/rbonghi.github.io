@@ -1,6 +1,7 @@
 ---
 title: "Simple NVIDIA Jetson AGX Xavier"
 excerpt: "Set of adapters for NVIDIA Jetson AGX Xavier"
+permalink: /project/SimpleAGXXavier/
 classes: wide
 number: 2018
 link: https://www.thingiverse.com/thing:3209530

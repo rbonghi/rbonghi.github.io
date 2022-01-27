@@ -1,6 +1,7 @@
 ---
 title: "H Bridge"
 excerpt: "(:it: in Italian) It's a powerful H-Bridge with an L298. With this simple board the robot Ottobot and Explorer can control their DC motors. It was built in 2008 and with different tests to check the performance in robotics field."
+permalink: /project/h-bridge/
 toc: true
 toc_label: "Table of Contents"
 toc_icon: "cog"

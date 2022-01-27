@@ -1,6 +1,7 @@
 ---
 title: "docker-dropbox-app"
-excerpt: ":whale: Docker syncronization container for Dropbox using a token app "
+excerpt: ":whale: Docker syncronization container for Dropbox using a token app"
+permalink: /project/docker-dropbox-app/
 classes: wide
 number: 2018
 link: https://github.com/rbonghi/docker-dropbox-app

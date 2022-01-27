@@ -1,6 +1,7 @@
 ---
 title: "RegBoard"
 excerpt: "(:it: in Italian) The regulation board is used to convert the tension from lithium batteries for all high level electronics boards. This board use a LM2576 produced from TI was used for Ottobot and Explorer robots."
+permalink: /project/regboard/
 toc: true
 toc_label: "Table of Contents"
 toc_icon: "cog"

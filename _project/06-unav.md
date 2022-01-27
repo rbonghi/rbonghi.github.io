@@ -1,6 +1,7 @@
 ---
 title: "unav"
 excerpt: "It's a little powerful motor control board in 4x4cm and is open source and open hardware project is fully available on github. With this board you can control two DC brushed motors with different control law, position control, velocity control and torque control. The board works better with ROS."
+permalink: /project/unav/
 classes: wide
 number: 2014
 header:

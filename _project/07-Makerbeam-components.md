@@ -1,6 +1,7 @@
 ---
 title: "Makerbeam components"
 excerpt: "Basic makerbeam components to use with SolidWorks"
+permalink: /project/Makerbeam-components/
 classes: wide
 number: 2015
 link: https://grabcad.com/library/makerbeam-components-1

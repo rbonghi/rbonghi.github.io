@@ -1,6 +1,7 @@
 ---
 title: "ros_webconsole"
 excerpt: ":globe_with_meridians: A ROS WEB console to control remotely your robot. Based with robotwebtools."
+permalink: /project/ros_webconsole/
 classes: wide
 number: 2015
 link: https://github.com/rbonghi/ros_webconsole

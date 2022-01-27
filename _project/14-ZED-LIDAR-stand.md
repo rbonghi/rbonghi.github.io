@@ -1,6 +1,7 @@
 ---
 title: "ZED-LIDAR stand"
 excerpt: "Combined stand for ZED camera and RPlidar"
+permalink: /project/ZED-LIDAR-stand/
 classes: wide
 number: 2018
 link: https://www.thingiverse.com/thing:3208909

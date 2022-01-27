@@ -1,6 +1,7 @@
 ---
 title: "Anycubic Brush holder"
 excerpt: "This brush clean your Anycubic i3 Mega nozzle before start to print"
+permalink: /project/Anycubic-Brush-holder/
 classes: wide
 number: 2019
 link: https://www.thingiverse.com/thing:4022362

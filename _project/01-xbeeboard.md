@@ -1,6 +1,7 @@
 ---
 title: "Xbee Board"
 excerpt: "(:it: in Italian) Its an expansion shield for Xbee module. This board have inside a power regulator from 5V to 3.3V and three different leds to recognize the status of the radio module."
+permalink: /project/xbeeboard/
 toc: true
 toc_label: "Table of Contents"
 toc_icon: "cog"

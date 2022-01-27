@@ -1,6 +1,7 @@
 ---
 title: "roboteq_control"
 excerpt: ":gear: Driver for Roboteq devices using ros_control"
+permalink: /project/roboteq_control/
 classes: wide
 number: 2015
 link: https://github.com/rbonghi/roboteq_control

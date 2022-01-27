@@ -1,6 +1,7 @@
 ---
 title: "Motion Control"
 excerpt: "(:it: in Italian) This board was designed in 2008 which a dsPIC Microchip controller can control 2 DC brushed motor with a velocity control. In addiction this board can communicate with the Navigation Board and with a home made communication system send telemetry information to a remoted PC. The evolution of this board is μNAV!"
+permalink: /project/motion-control/
 toc: true
 toc_label: "Table of Contents"
 toc_icon: "cog"

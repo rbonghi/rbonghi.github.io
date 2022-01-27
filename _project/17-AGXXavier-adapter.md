@@ -1,6 +1,7 @@
 ---
 title: "NVIDIA Jetson AGX Xavier Adapters"
 excerpt: "NVIDIA Jetson AGX Xavier, adapters, covers and antenna docks"
+permalink: /project/AGXXavier-adapter/
 classes: wide
 number: 2019
 link: https://www.thingiverse.com/thing:3999308
@@ -28,3 +29,5 @@ Adapters:
 Antenna:
 * Stand for one antenna
 * Stand for two antennas
+
+{% include video id="N_i-n6jp0ak" provider="youtube" %}

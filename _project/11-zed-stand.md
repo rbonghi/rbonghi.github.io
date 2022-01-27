@@ -1,6 +1,7 @@
 ---
 title: "ZED stand"
 excerpt: "A little stand to block your ZED camera in your robot, drone. To build this stand is required a 3D printer, a photographic screw, and if you want a spray."
+permalink: /project/zed-stand/
 classes: wide
 number: 2016
 link: https://grabcad.com/library/zed-stand-1
