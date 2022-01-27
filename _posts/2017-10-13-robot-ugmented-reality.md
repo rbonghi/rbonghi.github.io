@@ -20,3 +20,5 @@ This technique is useful in the testing phase and staff training, thus giving th
 {% include download.html name="nvidia-gtceu-2017-robot-augmented-reality.pdf" url="https://drive.google.com/file/d/1swnVtOtIOKbMe-eRCwPVYY89iBJyKD-K/view?usp=sharing" %}
 
 {% include figure image_path="/assets/posts/GTCEU2017/RobotAugmentedReality.png" alt="Robot Augmented reality" caption="Robot Augmented reality" %}
+
+{% include video id="rzTBSHTWRxg" provider="youtube" %}

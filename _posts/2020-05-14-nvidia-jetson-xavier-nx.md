@@ -46,7 +46,7 @@ code_name:
 ---
 A new Jetson is here! Last year NVIDIA release the first Jetson in a new System on Module (SoM) package. Compare the other NVIDIA Jetson has a compact form factor and it is simple to make a homemade carrier.
 
-![NVIDIA Jetson Xavier NX Package](xaviernx-box.jpg)
+{% include figure image_path="/assets/review/NVIDIA-jetson-xavier-nx/xaviernx-box.jpg" alt="NVIDIA Jetson Xavier NX Package" caption="NVIDIA Jetson Xavier NX Package" %}
 
 NVIDIA Jetson Xavier NX is the newest addition to the Jetson platform, delivering high performance in a very small form factor and power envelope, and it is not a substitution of the previous Jetson Nano.
 
@@ -69,7 +69,7 @@ When you bring your box, the first difference that I notice is the box size. I b
 
 The feeling when you open the new box is to have something bigger compare the other boards, and like the previous package.
 
-![Inside the NVIDIA Jetson Xavier NX box](inside_box.jpg)
+{% include figure image_path="/assets/review/NVIDIA-jetson-xavier-nx/inside_box.jpg" alt="Inside the NVIDIA Jetson Xavier NX box" caption="Inside the NVIDIA Jetson Xavier NX box" %}
 
 Inside the box is included a **45W Power Supply Unit** (PSU) and works at **19V**.
 
@@ -91,7 +91,7 @@ A great point for the new Jetson Xavier NX developer kit is included a WiFi modu
 
 The NVIDIA Jetson Xavier NX is born from a the [NVIDIA Volta Architecture](https://www.nvidia.com/en-gb/data-center/volta-gpu-architecture/) with 384 NVIDIA CUDA cores plus 48 Tensor cores! A new evolution from a Maxwell 128-core on Jetson Nano. The CPU architecture works on a 6 core [ARMv8.2](https://community.arm.com/developer/ip-products/processors/b/processors-ip-blog/posts/armv8-a-architecture-evolution) at 64bit and use 2 NVLDA engines plus 8GB RAM DDR4.
 
-![Hardware design](900px-Jetson_NX_Block_Diagram.png)
+{% include figure image_path="/assets/review/NVIDIA-jetson-xavier-nx/900px-Jetson_NX_Block_Diagram.png" alt="Hardware design" caption="Hardware design" %}
 
 A deep table with all specification is below:
 
@@ -121,9 +121,10 @@ The NVIDIA Jetson Xavier NX have 5 NVP models where you can setup your separated
 
 Below a screen from jtop
 
-![jtop NVIDIA Jetson Xavier NX](jtop-xaviernx.png)
+{% include figure image_path="/assets/review/NVIDIA-jetson-xavier-nx/jtop-xaviernx.png" alt="jtop NVIDIA Jetson Xavier NX" caption="jtop NVIDIA Jetson Xavier NX" %}
 
 Now jetson-stats works with jetson Xavier NX, install with:
+
 ```
 sudo -H pip install -U jetson-stats
 ```
@@ -147,7 +148,7 @@ The GPU and EMC frequencies change using Jetson Clocks
 
 Finally the default memory configuration use 6 ZRAM slot at 500Mb. Below a screenshot from jtop
 
-![jtop memory - NVIDIA Jetson Xavier NX](jetson-xaviernx-mem.png)
+{% include figure image_path="/assets/review/NVIDIA-jetson-xavier-nx/jetson-xaviernx-mem.png" alt="jtop memory - NVIDIA Jetson Xavier NX" caption="jtop memory - NVIDIA Jetson Xavier NX" %}
 
 ## Difference between Jetson Nano
 
@@ -166,7 +167,7 @@ There are some interesting differences:
 |Power supply from Micro USB | –
 |– | NVMe SSD connector
 
-|[Jetson Nano and Jetson Xavier NX Developer kit](jetson-nano-jetson-xaviernx.jpg)
+{% include figure image_path="/assets/review/NVIDIA-jetson-xavier-nx/jetson-nano-jetson-xaviernx.jpg" alt="Jetson Nano and Jetson Xavier NX Developer kit" caption="Jetson Nano and Jetson Xavier NX Developer kit" %}
 
 Another interesting note is the Code Name evolution, we are following the names of actors or plants in last  Star Wars trilogy. Yes is silly, but NVIDIA engineers for this family of board use characters in Star Wars! 🙂 
 
@@ -176,14 +177,14 @@ Porg were a species of sea-dwelling bird. They were native to the planet Ahch-To
 
 This board have the same name of the scavenger Rey home world in Star wars. Who became involved in the events of the cold war after helping the former First Order stormtrooper Finn and the astromech droid BB-8 escape offworld with a map leading to the missing Jedi Luke Skywalker. More info from [Wookiepedia](https://starwars.fandom.com/wiki/Jakku)
 
-![jtop architecture and libraries](jtop-info-xaviernx.png)
+{% include figure image_path="/assets/review/NVIDIA-jetson-xavier-nx/jtop-info-xaviernx.png" alt="jtop architecture and libraries" caption="jtop architecture and libraries" %}
 
 # Cloud Native Architecture
 
 Cloud-native technologies are the way forward: microservice architecture, containerization, and orchestration have enabled cloud applications to escape the constraints of older, monolithic software workflows. A similar transformation is now coming to AI edge devices. The jump to microservice
 architecture results in the split of applications into collections of small services. Because development of a self-contained service can be done without necessarily having to update other application components, time to market can be accelerated with scalable software development, and updates throughout the product life cycle are made easier.
 
-![Cloud Native on NVIDIA Jetson Xavier NX](XavierNX_cloud_native.gif)
+{% include figure image_path="/assets/review/NVIDIA-jetson-xavier-nx/XavierNX_cloud_native.gif" alt="Cloud Native on NVIDIA Jetson Xavier NX" caption="Cloud Native on NVIDIA Jetson Xavier NX" %}
 
 The use of containerized applications brings cloud-native capability to edge devices. Packaging application components and their dependencies together in containers for deployment allows clear separation between an application and the underlying software environment. This enables OS updates for feature enhancements or bug/security fixes without impacting installed applications, and vice versa.
 Applications can be installed, updated, rolled back, or removed without impacting the OS.
@@ -221,7 +222,7 @@ The demo runs seven models simultaneously as described below:
   * **Quartznet-15X5 model** for speech recognition which was converted from **PyTorch** to **TensorRT**.
   * **BERT Base model** for language model for NLP which was converted from **TensorFlow** to **TensorRT**.
 
-![Multi container demo](CloudNativeScreenshot.png)
+{% include figure image_path="/assets/review/NVIDIA-jetson-xavier-nx/CloudNativeScreenshot.png" alt="Multi container demo" caption="Multi container demo" %}
 
 The output is literally amazing! In four quadrants I can see in real time:
 * People detection container
@@ -229,9 +230,9 @@ The output is literally amazing! In four quadrants I can see in real time:
 * Pose estimation
 * Gaze Estimation
 
-![Docker images](docker_images.png)
+{% include figure image_path="/assets/review/NVIDIA-jetson-xavier-nx/docker_images.png" alt="Docker images" caption="Docker images" %}
 
-![Docker containers](docker_containers.png)
+{% include figure image_path="/assets/review/NVIDIA-jetson-xavier-nx/docker_containers.png" alt="Docker containers" caption="Docker containers" %}
 
 There are five containers in action on Jetson Xavier NX:
 * Deepstream-mcdemo
@@ -247,7 +248,7 @@ as CUDA, CuDNN, TensorRT, and DeepStream to the Jetson platform, enabling develo
 
 All libraries and SDK are simple to install directly from the SDK manager and with Jetpack now (OTA) update a Jetson board is really simple! 
 
-![Deep Learning Inference Performance](DeepLearningInferencePerformance.png)
+{% include figure image_path="/assets/review/NVIDIA-jetson-xavier-nx/DeepLearningInferencePerformance.png" alt="Deep Learning Inference Performance" caption="Deep Learning Inference Performance" %}
 
 # Benchmark
 
@@ -269,4 +270,4 @@ Last test is check the performance of the new NVIDIA Jetson Xavier NX, to test i
 The Jetson Xavier NX Developer Kit is now available for **$399** at [NVIDIA.com](https://nvda.ws/3bqcNEx) and from channel partners worldwide.
 {: .notice--success}
 
-![NVIDIA Jetson Xavier NX](xaviernx-shop.png)
+{% include figure image_path="/assets/review/NVIDIA-jetson-xavier-nx/xaviernx-shop.png" alt="NVIDIA Jetson Xavier NX" caption="NVIDIA Jetson Xavier NX" %}

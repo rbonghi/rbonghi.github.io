@@ -439,5 +439,6 @@ source ~/.bashrc
 
 Below a short gallery with all pictures
 
-{% include gallery id="old-pictures" caption="Dude old design pictures" %}
+{% include gallery id="old-pictures" caption="Dude old design pictures" layout="half" %}
 
+{% include video id="XfPL_KVvVys" provider="youtube" %}
