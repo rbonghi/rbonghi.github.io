@@ -1,7 +1,7 @@
 ---
 layout: splash
 excerpt: "I'm Raffaello Bonghi an Italian enthusiastic robotics engineer, born in the eternal city of 🛵 Rome."
-tagline: "Robotics & Automation.<br/> <small>Welcome to <b>Raffaello Bonghi</b> website!</small>"
+tagline: "Robotics & Automation<br/> <small>Welcome to <b>Raffaello Bonghi</b> website!</small>"
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
