@@ -33,7 +33,7 @@ With the Jetson TX2 we can start to work with the ubuntu kernel 4.4 and now the 
 
 The hardware of the Jetson TX2 working with 256 CUDA core at 1.3Ghz, a bit speed up compare the Jetson TX1 (256 CUDA core at 72Mhz). The new architecture with codename Pascal, successor of Maxwell family working with a doubled L2 cache size 524288 bytes.
 
-![The length of the Jetson TX2 is the same of a AAA battery](NVIDIA_JetsonTX2_battery_module_WHT_2000pxWM.png)
+{% include figure image_path="/assets/review/NVIDIA-jetson-tx2/NVIDIA_JetsonTX2_battery_module_WHT_2000pxWM.png" alt="The length of the Jetson TX2 is the same of a AAA battery" caption="The length of the Jetson TX2 is the same of a AAA battery" %}
 
 Compare with the NVIDIA Jetson TX1 the new NVIDIA Jetson TX2 now use 8 GB 128 bit of memory with a doubled velocity of connection. You have a new feeling when you launch an application, an enhanced velocity of response. The same Board to board connector, the [Samtex SEARAY](https://www.samtec.com/connectors/high-speed-board-to-board/high-density-arrays/searay) 400 pin, allow to use the same designed connectors with the new Jetson TX2 all possessorsof Jetson [Elroy carriers](http://www.connecttech.com/) can breathe a sigh of relief.
 
@@ -83,15 +83,15 @@ Inside the box Jetson box, have:
 
 Compare with the Jetson TX1, the box of NVIDIA Jetson TX2 have the same accessories, and the power supply is the same of the Jetson TX1. In the next picture we can not see any difference. These produce the same output current at the same voltage: 19V at 4.74A – 90W.
 
-![Comparison between power supply of Jetson TX1 and Jetson TX2](comparison_power_supply.jpg)
+{% include figure image_path="/assets/review/NVIDIA-jetson-tx2/comparison_power_supply.jpg" alt="Comparison between power supply of Jetson TX1 and Jetson TX2" caption="Comparison between power supply of Jetson TX1 and Jetson TX2" %}
 
 About the carrier of Jetson TX2 we can see the the same look of the Jetson TX1, just some LEDs are in plus. These LEDs show the status of PCIe port, the status of Jetson TX2 and the power supply.
 
-![The Jetson TX2](JetsonTX2_overview.jpg)
+{% include figure image_path="/assets/review/NVIDIA-jetson-tx2/JetsonTX2_overview.jpg" alt="JetsonTX2_overview.jpg" caption="JetsonTX2_overview.jpg" %}
 
 The carrier have the size 17mm x 17mm and the position of the screw layout is the same of an ITX board.
 
-![Screw layout carrier Jetson TX2](carrier_layout.jpg)
+{% include figure image_path="/assets/review/NVIDIA-jetson-tx2/carrier_layout.jpg" alt="Screw layout carrier Jetson TX2" caption="Screw layout carrier Jetson TX2" %}
 
 The carrier of TX2 have same connectors of the before Jetson TX1, fixed in the same place of the board:
 * Ethernet

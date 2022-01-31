@@ -47,7 +47,7 @@ From the video interview of [armdevices.net](http://armdevices.net/2018/06/04/12
 
 but in particular we can recognize three different type of the same product. In the center the only nacked module, where we can see the same NVIDIA Volta chip (assembled in the DGX) and an extra board with all core of the NVIDIA Jetson; On left the module with the industrial dissipator and medical connector. Finally on right the development kit with the big fan derivation from PC graphics board, and the complete pinout of the board.
 
-{% include gallery id="xavier" caption="NVIDIA Jetson AGX Xavier" %}
+{% include gallery id="xavier" caption="NVIDIA Jetson AGX Xavier" layout="half" %}
 
 The Development kit have a lot of connectors, showed during the interview, but I recognise, if my interpretation is good:
 

@@ -28,6 +28,7 @@ gallery:
 ---
 
 The Jetson TX1 is a new board in NVIDIA embedded board family. This new board has new performance oriented for robotics application, drones, and other. In fact, this board has a compact form factor in only **50mm x 90mm**. Jetson TX1 has:
+
 * [NVIDIA Tegra X1 core](http://www.nvidia.com/object/tegra-x1-processor.html)
 * Onboard WiFi and bluetooth
 * Impressive dissipator with fan
@@ -43,7 +44,7 @@ An NVIDIA Tegra X1 core is based from [Maxwell™](https://developer.nvidia.com/
 
 The new development board has the Jetson TX1 core mounted in a discovery board with size **17cm x 17 cm**. This board has many connectors from standard PC connection (HDMI, USB, SD, ethernet, etc) and JTAG connection, PCI express, Raspberry bus, etc etc.
 
-![Jetson TX1 – core and Carrier](core_and_carrier_tx1.jpg)
+{% include figure image_path="assets/review/NVIDIA-jetson-tx1/core_and_carrier_tx1.jpg" alt="Jetson TX1 – core and Carrier" caption="Jetson TX1 – core and Carrier" %}
 
 NVIDIA Jetson TX1 has a continuous voltage supply converter and it works from 5.5V to 19V. In the NVIDIA box contains an AC-DC converter with an output of 19V.
 
