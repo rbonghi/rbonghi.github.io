@@ -46,3 +46,5 @@ footer:
 {% include feature_row %}
 
 {% include feature_row id="footer" type="center" %}
+
+{% include latest_posts %}
