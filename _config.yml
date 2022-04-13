@@ -64,9 +64,12 @@ author:
     - label: "IG Tech"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/robo.panther"
-    - label: "Email"
+    - label: "Personal"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:raffaello@rnext.it"
+    - label: "NVIDIA"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:rbonghi@nvidia.com"
 
 # Site Footer
 footer:
