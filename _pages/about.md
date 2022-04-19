@@ -40,9 +40,9 @@ As my robot-building skills developed and my university studies were enhancement
 
 During my last years I made [**open-source projects**](/project/), below the most popular:
 
- * [jetson-stats](https://github.com/rbonghi/jetson_stats)
- * [ros-jetson-stats](https://github.com/rbonghi/ros_jetson_stats)
- * [jetson-easy](https://github.com/rbonghi/jetson_easy)
+ * 📊 [jetson-stats](https://github.com/rbonghi/jetson_stats) - [ros-jetson-stats](https://github.com/rbonghi/ros_jetson_stats)
+ * ⚙️ [roboteq-control](https://github.com/rbonghi/roboteq_control)
+ * 🔩 [jetson-easy](https://github.com/rbonghi/jetson_easy)
 
 Below my professional 💼 [Experience](#experience), 👨‍🎓 [Education](#education) and my 🏆 [Awards](#awards).
 
