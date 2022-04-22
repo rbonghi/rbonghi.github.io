@@ -18,6 +18,8 @@ header:
       url: "https://robots.ros.org/nanosaur/"
     - label: "Hackster.io"
       url: "https://www.hackster.io/raffaellob86/nanosaur-302b63"
+    - label: "Hackaday.io"
+      url: "https://hackaday.io/project/184824-nanosaur"
 ---
 
 nanosaur is the smallest <b>NVIDIA Jetson</b> dinosaur robot, fully 3D printable, open-source, [ROS2](https://www.ros.org/) & [Isaac ROS](https://developer.nvidia.com/isaac-ros-gems) based.
