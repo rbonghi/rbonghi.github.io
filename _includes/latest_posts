@@ -2,7 +2,20 @@
 
     <div class="grid__wrapper">
 
-        {% for post in site.posts limit:4 %}
+        <div class="grid__item">
+            <div class="archive__item">
+                <p><b>Reference:</b></p>
+                <a href="/about" class="btn btn--success align-center">About me</a>
+                <hr/>
+                <a href="/posts" class="btn btn--inverse align-center">📰 all posts</a>
+                <hr/>
+                <a href="https://github.com/sponsors/rbonghi" class="btn btn--primary align-center">:sparkling_heart: Sponsor</a>
+                <hr/>
+                <a href="/contact" class="btn btn--info align-center">Contact</a>
+            </div>
+        </div>
+
+        {% for post in site.posts limit:3 %}
         {% include archive-single.html type="grid" %}
         {% endfor %}
 
