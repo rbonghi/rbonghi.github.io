@@ -15,6 +15,10 @@ header:
   actions:
     - label: "Hackster.io"
       url: "https://www.hackster.io/raffaellob86/d-u-d-e-d20021"
+    - label: "Github"
+      url: "https://github.com/rbonghi/ros_dude"
+    - label: "Github gazebo"
+      url: "https://github.com/rbonghi/ros_dude_gazebo"
 slam:
   - url: /assets/robot/dude/SLAM-1.jpg
     image_path: /assets/robot/dude/SLAM-1.jpg
