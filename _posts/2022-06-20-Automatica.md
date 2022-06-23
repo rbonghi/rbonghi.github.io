@@ -5,6 +5,8 @@ classes: wide
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
+  overlay_image: /assets/posts/Automatica/Automatica.jpg
+  teaser: /assets/posts/Automatica/Automatica.jpg
   actions:
     - label: Automatica 2022"
       url: "https://automatica-munich.com/en/"
