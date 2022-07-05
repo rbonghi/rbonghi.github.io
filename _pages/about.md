@@ -50,18 +50,18 @@ Below my professional 💼 [Experience](#experience), 👨‍🎓 [Education](#e
 
 For my full resume watch my profile on [LinkedIn](https://www.linkedin.com/in/raffaello-bonghi/){: .btn .btn--info .btn--large}
 
-## 2021-NOW - NVIDIA  - Developer Relations Manager - AI & Robotics
+## 2021 Mar - NOW - NVIDIA - Developer Relations Manager - AI & Robotics
 **Website:** [NVIDIA](https://www.nvidia.com/)<br/>
 **Location:** Remote
 
-## 2019-2021 - ARM - AI Technology Engineer
+## 2019 Sep - 2021 Mar - ARM - AI Technology Engineer
 **Website:** [ARM](https://www.arm.com/)<br/>
 **Location:** Manchester, UK
 
 * Use and make new models for Monocular Depth Estimation (MDE)
 * 3D localization using different technologies (Active and Passive Stereocameras, cams, lidars)
 
-## 2017-2019 - NTT Data Italia
+## 2017 Mar -2019 Sep - NTT Data Italia
 **Website:** [NTT Data Italia](https://it.nttdata.com/)
 ### Oct 2018 - Sep 2019 - AI Engineer
 **Location:** Milan, Italy
@@ -116,6 +116,12 @@ University of Rome, "La Sapienza"
 
 # Awards
 
+### nanosaur - best ROS robot 2022
+* **Date**: June 2022  
+* **Honor issuer**: [The Construct](https://www.theconstructsim.com/)
+
+nanosaur is the winner of the [Best ROS Robot 2022](https://www.theconstructsim.com/ros-awards-2022/) Awarded by the ROS Developers Community
+
 ### NVIDIA Jetson Champs
 * **Date**: Dec 2014  
 * **Honor issuer**: NVIDIA
@@ -127,8 +133,9 @@ Offers inventive solutions to engineering problems, guidance on tricky mechanica
 * **Honor issuer**: Université Franco Italienne (UFI)
 
 Contribution of mobility on joint program between the university of Rome "La Sapienza" and The Université Paris Sud (Paris XI) for the Thesis on:
-* [FRA] "Applications de l'automatique non linéaire échantillonnée à la robotique mobile"
-* [ENG] "Non linear sampled-data control for mobile robotics"
+* **ENG** "Non linear sampled-data control for mobile robotics"
+* **ITA** "Applicazioni dell'automatica non lineare a segnali campionati alla movimentazione robotica"
+* **FRA** "Applications de l'automatique non linéaire échantillonnée à la robotique mobile"
 
 ### Excellent graduated "Sapienza" - 2011/2012
 * **Date**: Oct 2012
@@ -141,5 +148,6 @@ Best thesis and course of study in Master degree of System and control theory en
 * **Honor issuer**: Università degli Studi di Roma 'La Sapienza'
 
 Ph.D. Scholarship in Italy for research and university studies on thesis:
+* **ENG** "Non linear sampled-data control for mobile robotics"
 * **ITA** "Applicazioni dell'automatica non lineare a segnali campionati alla movimentazione robotica"
-* **ENG** "Non linear sampled-data for mobile robotics"
+* **FRA** "Applications de l'automatique non linéaire échantillonnée à la robotique mobile"
