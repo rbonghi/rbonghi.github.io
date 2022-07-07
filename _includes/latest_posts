@@ -5,7 +5,7 @@
         <div class="grid__item">
             <div class="archive__item">
                 <p><b>Reference:</b></p>
-                <a href="/about" class="btn btn--success align-center">About me</a>
+                <a href="/raffaello-bonghi/" class="btn btn--success align-center">About me</a>
                 <hr/>
                 <a href="/posts" class="btn btn--inverse align-center">📰 all posts</a>
                 <hr/>
