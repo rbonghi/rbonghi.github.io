@@ -11,7 +11,7 @@ header:
     - label: "The construct website"
       url: "https://www.theconstructsim.com/ros-awards-2022/"
 categories:
-  - Events
+  - Awards
 tags:
   - The Construct
   - ROS
