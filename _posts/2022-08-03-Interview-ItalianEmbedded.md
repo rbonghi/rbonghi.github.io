@@ -6,6 +6,7 @@ header:
   video:
     id: 4IBoXB_l2kI
     provider: youtube
+  teaser: /assets/posts/ItalianEmbedded.png
 categories:
   - Interview
 tags:
