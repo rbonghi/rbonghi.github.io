@@ -5,13 +5,9 @@ classes: wide
 categories:
   - Events
 header:
-  overlay_color: "#000"
-  overlay_filter: "0.5"
-  overlay_image: /assets/posts/ROSDevDay2022/ROS-developer-day2022.jpg
+    id: V5qOOWkkpww
+    provider: youtube
   teaser: /assets/posts/ROSDevDay2022/ROS-developer-day2022.jpg
-  actions:
-    - label: "The construct website"
-      url: "https://www.theconstructsim.com/ros-developers-day-2022"
 tags:
   - The Construct
   - Ricardo Tellez
@@ -19,6 +15,11 @@ tags:
   - ROS Developer Day
 ---
 
-Preview:
 
+
+[ROS Developer Day 2022](https://www.theconstructsim.com/ros-developers-day-2022)
+
+Preview:
 {% include video id="14uZDJSQCU8RlmveQID5iP__PuxQD3aqU" provider="google-drive" %}
+
+{% include figure image_path="/assets/posts/ROSDevDay2022/ROS-developer-day2022.jpg" alt="ROS developer Day 2022" caption="ROS developer Day 2022" %}
