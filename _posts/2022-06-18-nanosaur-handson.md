@@ -5,6 +5,7 @@ classes: wide
 categories:
   - Events
 header:
+  video:
     id: V5qOOWkkpww
     provider: youtube
   teaser: /assets/posts/ROSDevDay2022/ROS-developer-day2022.jpg
