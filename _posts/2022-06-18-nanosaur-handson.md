@@ -15,8 +15,6 @@ tags:
   - ROS Developer Day
 ---
 
-
-
 [ROS Developer Day 2022](https://www.theconstructsim.com/ros-developers-day-2022)
 
 Preview:
