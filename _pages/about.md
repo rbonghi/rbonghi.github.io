@@ -4,6 +4,7 @@ excerpt: "_**[NVIDIA  - Developer Relations Manager - AI & Robotics](#experience
 permalink: /raffaello-bonghi/
 redirect_from:
   - /raffaello-bonghi/experience/
+  - /about/
 classes: wide
 sidebar:
   - nav: "about"
