@@ -16,6 +16,8 @@ about:
     children:
       - title: "- Contact"
         url: /contact
+      - title: "- Awards"
+        url: /awards
       - title: "- Publications"
         url: /publications
       - title: "- Interviews"

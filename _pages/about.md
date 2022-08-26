@@ -22,6 +22,11 @@ header:
       url: "/interview"
     - label: "Events"
       url: "/events"
+soloingegneria:
+  - image_path: "/assets/websites/soloingegneria/pre-site.jpg"
+  - image_path: "/assets/websites/soloingegneria/pre-site_2.jpg"
+  - image_path: "/assets/websites/soloingegneria/website_old.jpg"
+  - image_path: "/assets/websites/soloingegneria/website.jpg"
 ---
 
 Hello! Are you browsing here?
@@ -45,7 +50,7 @@ During my last years I made [**open-source projects**](/project/), below the mos
  * ⚙️ [roboteq-control](https://github.com/rbonghi/roboteq_control)
  * 🔩 [jetson-easy](https://github.com/rbonghi/jetson_easy)
 
-Below my professional 💼 [Experience](#experience), 👨‍🎓 [Education](#education) and my 🏆 [Awards](#awards).
+Below my professional 💼 [Experience](#experience), 👨‍🎓 [Education](#education), 🏆 [Awards](#awards) and my [Volunteering](#volunteering).
 
 # Experience
 
@@ -64,14 +69,14 @@ For my full resume watch my profile on [LinkedIn](https://www.linkedin.com/in/ra
 
 ## 2017 Mar -2019 Sep - NTT Data Italia
 **Website:** [NTT Data Italia](https://it.nttdata.com/)
-### Oct 2018 - Sep 2019 - AI Engineer
+### 2018 Oct - 2019 Sep - AI Engineer
 **Location:** Milan, Italy
 
 Design a crawler to autonomous recognize technologies from text in Social media and Websites
 * Use and Train NLP or NER to recognize sentences from text
 * Develop on Docker a service environment
 
-### Sep 2017 - Sep 2018 - Robotics engineer
+### 2017 Sep - 2018 Sep - Robotics engineer
 **Location:** Tokyo, Japan
 
 Center of excellence project for connected vehicles robotics and AI<br/>
@@ -80,7 +85,7 @@ Highlights:
 * ROS integration and application with Autoware
 * Develop robotic services in automotive environments
 
-### Mar 2017 - Sep 2017 - IoT and Robotics Engineer
+### 2017 Mar - 2017 Sep - IoT and Robotics Engineer
 **Location:** Rome, Italy *for* DICT laboratory for ENEL SpA
 * IoT research and scouting products in domestic and industrial environments
 * IoT analysis and design for new products
@@ -117,38 +122,36 @@ University of Rome, "La Sapienza"
 
 # Awards
 
-### nanosaur - best ROS robot 2022
-* **Date**: June 2022  
-* **Honor issuer**: [The Construct](https://www.theconstructsim.com/)
+In this section the latest awards I received, for a full list open the 🏆 [award](/awards) page.
 
-nanosaur is the winner of the [Best ROS Robot 2022](https://www.theconstructsim.com/ros-awards-2022/) Awarded by the ROS Developers Community
+{% include latest_posts_page limit=5 page="awards" %}
 
-### NVIDIA Jetson Champs
-* **Date**: Dec 2014  
-* **Honor issuer**: NVIDIA
+# Volunteering
 
-Offers inventive solutions to engineering problems, guidance on tricky mechanical issues and tutorials that help people of all ages learn the skills to build professional-quality robots.
+### Founder & Vice president - Officine Robotiche
+* **Date:** 2015 - 2021
+* **Website:** [officinerobotiche.it](https://www.officinerobotiche.it)
 
-### Contribution of mobility
-* **Date**: Jun 2013
-* **Honor issuer**: Université Franco Italienne (UFI)
+Officine Robotiche is a No-Profit Association promoting knowledge in the area of robotics, new technologies, and digital manufacturing.
 
-Contribution of mobility on joint program between the university of Rome "La Sapienza" and The Université Paris Sud (Paris XI) for the Thesis on:
-* **ENG** "Non linear sampled-data control for mobile robotics"
-* **ITA** "Applicazioni dell'automatica non lineare a segnali campionati alla movimentazione robotica"
-* **FRA** "Applications de l'automatique non linéaire échantillonnée à la robotique mobile"
+### Member of IEEE
+* **Date:** 2008 - now
+* **Website:** [ieee.org](https://www.ieee.org/)
 
-### Excellent graduated "Sapienza" - 2011/2012
-* **Date**: Oct 2012
-* **Honor issuer**: Università degli Studi di Roma 'La Sapienza'
+The Institute of Electrical and Electronics Engineers is a 501 professional association for electronic engineering.
+* [IEEE RAS member](https://www.ieee-ras.org/)
+* [IEEE CSS member](http://ieeecss.org/)
 
-Best thesis and course of study in Master degree of System and control theory engineering with thesis: "An autonomous mobile platform in an 'Augmented reality' environment"
+### Founder minisumo.net
+* **Date:**  2003 - now
+* **Website:** [minisumo.net](https://minisumo.net)
 
-### Ph.D. Scholarship
-* **Date**: Oct 2012
-* **Honor issuer**: Università degli Studi di Roma 'La Sapienza'
+Official Italian website for minisumo and sumo competitions
 
-Ph.D. Scholarship in Italy for research and university studies on thesis:
-* **ENG** "Non linear sampled-data control for mobile robotics"
-* **ITA** "Applicazioni dell'automatica non lineare a segnali campionati alla movimentazione robotica"
-* **FRA** "Applications de l'automatique non linéaire échantillonnée à la robotique mobile"
+### Founder Soloingegneria.com
+* **Date:**  2006 - 2012
+* **Website:** soloingegneria.com (discontinued)
+
+Founder of the unofficial informatics and control theory engineers forum for Sapienza university of Rome
+
+{% include gallery id="soloingegneria" caption="Soloingegneria website" layout="half" %}

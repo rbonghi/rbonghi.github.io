@@ -1,6 +1,6 @@
 ---
 title: "Finalist Best ROS developer 2022"
-excerpt: "Finalist Best ROS developer 2022"
+excerpt: "I am finalist for Best ROS developer 2022"
 classes: wide
 header:
   overlay_color: "#000"
