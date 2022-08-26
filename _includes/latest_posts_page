@@ -1,0 +1,19 @@
+<div class="wide__wrapper">
+
+    {% assign post_counter = 0 %}
+    {% assign limit_counter = include.limit | default: 3 %}
+    {% for post in site.posts %}
+        {% if post_counter == limit_counter %}
+            {% break %}
+        {% endif %}
+        {% if post.categories[0] == "Awards" %}
+            {% include archive-single.html type="wide" %}
+            {% assign post_counter = post_counter | plus:1 %}
+        {% endif %}
+    {% endfor %}
+
+</div>
+
+{% if include.page %}
+<a href="/{{ include.page }}" class="btn btn--success align-center">Read more</a>
+{% endif %}
