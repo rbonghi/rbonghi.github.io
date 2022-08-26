@@ -1,6 +1,6 @@
 ---
 title: "NVIDIA Jetson Champs"
-excerpt: "Ph.D. Scholarship in Italy for research and university studies"
+excerpt: "Offers inventive solutions to engineering problems using NVIDIA Jetson"
 classes: wide
 categories:
   - Awards
