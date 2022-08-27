@@ -128,14 +128,22 @@ In this section the latest awards I received, for a full list open the 🏆 [awa
 
 # Volunteering
 
-### Founder & Vice president - Officine Robotiche
+### Co-Founder - :pizza: Pizzarobotics
+* **Date:** 2021 - NOW
+* **Website:** [pizzarobotics.org](https://pizzarobotics.org/)
+
+We are Italian Makers. We make Robots. In Pizza we crust
+
+Collective of professionals and high-level enthusiasts roboticist.
+
+### Co-Founder & Vice president - Officine Robotiche
 * **Date:** 2015 - 2021
 * **Website:** [officinerobotiche.it](https://www.officinerobotiche.it)
 
 Officine Robotiche is a No-Profit Association promoting knowledge in the area of robotics, new technologies, and digital manufacturing.
 
 ### Member of IEEE
-* **Date:** 2008 - now
+* **Date:** 2008 - NOW
 * **Website:** [ieee.org](https://www.ieee.org/)
 
 The Institute of Electrical and Electronics Engineers is a 501 professional association for electronic engineering.
@@ -143,7 +151,7 @@ The Institute of Electrical and Electronics Engineers is a 501 professional asso
 * [IEEE CSS member](http://ieeecss.org/)
 
 ### Founder minisumo.net
-* **Date:**  2003 - now
+* **Date:**  2003 - NOW
 * **Website:** [minisumo.net](https://minisumo.net)
 
 Official Italian website for minisumo and sumo competitions
