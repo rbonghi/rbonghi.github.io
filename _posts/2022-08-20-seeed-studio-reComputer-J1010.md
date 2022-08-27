@@ -33,15 +33,15 @@ reComputer-box:
     image_path: /assets/review/reComputerJ1010/seeedStudio-reComputer-box-inside.jpg
     alt: "reComputer J1010 Box - inside"
     title: "reComputer J1010 Box - inside"
-reComputer:
+reComputer-case:
   - url: /assets/review/reComputerJ1010/seeedstudio-reComputerJ1010.jpg
     image_path: /assets/review/reComputerJ1010/seeedstudio-reComputerJ1010.jpg
     alt: "reComputer J1010"
     title: "reComputer J1010"
-  - url: /assets/review/reComputerJ1010/seeedstudio-12vpower-adapter.jpg
-    image_path: /assets/review/reComputerJ1010/seeedstudio-12vpower-adapter.jpg
-    alt: "12V power adapter and adaptors"
-    title: "12V power adapter and adaptors"
+  - url: /assets/review/reComputerJ1010/seeedstudio-open-button.jpg
+    image_path: /assets/review/reComputerJ1010/seeedstudio-open-button.jpg
+    alt: "Open button on Aluminum case"
+    title: "Open button on Aluminum case"
 Aluminum-case:
   - url: /assets/review/reComputerJ1010/reComputer-case-A.jpg
     image_path: /assets/review/reComputerJ1010/reComputer-case-A.jpg
@@ -62,28 +62,65 @@ seeedstudio-carrier:
     title: "Seeed Studio NVIDIA Jetson Nano custom carrier board - Top"
 ---
 
-A detailed investigation on the [Seeed Studio reComputer J1010](https://www.seeedstudio.com/Jetson-10-1-H0-p-5335.html). A powerful box with an NVIDIA Jetson Nano with a custom carrier with extra RTC socket, M.2 KEY E and M.2 KEY M connector extra.
+A detailed review on the [Seeed Studio reComputer J1010](https://www.seeedstudio.com/Jetson-10-1-H0-p-5335.html). A powerful box with an NVIDIA Jetson Nano with a custom carrier with extra RTC socket, M.2 KEY E and M.2 KEY M connector extra.
 
-# Box overview
+Seeed Studio also seel different solution of the same reComputer J10 series:
+* [reComputer J1010](https://www.seeedstudio.com/Jetson-10-1-A0-p-5336.html)
+* [reComputer J1020](https://www.seeedstudio.com/Jetson-10-1-H0-p-5335.html)
+
+# Product overview
+
+The [Seeed Studio reComputer J1010](https://www.seeedstudio.com/Jetson-10-1-H0-p-5335.html) appears in a nice black cartoned package where the Aluminum case is cushioned by foam.
 
 {% include gallery id="reComputer-box" caption="Seed Studio reComputer J1010 box" %}
 
-Part list:
+The package include a box with the 12V power adapter and a complete set of power adapters to use the reComputer in all countries.
+
+List of components:
 * NVIDIA Jetson Nano module
 * Seeed reference carrier board
 * Passive aluminum heatsink
 * Aluminum case
 * 12V power adapter
 
+This box looks pretty nice, and safe for transport. I liked the engraved logo when you open the package.
+
+**ℹ️ INFO** If you want to see a review of the unboxing, open my [📸 robo.panther](https://www.instagram.com/robo.panther/) instagram account and watch my [🎞️ **reel**](https://www.instagram.com/reel/Cg4t5ZSlNfa/?igshid=YmMyMTA2M2Y=)
+{: .notice--primary}
+
+## Main features
+
+* **Hand-size edge AI device** built with NVIDIA Jetson Nano 4GB Production Module, with onboard rich IOs including Gigabit Ethernet port, USB 3.0 & USB 2.0 ports, HDMI port, SD card slot. 
+* **128 NVIDIA CUDA® cores deliver 0.5 TFLOPs (FP16)** to run AI frameworks and models for applications like image classification, object detection, segmentation, and speech processing.
+* **Pre-installed NVIDIA JetPack**: support entire [Jetson software stack](https://developer.nvidia.com/embedded/develop/software) and various [developer tools](https://wiki.seeedstudio.com/Jetson-AI-developer-tools/) for building fast and robust AI application provided by Seeed Edge AI partners, helps develop innovative AI solution for manufacturing, logistics, retail, service, agriculture, smart city, healthcare, and life sciences, etc 
+* **Incredibly power efficient**: powered by Type C 5V/3A, consuming as little as 5 watts.
+* **Expandable** with the onboard interfaces and reComputer case, able to mount on the wall with mounting holes on the back.
+
 # reComputer J1010
 
-{% include gallery id="reComputer" caption="Seed Studio reComputer J1010 parts" %}
-
-{% include figure image_path="/assets/review/reComputerJ1010/seeedstudio-open-button.jpg" alt="Open button on Aluminum case" caption="Open button on Aluminum case" %}
+The box looks pretty solid and well designed. Inside the Aluminium case are assembled on the Seeed Studio custom developer board the NVIDIA Jetson Nano module with heatsink, same of the official NVIDIA Developer Kit.
 
 {% include figure image_path="/assets/review/reComputerJ1010/seeedstudio-reComputerJ1010-open.jpg" alt="Aluminum case opened with NVIDIA Jetson Nano" caption="Aluminum case opened with NVIDIA Jetson Nano" %}
 
+In the second box is available a 12V power supply with all adapters, for all main countries, such as:
+
+| Plug   | Countries |
+|--------|-----------|
+| Type-A | USA, Japan, Canada, Mexico |
+| Type-C | Europe, Asia and South America |
+| Type-E | Europe |
+| Type-G | UK | 
+| Type-I | India | 
+
+{% include figure image_path="/assets/review/reComputerJ1010/seeedstudio-12vpower-adapter.jpg" alt="12V power adapter and adaptors" caption="12V power adapter and adaptors" %}
+
+This power supply works with an 100-240V input with an output of 12V at 2A continuous. This powers AC/DC adapter have a power jack output that fit with the NVIDIA Jetson Nano custom carrier board.
+
 ## Aluminum case
+
+{% include gallery id="reComputer-case" caption="Seed Studio reComputer J1010 parts" %}
+
+The Aluminum case is pretty solid and different 
 
 {% include gallery id="Aluminum-case" caption="Aluminum case details" %}
 
@@ -91,7 +128,23 @@ Part list:
 
 {% include gallery id="seeedstudio-carrier" caption="Seeed Studio NVIDIA Jetson Nano custom carrier board" %}
 
+{% capture notice-text %}
+**ℹ️ INFO** Have you seen my review on the NVIDIA Jetson Nano?
+
+Check the links below:
+* [🎞️ NVIDIA Jetson Nano Review](https://youtu.be/KfOjhXq8Um4)
+* [🎞️ NVIDIA Jetson Nano 2Gb Review](https://rnext.it/review/nvidia-jetson-nano-2gb/)
+{% endcapture %}
+
+<div class="notice--primary">
+  {{ notice-text | markdownify }}
+</div>
+
+
 {% include figure image_path="/assets/review/reComputerJ1010/NVIDIAJetson-Nano-seeedstudio-carrier-down.jpg" alt="Open button on Aluminum case" caption="Open button on Aluminum case" %}
+
+**ℹ️ INFO** This NVIDIA Jetson is already installed the **Jetpack 4.6** and you can use it directly when you powering on the system.
+{: .notice--primary}
 
 # Install on SD card
 
