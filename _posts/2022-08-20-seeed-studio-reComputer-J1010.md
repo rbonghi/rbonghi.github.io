@@ -1,15 +1,15 @@
 ---
-title: "seeed studio - reComputer J1010"
+title: "seeed studio - reComputer J1020"
 excerpt: "A small NVIDIA Jetson Nano box, with a powerful carrier board"
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: /assets/review/reComputerJ1010/seeedstudio-reComputerJ1010-open.jpg
-  teaser: /assets/review/reComputerJ1010/seeedstudio-reComputerJ1010-open.jpg
+  overlay_image: /assets/review/reComputerJ1020/seeedstudio-reComputerJ1020-open.jpg
+  teaser: /assets/review/reComputerJ1020/seeedstudio-reComputerJ1020-open.jpg
   actions:
     - label: Seeed Studio
       url: "https://www.seeedstudio.com"
-    - label: reComputer J1010 / J1020
+    - label: reComputer J1020 / J1020
       url: "https://www.seeedstudio.com/Jetson-10-1-H0-p-5335.html"
     - label: 128GB NVMe M.2 PCle Gen3x4 SSD
       url: "https://www.seeedstudio.com/M-2-2280-SSD-128GB-p-5332.html"
@@ -25,44 +25,44 @@ toc_label: "Table of Contents"
 toc_icon: "cog"
 toc_sticky: true
 reComputer-box:
-  - url: /assets/review/reComputerJ1010/seeedStudio-reComputer-box.jpg
-    image_path: /assets/review/reComputerJ1010/seeedStudio-reComputer-box.jpg
-    alt: "reComputer J1010 Box"
-    title: "reComputer J1010 Box"
-  - url: /assets/review/reComputerJ1010/seeedStudio-reComputer-box-inside.jpg
-    image_path: /assets/review/reComputerJ1010/seeedStudio-reComputer-box-inside.jpg
-    alt: "reComputer J1010 Box - inside"
-    title: "reComputer J1010 Box - inside"
+  - url: /assets/review/reComputerJ1020/seeedStudio-reComputer-box.jpg
+    image_path: /assets/review/reComputerJ1020/seeedStudio-reComputer-box.jpg
+    alt: "reComputer J1020 Box"
+    title: "reComputer J1020 Box"
+  - url: /assets/review/reComputerJ1020/seeedStudio-reComputer-box-inside.jpg
+    image_path: /assets/review/reComputerJ1020/seeedStudio-reComputer-box-inside.jpg
+    alt: "reComputer J1020 Box - inside"
+    title: "reComputer J1020 Box - inside"
 reComputer-case:
-  - url: /assets/review/reComputerJ1010/seeedstudio-reComputerJ1010.jpg
-    image_path: /assets/review/reComputerJ1010/seeedstudio-reComputerJ1010.jpg
-    alt: "reComputer J1010"
-    title: "reComputer J1010"
-  - url: /assets/review/reComputerJ1010/seeedstudio-open-button.jpg
-    image_path: /assets/review/reComputerJ1010/seeedstudio-open-button.jpg
+  - url: /assets/review/reComputerJ1020/seeedstudio-reComputerJ1020.jpg
+    image_path: /assets/review/reComputerJ1020/seeedstudio-reComputerJ1020.jpg
+    alt: "reComputer J1020"
+    title: "reComputer J1020"
+  - url: /assets/review/reComputerJ1020/seeedstudio-open-button.jpg
+    image_path: /assets/review/reComputerJ1020/seeedstudio-open-button.jpg
     alt: "Open button on Aluminum case"
     title: "Open button on Aluminum case"
 Aluminum-case:
-  - url: /assets/review/reComputerJ1010/reComputer-case-A.jpg
-    image_path: /assets/review/reComputerJ1010/reComputer-case-A.jpg
+  - url: /assets/review/reComputerJ1020/reComputer-case-B.jpg
+    image_path: /assets/review/reComputerJ1020/reComputer-case-B.jpg
     alt: "Aluminum case A"
     title: "Aluminum case A"
-  - url: /assets/review/reComputerJ1010/reComputer-case-B.jpg
-    image_path: /assets/review/reComputerJ1010/reComputer-case-B.jpg
+  - url: /assets/review/reComputerJ1020/reComputer-case-A.jpg
+    image_path: /assets/review/reComputerJ1020/reComputer-case-A.jpg
     alt: "Aluminum case B"
     title: "Aluminum case B"
 seeedstudio-carrier:
-  - url: /assets/review/reComputerJ1010/NVIDIAJetson-Nano-seeedstudio-carrier.jpg
-    image_path: /assets/review/reComputerJ1010/NVIDIAJetson-Nano-seeedstudio-carrier.jpg
+  - url: /assets/review/reComputerJ1020/NVIDIAJetson-Nano-seeedstudio-carrier.jpg
+    image_path: /assets/review/reComputerJ1020/NVIDIAJetson-Nano-seeedstudio-carrier.jpg
     alt: "Seeed Studio NVIDIA Jetson Nano custom carrier board - Overview"
     title: "Seeed Studio NVIDIA Jetson Nano custom carrier board - Overview"
-  - url: /assets/review/reComputerJ1010/NVIDIAJetson-Nano-seeedstudio-carrier-top.jpg
-    image_path: /assets/review/reComputerJ1010/NVIDIAJetson-Nano-seeedstudio-carrier-top.jpg
+  - url: /assets/review/reComputerJ1020/NVIDIAJetson-Nano-seeedstudio-carrier-top.jpg
+    image_path: /assets/review/reComputerJ1020/NVIDIAJetson-Nano-seeedstudio-carrier-top.jpg
     alt: "Seeed Studio NVIDIA Jetson Nano custom carrier board - Top"
     title: "Seeed Studio NVIDIA Jetson Nano custom carrier board - Top"
 ---
 
-A detailed review on the [Seeed Studio reComputer J1010](https://www.seeedstudio.com/Jetson-10-1-H0-p-5335.html). A powerful box with an NVIDIA Jetson Nano with a custom carrier with extra RTC socket, M.2 KEY E and M.2 KEY M connector extra.
+In this review on the [Seeed Studio reComputer J1020](https://www.seeedstudio.com/Jetson-10-1-H0-p-5335.html), a powerful box with an NVIDIA Jetson Nano with a custom carrier with extra RTC socket, M.2 KEY E and M.2 KEY M connector extra.
 
 Seeed Studio also seel different solution of the same reComputer J10 series:
 * [reComputer J1010](https://www.seeedstudio.com/Jetson-10-1-A0-p-5336.html)
@@ -70,9 +70,9 @@ Seeed Studio also seel different solution of the same reComputer J10 series:
 
 # Product overview
 
-The [Seeed Studio reComputer J1010](https://www.seeedstudio.com/Jetson-10-1-H0-p-5335.html) appears in a nice black cartoned package where the Aluminum case is cushioned by foam.
+The [Seeed Studio reComputer J1020](https://www.seeedstudio.com/Jetson-10-1-H0-p-5335.html) appears in a nice black cartoned package where the Aluminum case is cushioned by foam.
 
-{% include gallery id="reComputer-box" caption="Seed Studio reComputer J1010 box" %}
+{% include gallery id="reComputer-box" caption="Seed Studio reComputer J1020 box" %}
 
 The package include a box with the 12V power adapter and a complete set of power adapters to use the reComputer in all countries.
 
@@ -96,11 +96,11 @@ This box looks pretty nice, and safe for transport. I liked the engraved logo wh
 * **Incredibly power efficient**: powered by Type C 5V/3A, consuming as little as 5 watts.
 * **Expandable** with the onboard interfaces and reComputer case, able to mount on the wall with mounting holes on the back.
 
-# reComputer J1010
+# reComputer J1020
 
 The box looks pretty solid and well designed. Inside the Aluminium case are assembled on the Seeed Studio custom developer board the NVIDIA Jetson Nano module with heatsink, same of the official NVIDIA Developer Kit.
 
-{% include figure image_path="/assets/review/reComputerJ1010/seeedstudio-reComputerJ1010-open.jpg" alt="Aluminum case opened with NVIDIA Jetson Nano" caption="Aluminum case opened with NVIDIA Jetson Nano" %}
+{% include figure image_path="/assets/review/reComputerJ1020/seeedstudio-reComputerJ1020-open.jpg" alt="Aluminum case opened with NVIDIA Jetson Nano" caption="Aluminum case opened with NVIDIA Jetson Nano" %}
 
 In the second box is available a 12V power supply with all adapters, for all main countries, such as:
 
@@ -112,15 +112,21 @@ In the second box is available a 12V power supply with all adapters, for all mai
 | Type-G | UK | 
 | Type-I | India | 
 
-{% include figure image_path="/assets/review/reComputerJ1010/seeedstudio-12vpower-adapter.jpg" alt="12V power adapter and adaptors" caption="12V power adapter and adaptors" %}
+{% include figure image_path="/assets/review/reComputerJ1020/seeedstudio-12vpower-adapter.jpg" alt="12V power adapter and adaptors" caption="12V power adapter and adaptors" %}
 
 This power supply works with an 100-240V input with an output of 12V at 2A continuous. This powers AC/DC adapter have a power jack output that fit with the NVIDIA Jetson Nano custom carrier board.
 
 ## Aluminum case
 
-{% include gallery id="reComputer-case" caption="Seed Studio reComputer J1010 parts" %}
+The Aluminum case is pretty solid and really simple to use a Jetson Nano for server application or AI. 
 
-The Aluminum case is pretty solid and different 
+Something that I notice really useful is the double rubber feet, one the case basement and another side on a side. This solution give to this NVIDIA Jetson box a stable solution if you don't have enough space on your desk.
+
+Another nice thing is a button below the box to open and have access to the NVIDIA Jetson. The cover is attached by four magnets and only pressing this button the cover is released.
+
+{% include gallery id="reComputer-case" caption="Seed Studio reComputer J1020 parts" %}
+
+In these two picture below you can observe how is made the reComputer case.
 
 {% include gallery id="Aluminum-case" caption="Aluminum case details" %}
 
@@ -141,20 +147,20 @@ Check the links below:
 </div>
 
 
-{% include figure image_path="/assets/review/reComputerJ1010/NVIDIAJetson-Nano-seeedstudio-carrier-down.jpg" alt="Open button on Aluminum case" caption="Open button on Aluminum case" %}
+{% include figure image_path="/assets/review/reComputerJ1020/NVIDIAJetson-Nano-seeedstudio-carrier-down.jpg" alt="Open button on Aluminum case" caption="Open button on Aluminum case" %}
 
 **ℹ️ INFO** This NVIDIA Jetson is already installed the **Jetpack 4.6** and you can use it directly when you powering on the system.
 {: .notice--primary}
 
 # Install on SD card
 
-{% include figure image_path="/assets/review/reComputerJ1010/NVIDIAJetson-Nano-seeedstudio-carrier-SSD.jpg" alt="Install SSD card on Seeed Studio  Jetson Nano custom carrier" caption="Install SSD card on Seeed Studio  Jetson Nano custom carrier" %}
+{% include figure image_path="/assets/review/reComputerJ1020/NVIDIAJetson-Nano-seeedstudio-carrier-SSD.jpg" alt="Install SSD card on Seeed Studio  Jetson Nano custom carrier" caption="Install SSD card on Seeed Studio  Jetson Nano custom carrier" %}
 
 # Reference
 
 All reference you can find here:
 * [Seeed Studio](https://www.seeedstudio.com)
 * [Forum Seeed Studio](https://forum.seeedstudio.com)
-* [Seeed Studio reComputer J1010](https://www.seeedstudio.com/Jetson-10-1-H0-p-5335.html)
+* [Seeed Studio reComputer J1020](https://www.seeedstudio.com/Jetson-10-1-H0-p-5335.html)
 * [128GB NVMe M.2 PCle Gen3x4 SSD](https://www.seeedstudio.com/M-2-2280-SSD-128GB-p-5332.html)
 * [NVIDIA Jetson](https://developer.nvidia.com/buy-jetson)
