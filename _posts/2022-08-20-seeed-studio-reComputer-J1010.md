@@ -60,9 +60,25 @@ seeedstudio-carrier:
     image_path: /assets/review/reComputerJ1020/NVIDIAJetson-Nano-seeedstudio-carrier-top.jpg
     alt: "Seeed Studio NVIDIA Jetson Nano custom carrier board - Top"
     title: "Seeed Studio NVIDIA Jetson Nano custom carrier board - Top"
+  - url: /assets/review/reComputerJ1020/NVIDIAJetson-Nano-seeedstudio-carrier-down.jpg
+    image_path: /assets/review/reComputerJ1020/NVIDIAJetson-Nano-seeedstudio-carrier-down.jpg
+    alt: "Seeed Studio NVIDIA Jetson Nano custom carrier board - Bottom"
+    title: "Seeed Studio NVIDIA Jetson Nano custom carrier board - Bottom"
+reComputerJ1020-connections:
+  - url: /assets/review/reComputerJ1020/Jetsonh01carriedboard-top.jpg
+    image_path: /assets/review/reComputerJ1020/Jetsonh01carriedboard-top.jpg
+    alt: "Seeed Studio NVIDIA Jetson Nano custom carrier board - connection chart - Top"
+    title: "Seeed Studio NVIDIA Jetson Nano custom carrier board - connection chart - Top"
+  - url: /assets/review/reComputerJ1020/Jetsonh01carriedboard-top.bottom
+    image_path: /assets/review/reComputerJ1020/Jetsonh01carriedboard-bottom.jpg
+    alt: "Seeed Studio NVIDIA Jetson Nano custom carrier board - connection chart - Bottom"
+    title: "Seeed Studio NVIDIA Jetson Nano custom carrier board - connection chart - Bottom"
 ---
 
 In this review on the [Seeed Studio reComputer J1020](https://www.seeedstudio.com/Jetson-10-1-H0-p-5335.html), a powerful box with an NVIDIA Jetson Nano with a custom carrier with extra RTC socket, M.2 KEY E and M.2 KEY M connector extra.
+
+**:warning: WARNING** *reComputer Jetson-10-1-A0* has changed to *reComputer J1010*
+{: .notice--warning}
 
 Seeed Studio also seel different solution of the same reComputer J10 series:
 * [reComputer J1010](https://www.seeedstudio.com/Jetson-10-1-A0-p-5336.html)
@@ -120,19 +136,27 @@ This power supply works with an 100-240V input with an output of 12V at 2A conti
 
 The Aluminum case is pretty solid and really simple to use a Jetson Nano for server application or AI. 
 
-Something that I notice really useful is the double rubber feet, one the case basement and another side on a side. This solution give to this NVIDIA Jetson box a stable solution if you don't have enough space on your desk.
+Something that I notice really useful is the double rubber feet, one the case basement and another side on a side. This solution give to this NVIDIA Jetson box a stable solution if you don't have enough space on your desk, moreover there are four holes for a wall mount.
 
 Another nice thing is a button below the box to open and have access to the NVIDIA Jetson. The cover is attached by four magnets and only pressing this button the cover is released.
 
 {% include gallery id="reComputer-case" caption="Seed Studio reComputer J1020 parts" %}
 
-In these two picture below you can observe how is made the reComputer case.
+In these two picture below you can notice how is made the reComputer case.
+
+There are different threaded holes for different carriers board or different devices. This is a good solution if you want to use this case for other carrier board or you want to design something from scratch.
 
 {% include gallery id="Aluminum-case" caption="Aluminum case details" %}
 
+This case offers on the other side of rubber feet four through holes to pass cables from the NVIDIA Jetson outside the case. Example if you have buttons, I2C sensors or other.
+
+My only personal hint that I suggest is for the NVIDIA Jetson Nano, when you use for heavy application to don't use the cover and make it possible to plug an extra fan on the Jetson heatsink.
+
+This aluminum case fit also for a [NVIDIA Jetson Xavier NX](https://rnext.it/review/nvidia-jetson-xavier-nx/) board, and in this case you don't need to modify nothing, the heatsink has already inside a little fan.
+
 ## Carrier board
 
-{% include gallery id="seeedstudio-carrier" caption="Seeed Studio NVIDIA Jetson Nano custom carrier board" %}
+The Seeed Studio reComputer J1020 offer an awesome custom carrier really well design and looks like to have on your hands an official NVIDIA Jetson Nano Developer kit.
 
 {% capture notice-text %}
 **ℹ️ INFO** Have you seen my review on the NVIDIA Jetson Nano?
@@ -146,15 +170,79 @@ Check the links below:
   {{ notice-text | markdownify }}
 </div>
 
+The size and the screw holes are in the same position of the official NVIDIA Jetson Nano Dev Kit.
 
-{% include figure image_path="/assets/review/reComputerJ1020/NVIDIAJetson-Nano-seeedstudio-carrier-down.jpg" alt="Open button on Aluminum case" caption="Open button on Aluminum case" %}
+{% include gallery id="seeedstudio-carrier" caption="Seeed Studio NVIDIA Jetson Nano custom carrier board" %}
+
+This custom carrier (model J1020) offer different extra connection compared an official carrier, in the pictures below you can notice the main difference:
+* M.2 KEY M
+* M.2 KEY E (disabled)
+* RTC socket (battery not included)
+* Fan header (different connector)
+* Optional PoE backpower header
+* DC Barrel jack 9V-19V (The official DevKit need only 5V input)
+
+{% include gallery id="reComputerJ1020-connections" caption="Seeed Studio carrier board connections" %}
+
+Compare the official Developer Kit provided NVIDIA, the reComputer J1020 use a NVIDIA Jetson Nano module, where works with an 16Gb eMMC memory instead of a SDcard slot, but if you need extra space, you can use a the M.2 KEY M and plug a SSD NVMe card to have extra space.
 
 **ℹ️ INFO** This NVIDIA Jetson is already installed the **Jetpack 4.6** and you can use it directly when you powering on the system.
 {: .notice--primary}
 
 # Install on SD card
 
+Here we are!
+
+If we want to install the NVIDIA latest Jetpack on the NVIDIA Jetpack you can follow the guidelines suggested from Seeed Studio.
+[Install NVIDIA System based on Seeed Carrier Board](https://wiki.seeedstudio.com/install_NVIDIA_software_to_Jetson-10-1-A0/#flashing-to-emmc-with-command-line)
+
+First step, you need a SSD NVMe or you can use the [128GB NVMe M.2 PCle Gen3x4 SSD](https://www.seeedstudio.com/M-2-2280-SSD-128GB-p-5332.html) and you can plug like the picture below. Remember to find and screw a M1 to hold the memory. Usually this screw is not included when you buy a NVMe memory and the Seeed Sudio reComputer doesn't include extra screws.
+
 {% include figure image_path="/assets/review/reComputerJ1020/NVIDIAJetson-Nano-seeedstudio-carrier-SSD.jpg" alt="Install SSD card on Seeed Studio  Jetson Nano custom carrier" caption="Install SSD card on Seeed Studio  Jetson Nano custom carrier" %}
+
+Second stage you need to install on your Desktop the NVIDIA SDK Manager.
+
+**:warning: WARNING** The latest NVIDIA Jetpack for NVIDIA Jetson Nano need **Ubuntu 16.04 or 18.04** or x86 system.
+{: .notice--warning}
+
+{% include figure image_path="/assets/review/reComputerJ1020/installSSD.png" alt="Install Jetpack on SSD" caption="Install Jetpack on SSD" %}
+
+## Assemble rootfs
+
+Open the command line of your host machine and write:
+
+```
+tar xf ${L4T_RELEASE_PACKAGE}
+cd Linux_for_Tegra/rootfs/
+sudo tar xpf ../../${SAMPLE_FS_PACKAGE}
+cd ..
+sudo ./apply_binaries.sh
+```
+
+where:
+* `L4T_RELEASE_PACKAGE` is the Linux for Tegra folder
+* `SAMPLE_FS_PACKAGE` is the Tegra Linux sample root file system you downloaded from NVIDIA Jetpack website
+
+## Flash system on Jetson
+
+Now you need only to flash the NVIDIA Jetson Nano with SSD following the command below:
+
+```
+sudo ./flash.sh ${BOARD} mmcblk0p1
+```
+
+where `BOARD` is the board connected, for more info check [this document](https://wiki.seeedstudio.com/install_NVIDIA_software_to_Jetson-10-1-A0/#jump2).
+
+**:warning: WARNING** Remember to plug the carrier board in force recovery mode.
+{: .notice--warning}
+
+Example for the NVIDIA Jetson Nano devkit with emmc the command will be:
+
+```
+sudo ./flash.sh jetson-nano-devkit-emmc mmcblk0p1
+```
+
+After the script format and install the jetpack the NVIDIA jetson will be ready to use!
 
 # Reference
 
