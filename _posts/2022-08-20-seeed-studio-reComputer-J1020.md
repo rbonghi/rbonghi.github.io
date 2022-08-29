@@ -195,16 +195,22 @@ Here we are!
 
 Suppose you want to install the latest NVIDIA Jetpack on the Jetson Nano. In that case, you can follow the guidelines suggested by Seeed Studio, [Install NVIDIA System based on Seeed Carrier Board](https://wiki.seeedstudio.com/install_NVIDIA_software_to_Jetson-10-1-A0/#flashing-to-emmc-with-command-line).
 
-In the first step, you need an SSD NVMe, or you can use the [128GB NVMe M.2 PCle Gen3x4 SSD](https://www.seeedstudio.com/M-2-2280-SSD-128GB-p-5332.html) and plug it like the picture below. Remember to find and screw an M1 to hold the memory. Usually, this screw is not included when you buy an NVMe memory, and the Seeed Studio reComputer doesn’t include extra screws.
-
-{% include figure image_path="/assets/review/reComputerJ1020/NVIDIAJetson-Nano-seeedstudio-carrier-SSD.jpg" alt="Install SSD card on Seeed Studio  Jetson Nano custom carrier" caption="Install SSD card on Seeed Studio  Jetson Nano custom carrier" %}
-
-Second stage you need to install on your Desktop the NVIDIA SDK Manager.
+First stage you need to install on your Desktop the NVIDIA SDK Manager.
 
 **:warning: WARNING** The latest NVIDIA Jetpack for NVIDIA Jetson Nano need **Ubuntu 16.04 or 18.04** or x86 system.
 {: .notice--warning}
 
 {% include figure image_path="/assets/review/reComputerJ1020/installSSD.png" alt="Install Jetpack on SSD" caption="Install Jetpack on SSD" %}
+
+There are two way to install the NVIDIA Jetpack on NVIDIA Jetson Nano without SD card module:
+1. Use the SDK manager
+2.  Assemble rootfs and flash jetson from script
+
+For the first option, pretty simple and you can follow the SDK wizard, just remember to select the **NVIDIA Jetson Nano module**.
+
+{% include figure image_path="/assets/review/reComputerJ1020/SDKmanager-JetsonNano.jpg" alt="SDK manager select NVIDIA Jetson Nano" caption="SDK manager select NVIDIA Jetson Nano" %}
+
+Below you can follow another way to build your NVIDIA Jetson Nano image starting from binaries and sample files.
 
 ## Assemble rootfs
 
@@ -241,7 +247,59 @@ Example for the NVIDIA Jetson Nano devkit with emmc the command will be:
 sudo ./flash.sh jetson-nano-devkit-emmc mmcblk0p1
 ```
 
-After the script format and install the Jetpack, the NVIDIA jetson will be ready to use!
+After the script format and install the Jetpack, the NVIDIA jetson will be ready to use, but you need to update and upgrade all system.
+
+Follow the installation guide using an HDMI monitor and after update and upgrade the system using the commands below:
+
+```
+sudo apt update
+sudo apt full-upgrade
+```
+
+## Format and Install SD card
+
+**ℹ️ INFO** This Guide is part of the Seeed Studio documentation [Expansion Via M.2 Slot On Carrier Board And SSD](https://wiki.seeedstudio.com/reComputer_Jetson_Memory_Expansion/#expansion-via-m2-slot-on-carrier-board-and-ssd)
+{: .notice--primary}
+
+{% include figure image_path="/assets/review/reComputerJ1020/NVIDIAJetson-Nano-seeedstudio-carrier-SSD.jpg" alt="Install SSD card on Seeed Studio Jetson Nano custom carrier" caption="Install SSD card on Seeed Studio Jetson Nano custom carrier" %}
+
+You need an SSD NVMe, or you can use the [128GB NVMe M.2 PCle Gen3x4 SSD](https://www.seeedstudio.com/M-2-2280-SSD-128GB-p-5332.html) and plug it like the picture below. Remember to find and screw an M1 to hold the memory. Usually, this screw is not included when you buy an NVMe memory, and the Seeed Studio reComputer doesn’t include extra screws.
+
+{% include figure image_path="/assets/review/reComputerJ1020/TypeSSDcard.jpg" alt="The SSD needs to be M.2 M-Key" caption="The SSD needs to be M.2 M-Key" %}
+
+Restart your NVIDIA Jetson Nano and click the Ubuntu icon in the upper left corner to search for **Disks** a window appear, like the picture below:
+
+{% include figure image_path="/assets/review/reComputerJ1020/ssd-card-install.jpg" alt="Format SSD card from NVIDIA Jetson Nano" caption="Format SSD card from NVIDIA Jetson Nano" %}
+
+Now:
+1. select **Format Disk**
+2. Check is selected: "Compatible with modern systems and hard disks > 2TB (GPT)"
+3. Click on the middle **+** to add a disk character
+4. Create a new partition with max size as possible
+5. Volume Name: **SSD** and select **Internal disk for use with Linux systems only (Ext4)**
+
+{% include figure image_path="/assets/review/reComputerJ1020/ssd-format.png" alt="Format SSD card from NVIDIA Jetson Nano" caption="Format SSD card from NVIDIA Jetson Nano" %}
+
+After this stage, we can copy all MMC partition to the NVMe SSD card, open the NVIDIA Jetson Nano terminal and write:
+
+```
+git clone https://github.com/jetsonhacks/rootOnNVMe.git
+cd rootOnNVMe/
+```
+
+Then execute:
+
+```
+./copy-rootfs-ssd.sh
+```
+
+and finally complete the installation running the last script:
+
+```
+./setup-service.sh
+```
+
+When you restart reComputer, you will see that the eMMC has become an external storage device on the main interface.
 
 # Reference
 
