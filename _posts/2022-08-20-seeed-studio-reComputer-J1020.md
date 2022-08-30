@@ -9,7 +9,7 @@ header:
   actions:
     - label: Seeed Studio
       url: "https://www.seeedstudio.com"
-    - label: reComputer J1020 / J1020
+    - label: reComputer J1010 / J1020
       url: "https://www.seeedstudio.com/Jetson-10-1-H0-p-5335.html"
     - label: 128GB NVMe M.2 PCle Gen3x4 SSD
       url: "https://www.seeedstudio.com/M-2-2280-SSD-128GB-p-5332.html"
