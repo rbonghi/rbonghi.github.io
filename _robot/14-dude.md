@@ -5,6 +5,7 @@ permalink: /robot/dude
 redirect_from:
   - /dude/
   - /dude
+  - /2015/04/4ude-in-gazebo/
 toc: true
 toc_label: "Table of Contents"
 toc_icon: "cog"
