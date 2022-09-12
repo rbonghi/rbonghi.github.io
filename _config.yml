@@ -5,7 +5,8 @@ remote_theme: mmistakes/minimal-mistakes
 
 minimal_mistakes_skin: "air"
 
-title: "rnext"
+title: "rnext - Raffaello Bonghi"
+masthead_title: "rnext"
 subtitle: "Raffaello Bonghi"
 name: &name "Raffaello Bonghi"
 description: &description "Robotics, automation, and technology project. Welcome to rnext, Raffaello Bonghi personal website!"
