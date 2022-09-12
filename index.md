@@ -1,5 +1,6 @@
 ---
 layout: splash
+title: "rnext"
 excerpt: "I'm Raffaello Bonghi an Italian enthusiastic robotics engineer, born in the eternal city of 🛵 Rome."
 tagline: "Robotics & Automation<br/> <small>Welcome to <b>Raffaello Bonghi</b> website!</small>"
 header:
