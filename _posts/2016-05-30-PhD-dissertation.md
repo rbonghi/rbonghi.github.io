@@ -21,9 +21,9 @@ PhD:
 
 University of Rome "La Sapienza" - Italy **&** L2S, Supélec, Université Paris Sud XI - France
 
-**Thesis:** Non linear sampled-data for mobile robotics
-**Italian tutor:** Prof. Salvatore Monaco, DIAG, Sapienza
-**French tutor:** Prof. Dorothee Normand-Cyrot L2S, Supélec
+* **Thesis:** Non linear sampled-data for mobile robotics
+* **Italian tutor:** Prof. Salvatore Monaco, DIAG, Sapienza
+* **French tutor:** Prof. Dorothee Normand-Cyrot L2S, Supélec
 
 {% include download.html name="RaffaelloBonghi-PhDThesis.pdf" url="https://drive.google.com/file/d/1TNp8s2uOxqsOj7bFWZpiokMjhZxKKTDL/view?usp=sharing" %}
 
