@@ -18,6 +18,8 @@ tags:
 
 With my [Pizzarobotics](https://pizzarobotics.org) co-founder [Giovanni Di Dio Bruno](http://gbr1.github.io/) we deep dive on Edge Impulse and nanosaur using ROS2.
 
-Presentation:
+Presentations:
 
-{% include download.html name="RaffaelloBonghi-EdgeImpulse2022" url="https://docs.google.com/presentation/d/1ICZUcfQdx8OEVAzc0bBjAm2Wmxxen8CI1nriMn60VYw/edit?usp=sharing" %}
+{% include download.html name="GiovanniBruno-EdgeImpulse2022" url="https://drive.google.com/file/d/13WukEBBO3nxi6oF6ituhiHaYZim1WRS_/view?usp=sharing" %}
+
+{% include download.html name="RaffaelloBonghi-EdgeImpulse2022" url="https://drive.google.com/file/d/1z84qItln4Sp4s9e3jbyw5ofYruidigq-/view?usp=sharing" %}
