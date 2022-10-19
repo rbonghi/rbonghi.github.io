@@ -6,8 +6,8 @@ classes: wide
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: assets/posts/NVIDIA/2507994-enterprise-social-inception-robotics-webinar-fb-ig-2048x2048-opt-2.jpg
-  teaser: assets/posts/NVIDIA/2507994-enterprise-social-inception-robotics-webinar-fb-ig-2048x2048-opt-2.jpg
+  overlay_image: /assets/posts/NVIDIA/2507994-enterprise-social-inception-robotics-webinar-fb-ig-2048x2048-opt-2.jpg
+  teaser: /assets/posts/NVIDIA/2507994-enterprise-social-inception-robotics-webinar-fb-ig-2048x2048-opt-2.jpg
 categories:
   - Events
 tags:
