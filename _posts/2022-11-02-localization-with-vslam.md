@@ -20,9 +20,9 @@ tags:
   - Webinar
 ---
 
-**Date:** Monday, November 14, 2022
-**Time:** 16:00 - 17:00 CEST (8am - 9am PST)
-**Duration:** 1 hour
+* **Date:** Monday, November 14, 2022
+* **Time:** 16:00 - 17:00 CEST (8am - 9am PST)
+* **Duration:** 1 hour
 
 NVIDIA® Isaac ROS is a collection of hardware accelerated packages that make it easier for ROS 2 developers to build high-performance solutions on NVIDIA hardware. Isaac ROS provides individual packages (GEMs) and complete pipelines (NITROS) which include image processing and computer vision functionality that has been highly optimized for NVIDIA GPUs and Jetson platforms. 
 

@@ -17,9 +17,9 @@ tags:
   - Webinar
 ---
 
-**Date:** Wednesday, October 26, 2022
-**Time:** 10:00 - 12:30 CEST
-**Duration:** 2.5 hours
+* **Date:** Wednesday, October 26, 2022
+* **Time:** 10:00 - 12:30 CEST
+* **Duration:** 2.5 hours
 
 Robots are becoming more ubiquitous for daily life usage, from smart automation in manufacturing to robots in last-mile delivery for consumers. However, industrial and commercial robotics development can be complex, time consuming, immensely challenging, and expensive. Unstructured environments across many use cases and scenarios are also common.
 
