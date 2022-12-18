@@ -7,7 +7,7 @@ header:
 categories:
   - Events
 tags:
-  - Maker Faire
+  - King's College
 kings-college:
   - url: /assets/posts/2022-11-Kingscollege/20221118_164527.jpg
     image_path: "assets/posts/2022-11-Kingscollege/20221118_164527.jpg"
