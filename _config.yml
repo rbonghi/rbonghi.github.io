@@ -25,6 +25,9 @@ twitter:
 facebook:
   username: &facebook "raffaello.bonghi"
 
+discord:
+  id: 1060563771048861817
+
 social:
   links: # An array of links to social media profiles
     - "https://twitter.com/raffaello86"
