@@ -1,6 +1,6 @@
 ---
 title: "jetson-stats"
-excerpt: "📊 Simple package for monitoring and control your NVIDIA Jetson [Orin, Xavier, Nano, TX1, TX2] series"
+excerpt: "📊 Simple package for monitoring and control your NVIDIA Jetson [Orin, Xavier, Nano, TX] series"
 permalink: /project/jetson-stats/
 classes: wide
 number: 2018
@@ -21,7 +21,7 @@ header:
 
 [![PyPI - Downloads](https://img.shields.io/pypi/dw/jetson-stats.svg)](https://pypistats.org/packages/jetson-stats) [![PyPI version](https://badge.fury.io/py/jetson-stats.svg)](https://badge.fury.io/py/jetson-stats) [![PyPI - Python Version](https://img.shields.io/pypi/pyversions/jetson-stats.svg)](https://www.python.org/) [![PyPI - Format](https://img.shields.io/pypi/format/jetson-stats.svg)](https://pypi.org/project/jetson-stats/) [![GitHub](https://img.shields.io/github/license/rbonghi/jetson_stats)](/LICENSE) [![Docker Pulls](https://img.shields.io/docker/pulls/rbonghi/jetson_stats)](https://hub.docker.com/r/rbonghi/jetson_stats) [![CI & CD](https://github.com/rbonghi/jetson_stats/workflows/CI%20&%20CD/badge.svg)](https://github.com/rbonghi/jetson_stats/actions?query=workflow%3A%22CI+%26+CD%22)
 
-**jetson-stats** is a package for **monitoring** and **control** your [NVIDIA Jetson][NVIDIA Jetson] [Orin, Xavier, Nano, TX1, TX2] series. Works with all NVIDIA Jetson ecosystem.
+**jetson-stats** is a package for **monitoring** and **control** your [NVIDIA Jetson][NVIDIA Jetson] [Orin, Xavier, Nano, TX] series. Works with all NVIDIA Jetson ecosystem.
 
 ![jtop](https://github.com/rbonghi/jetson_stats/wiki/images/jtop.gif)
 
