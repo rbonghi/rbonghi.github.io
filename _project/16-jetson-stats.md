@@ -1,10 +1,10 @@
 ---
 title: "jetson-stats"
 excerpt: "📊 Simple package for monitoring and control your NVIDIA Jetson [Orin, Xavier, Nano, TX] series"
-permalink: /project/jetson-stats/
+permalink: /jetson-stats/
 classes: wide
 number: 2018
-link: https://github.com/rbonghi/jetson_stats
+# link: https://github.com/rbonghi/jetson_stats
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
