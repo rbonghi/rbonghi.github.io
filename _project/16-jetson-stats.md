@@ -10,7 +10,7 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.5"
   overlay_image: /assets/project/jetson-stats/jtop_header.png
-  teaser: /assets/project/jetson-stats/jtop.gif
+  teaser: https://github.com/rbonghi/jetson_stats/raw/master/docs/images/jtop.png
   actions:
     - label: ":sparkling_heart: Sponsor"
       url: "https://github.com/sponsors/rbonghi"
