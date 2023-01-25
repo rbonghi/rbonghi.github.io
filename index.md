@@ -31,7 +31,7 @@ feature_row:
     url: "https://rpanther.github.io/"
     btn_label: "Read More"
     btn_class: "btn--primary"
-  - image_path: https://github.com/rbonghi/jetson_stats/raw/master/docs/images/jtop.png
+  - image_path: https://github.com/rbonghi/jetson_stats/raw/master/docs/images/jtop.gif
     alt: "jetson-stats"
     title: "📊 jetson-stats"
     excerpt: "Simple package for monitoring and control your NVIDIA Jetson [Orin, Xavier, Nano, TX] series"
