@@ -2,14 +2,19 @@
 title: "NVIDIA Jetson meet-up Korea - Isaac ROS and vSlam"
 excerpt: "I am invited to present at NVIDIA Jetson meet-up in Korea"
 classes: wide
+link: https://festa.io/events/2920
 header:
-  teaser: /assets/posts/2023-korea-meetup/nvidia-jetson-korea-meetup.jpeg
+  teaser: /assets/posts/2016-japan-meetup/00-jetson-meetup.jpg
 categories:
   - Events
 tags:
   - Meet up
   - NVIDIA
 korea-meetup:
+  - url: /assets/posts/2016-japan-meetup/00-jetson-meetup.jpg
+    image_path: "assets/posts/2016-japan-meetup/00-jetson-meetup.jpg"
+    alt: "Jetson meet-up talk Korea sessions"
+    title: "Jetson meet-up talk Korea sessions"
   - url: /assets/posts/2023-korea-meetup/nvidia-jetson-korea-meetup.jpeg
     image_path: "assets/posts/2023-korea-meetup/nvidia-jetson-korea-meetup.jpeg"
     alt: "Jetson meet-up talk Korea sessions"
@@ -22,7 +27,7 @@ korea-meetup:
 
 January 26th, 2023
 
-I'm honored to be part of the NVIDIA Jetson Korea 🇰🇷 Meet-up. Thank you, Solee Moon, for inviting me to this beautiful community!
+I'm honored to be part of the NVIDIA [Jetson Korea 🇰🇷 Meet-up](https://festa.io/events/2920). Thank you, Solee Moon, for inviting me to this beautiful community!
 I will talk (translated) about Isaac ROS vSlam and how to use it in robotics applications!
 
 곧 뵙겠습니다 😃
