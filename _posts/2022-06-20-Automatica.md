@@ -8,7 +8,7 @@ header:
   overlay_image: /assets/posts/Automatica/Automatica.jpg
   teaser: /assets/posts/Automatica/Automatica.jpg
   actions:
-    - label: Automatica 2022"
+    - label: "Automatica 2022"
       url: "https://automatica-munich.com/en/"
 categories:
   - Events
