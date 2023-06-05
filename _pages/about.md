@@ -1,6 +1,6 @@
 ---
 title: Raffaello Bonghi, PhD
-excerpt: "_**[NVIDIA  - Developer Relations Manager - AI & Robotics](#experience)**_<br/>_**[Ph.D. in Automation Engineering](#education)**_"
+excerpt: "_**[NVIDIA  - Technical Marketing Engineer - AI & Robotics](#experience)**_<br/>_**[Ph.D. in Automation Engineering](#education)**_"
 permalink: /raffaello-bonghi/
 redirect_from:
   - /raffaello-bonghi/experience/
@@ -56,9 +56,26 @@ Below my professional 💼 [Experience](#experience), 👨‍🎓 [Education](#e
 
 For my full resume watch my profile on [LinkedIn](https://www.linkedin.com/in/raffaello-bonghi/){: .btn .btn--info .btn--large}
 
-## 2021 Mar - NOW - NVIDIA - Developer Relations Manager - AI & Robotics
+## 2021 Mar - NOW - NVIDIA
 **Website:** [NVIDIA](https://www.nvidia.com/)<br/>
 **Location:** Remote
+### 2022 Apr - NOW - Technical Marketing Engineer - AI & Robotics
+
+Tecnical support for companies, marketing and new NVIDIA products on robotics & AI
+
+* Webinars for NVIDIA Isaac ROS
+* NVIDIA Developer blog posts
+* Developing webinar for NVIDIA Isaac ROS and Isaac SIM
+  * Be an Isaac ROS DevOps Hero with Containerized Development
+  * Pinpoint, 250 fps, ROS 2 Localization with vSLAM on Jetson
+  * The NVIDIA Isaac Platform for the Robotics Industry
+  * Migrating ROS-Based robot simulations from Ignition Gazebo to NVIDIA Isaac SIM
+* Support the Developer community to use Isaac ROS packages
+
+### 2021 Mar - 2022 Apr - Developer Relations Manager - AI & Robotics
+
+* I worked with many start-ups in EMEA and USA, supporting from technical and business aspects
+* Testing new capabilities on Isaac ROS 
 
 ## 2019 Sep - 2021 Mar - ARM - AI Technology Engineer
 **Website:** [ARM](https://www.arm.com/)<br/>
