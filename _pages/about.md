@@ -63,7 +63,6 @@ For my full resume watch my profile on [LinkedIn](https://www.linkedin.com/in/ra
 
 Tecnical support for companies, marketing and new NVIDIA products on robotics & AI
 
-* Webinars for NVIDIA Isaac ROS
 * NVIDIA Developer blog posts
 * Developing webinar for NVIDIA Isaac ROS and Isaac SIM
   * Be an Isaac ROS DevOps Hero with Containerized Development
