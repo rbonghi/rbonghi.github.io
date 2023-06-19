@@ -1,6 +1,6 @@
 ---
 title: "Hook kitchen bag"
-excerpt: "A little stand to block your ZED camera in your robot, drone. To build this stand is required a 3D printer, a photographic screw, and if you want a spray."
+excerpt: "This practical hook provides a solution for those who need to store small bags in their kitchen cabinets without having to drill any screws."
 permalink: /project/hook-kitchen-bag/
 classes: wide
 number: 2023
