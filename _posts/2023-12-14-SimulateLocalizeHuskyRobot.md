@@ -9,6 +9,7 @@ categories:
   - Publications
 tags:
   - Blog
+  - NVIDIA
 ---
 
 The Husky robot, developed by Clearpath Robotics, is a versatile four-wheeled platform made for indoor and outdoor research use. It is simple to modify by adding other sensors and changing the high-level board. This post explains how to use the official ROS 2 Husky packages to import the robot into NVIDIA Isaac Sim and create a simulation.
