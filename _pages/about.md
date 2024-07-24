@@ -61,20 +61,26 @@ For my full resume watch my profile on [LinkedIn](https://www.linkedin.com/in/ra
 **Location:** Remote
 ### 2022 Apr - NOW - Technical Marketing Engineer - AI & Robotics
 
-Tecnical support for companies, marketing and new NVIDIA products on robotics & AI
+Technical support for companies, marketing and new NVIDIA products on robotics & AI
 
-* NVIDIA Developer blog posts
+* Support the Developer community to use Isaac ROS packages
+  * Managing and active support all developers on the [NVIDIA Isaac ROS forum](https://forums.developer.nvidia.com/c/agx-autonomous-machines/isaac/isaac-ros/600)
+  * Managin and drive the [NVIDIA Isaac ROS Office Hours](https://www.youtube.com/playlist?list=PL3jK4xNnlCVePQFJ9zVOvMofngfK49xki)
+  * [NVIDIA Developer blog posts](https://developer.nvidia.com/blog/author/raffaellobonghi/)
+    * [Benchmarking Camera Performance on Your Workstation with NVIDIA Isaac Sim](https://developer.nvidia.com/blog/benchmarking-camera-performance-on-your-workstation-with-nvidia-isaac-sim/)
+    * [Simulate and Localize a Husky Robot with NVIDIA Isaac](https://developer.nvidia.com/blog/simulate-and-localize-a-husky-robot-with-nvidia-isaac/)
+    * [Design Your Robot on Hardware-in-the-Loop with NVIDIA Jetson](https://developer.nvidia.com/blog/design-your-robot-on-hardware-in-the-loop-with-nvidia-jetson/)
+    * [Designing Robots with NVIDIA Isaac GEMs for ROS](https://developer.nvidia.com/blog/designing-robots-with-isaac-gems-for-ros/)
 * Developing webinar for NVIDIA Isaac ROS and Isaac SIM
   * Be an Isaac ROS DevOps Hero with Containerized Development
   * Pinpoint, 250 fps, ROS 2 Localization with vSLAM on Jetson
   * The NVIDIA Isaac Platform for the Robotics Industry
   * Migrating ROS-Based robot simulations from Ignition Gazebo to NVIDIA Isaac SIM
-* Support the Developer community to use Isaac ROS packages
 
 ### 2021 Mar - 2022 Apr - Developer Relations Manager - AI & Robotics
 
 * I worked with many start-ups in EMEA and USA, supporting from technical and business aspects
-* Testing new capabilities on Isaac ROS 
+* Testing new capabilities on Isaac ROS
 
 ## 2019 Sep - 2021 Mar - ARM - AI Technology Engineer
 **Website:** [ARM](https://www.arm.com/)<br/>
