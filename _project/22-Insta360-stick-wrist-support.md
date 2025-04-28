@@ -4,7 +4,7 @@ excerpt: "This simple model simplify your life when you want to use your Insta36
 permalink: /project/Insta360-stick-wrist-support/
 classes: wide
 number: 2023
-link: https://cults3d.com/en/3d-model/gadget/insta360-stick-wrist-support
+link: https://makerworld.com/en/models/754438-insta360-stick-wrist-support
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
@@ -13,6 +13,8 @@ header:
   actions:
     - label: "cults3d"
       url: "https://cults3d.com/en/3d-model/gadget/insta360-stick-wrist-support"
+    - label: "MakerWorld"
+      url: "https://makerworld.com/en/models/754438-insta360-stick-wrist-support"
 insta360-stick-wrist:
   - url: /assets/project/Insta360-stick-wrist-support/01-insta360-stick-wrist-parts.jpg
     image_path: /assets/project/Insta360-stick-wrist-support/01-insta360-stick-wrist-parts.jpg

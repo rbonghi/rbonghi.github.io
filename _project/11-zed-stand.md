@@ -4,7 +4,7 @@ excerpt: "A little stand to block your ZED camera in your robot, drone. To build
 permalink: /project/zed-stand/
 classes: wide
 number: 2016
-link: https://grabcad.com/library/zed-stand-1
+link: https://makerworld.com/en/models/752125-zed-stand
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
@@ -15,6 +15,8 @@ header:
       url: "https://grabcad.com/library/zed-stand-1"
     - label: "Thingverse"
       url: "https://www.thingiverse.com/thing:3208903"
+    - label: "MakerWorld"
+      url: "https://makerworld.com/en/models/752125-zed-stand"
 zed-stand:
   - url: /assets/project/zed-stand/zed-stand_7.jpg
     image_path: /assets/project/zed-stand/zed-stand_7.jpg
