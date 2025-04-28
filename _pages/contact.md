@@ -27,7 +27,7 @@ For personal collaborations, my email is:
 # Social
 
 Follow my channels:
-* Twitter: [@raffaello86](https://twitter.com/raffaello86)
+
 * LinkedIn: [raffaello-bonghi](https://www.linkedin.com/in/raffaello-bonghi/)
 * Github: [@rbonghi](https://github.com/rbonghi)
 * YouTube: [RaffaelloBonghi](https://www.youtube.com/RaffaelloBonghi)

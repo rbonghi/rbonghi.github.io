@@ -19,9 +19,6 @@ search_full_content: true
 
 github: [metadata]
 
-twitter:
-  username: &twitter "raffaello86"
-
 facebook:
   username: &facebook "raffaello.bonghi"
 
@@ -30,7 +27,6 @@ discord:
 
 social:
   links: # An array of links to social media profiles
-    - "https://twitter.com/raffaello86"
     - "https://instagram.com/robo.panther"
 
 analytics:
@@ -50,9 +46,6 @@ author:
   bio         : "I'm really into robotics and AI. In my free time, I enjoy working on robotics projects. I have a Ph.D. in Robotics and work as an automation engineer."
   avatar      : "/assets/images/raffaello.jpg"
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/raffaello86"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/raffaello-bonghi/"
@@ -71,16 +64,10 @@ author:
     - label: "Personal"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:raffaello@rnext.it"
-    - label: "NVIDIA"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:rbonghi@nvidia.com"
 
 # Site Footer
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/raffaello86"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/raffaello-bonghi/"
@@ -122,6 +109,9 @@ collections:
   robot:
     output: true
     permalink: /:collection/:path/
+  sport:
+    output: true
+    permalink: /:collection/:path/
   project:
     output: true
     permalink: /:collection/:path/
@@ -144,6 +134,15 @@ defaults:
   - scope:
       path: ""
       type: robot
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      read_time: true
+  # _sport
+  - scope:
+      path: ""
+      type: sport
     values:
       layout: single
       author_profile: true

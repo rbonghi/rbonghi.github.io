@@ -3,6 +3,8 @@ main:
     url: /raffaello-bonghi/
   - title: "Robots"
     url: /robot/
+  - title: "Sport"
+    url: /sport/
   - title: "Projects"
     url: /project/
   - title: "Reviews"

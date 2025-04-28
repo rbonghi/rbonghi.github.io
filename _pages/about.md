@@ -41,14 +41,14 @@ For a youth robotics club, I created a [minisumo](/publications/robot-minisumo/)
 
 As my robot-building skills developed and my university studies were enhancement me, I sought out to share all my knowledge online, making new [**robots**](/robot/) such as:
 
- * 🦕 [nanosaur](https://nanosaur.ai/)
- * 🐆 [Panther](https://rpanther.github.io/)
+* 🦕 [nanosaur](https://nanosaur.ai/)
+* 🐆 [Panther](https://rpanther.github.io/)
 
 During my last years I made [**open-source projects**](/project/), below the most popular:
 
- * 📊 [jetson-stats](https://github.com/rbonghi/jetson_stats) - [ros-jetson-stats](https://github.com/rbonghi/ros_jetson_stats)
- * ⚙️ [roboteq-control](https://github.com/rbonghi/roboteq_control)
- * 🔩 [jetson-easy](https://github.com/rbonghi/jetson_easy)
+* 📊 [jetson-stats](https://github.com/rbonghi/jetson_stats) - [ros-jetson-stats](https://github.com/rbonghi/ros_jetson_stats)
+* ⚙️ [roboteq-control](https://github.com/rbonghi/roboteq_control)
+* 🔩 [jetson-easy](https://github.com/rbonghi/jetson_easy)
 
 Below my professional 💼 [Experience](#experience), 👨‍🎓 [Education](#education), 🏆 [Awards](#awards) and my [Volunteering](#volunteering).
 
@@ -57,8 +57,10 @@ Below my professional 💼 [Experience](#experience), 👨‍🎓 [Education](#e
 For my full resume watch my profile on [LinkedIn](https://www.linkedin.com/in/raffaello-bonghi/){: .btn .btn--info .btn--large}
 
 ## 2021 Mar - NOW - NVIDIA
+
 **Website:** [NVIDIA](https://www.nvidia.com/)<br/>
 **Location:** Remote
+
 ### 2022 Apr - NOW - Technical Marketing Engineer - AI & Robotics
 
 Technical support for companies, marketing and new NVIDIA products on robotics & AI
@@ -83,6 +85,7 @@ Technical support for companies, marketing and new NVIDIA products on robotics &
 * Testing new capabilities on Isaac ROS
 
 ## 2019 Sep - 2021 Mar - ARM - AI Technology Engineer
+
 **Website:** [ARM](https://www.arm.com/)<br/>
 **Location:** Manchester, UK
 
@@ -90,25 +93,33 @@ Technical support for companies, marketing and new NVIDIA products on robotics &
 * 3D localization using different technologies (Active and Passive Stereocameras, cams, lidars)
 
 ## 2017 Mar -2019 Sep - NTT Data Italia
+
 **Website:** [NTT Data Italia](https://it.nttdata.com/)
+
 ### 2018 Oct - 2019 Sep - AI Engineer
+
 **Location:** Milan, Italy
 
 Design a crawler to autonomous recognize technologies from text in Social media and Websites
+
 * Use and Train NLP or NER to recognize sentences from text
 * Develop on Docker a service environment
 
 ### 2017 Sep - 2018 Sep - Robotics engineer
+
 **Location:** Tokyo, Japan
 
 Center of excellence project for connected vehicles robotics and AI<br/>
 Highlights:
+
 * Design and setup autonomous vehicles
 * ROS integration and application with Autoware
 * Develop robotic services in automotive environments
 
 ### 2017 Mar - 2017 Sep - IoT and Robotics Engineer
+
 **Location:** Rome, Italy *for* DICT laboratory for ENEL SpA
+
 * IoT research and scouting products in domestic and industrial environments
 * IoT analysis and design for new products
 * Control theory and cost optimization
@@ -116,6 +127,7 @@ Highlights:
 # Education
 
 ## 2012-2016 - PhD in Automation
+
 University of Rome "La Sapienza" - Italy **&** L2S, Supélec, Université Paris Sud XI - France
 
 **Thesis:** Non linear sampled-data for mobile robotics <br/>
@@ -125,6 +137,7 @@ University of Rome "La Sapienza" - Italy **&** L2S, Supélec, Université Pari
 {% include download.html name="RaffaelloBonghi-PhDThesis.pdf" url="https://drive.google.com/file/d/1TNp8s2uOxqsOj7bFWZpiokMjhZxKKTDL/view?usp=sharing" %}
 
 ## 2009-2012 - MSc in System and Control Engineering
+
 University of Rome "La Sapienza"
 
 **Thesis:** An autonomous mobile platform in an "Augmented reality" environment <br/>
@@ -134,6 +147,7 @@ University of Rome "La Sapienza"
 {% include download.html name="RaffaelloBonghi-MasterThesis.pdf" url="https://drive.google.com/file/d/1H0ccsGpOpcry1UA5jGtlmFmLlzJjmiXd/view?usp=sharing" %}
 
 ## 2006-2009 - BSc in Automation and System Engineering
+
 University of Rome, "La Sapienza"
 
 **Thesis:** Design and Realization of an autonomous mobile platform <br/>
@@ -151,6 +165,7 @@ In this section the latest awards I received, for a full list open the 🏆 [awa
 # Volunteering
 
 ### Co-Founder - :pizza: Pizzarobotics
+
 * **Date:** 2021 - NOW
 * **Website:** [pizzarobotics.org](https://pizzarobotics.org/)
 
@@ -159,26 +174,31 @@ We are Italian Makers. We make Robots. In Pizza we crust
 Collective of professionals and high-level enthusiasts roboticist.
 
 ### Co-Founder & Vice president - Officine Robotiche
+
 * **Date:** 2015 - 2021
 * **Website:** [officinerobotiche.it](https://www.officinerobotiche.it)
 
 Officine Robotiche is a No-Profit Association promoting knowledge in the area of robotics, new technologies, and digital manufacturing.
 
 ### Member of IEEE
-* **Date:** 2008 - NOW
+
+* **Date:** 2008 - 2022
 * **Website:** [ieee.org](https://www.ieee.org/)
 
 The Institute of Electrical and Electronics Engineers is a 501 professional association for electronic engineering.
+
 * [IEEE RAS member](https://www.ieee-ras.org/)
 * [IEEE CSS member](http://ieeecss.org/)
 
 ### Founder minisumo.net
+
 * **Date:**  2003 - NOW
 * **Website:** [minisumo.net](https://minisumo.net)
 
 Official Italian website for minisumo and sumo competitions
 
 ### Founder Soloingegneria.com
+
 * **Date:**  2006 - 2012
 * **Website:** soloingegneria.com (discontinued)
 

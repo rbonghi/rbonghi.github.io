@@ -1,8 +1,7 @@
-version: '3'
 
 services:
   site:
-    image: jekyll/jekyll:3.8
+    image: jekyll/jekyll
     command: rake serve
     network_mode: host
     volumes:
